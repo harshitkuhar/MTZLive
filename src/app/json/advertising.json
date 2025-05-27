@@ -1,0 +1,410 @@
+[
+    {
+        "id" : 1,
+        "meta_title": "Get Expert PPC Management Services | PPC Services India",
+        "meta_description" : "Get Professional PPC management services tailored for your business. Drive more sales and revenue with best PPC Services India. Get Free Quote",
+        "meta_keywords" : "Google Ads Services,Google ads services in India",
+        "meta_og_title" : "Google Ads Services | MEDIATRENZ",
+        "meta_og_description" : "We help highly eager buyers find your website by google ads services. we monitor your Google Ads account for targeting keywords that will drive consumers to your website.",
+        "meta_og_image" : "",
+        "meta_og_url" : "",
+        "slug" : "/google-ads-services.php",
+        "page_title" : "PPC Management Services",
+        "banner_image_url" : "/images2/google-ads-banner.webp",
+        "breadcrums" : "Google ads Service",
+        "image_first_url" : "images2/googleadsimg1.webp",
+        "heading_first" : "Let Google Ads Experts make your paid marketing campaigns successful",
+        "paragraph_first" : "<p>At MeditaTrenz, we supervise your Google Ads account, targeting the keywords that will drive consumers to your website. Highly determined keyword research will conclude the most lucrative approach to obtaining clients searching for exactly what you offer. We will expand effective paid search campaigns determined on meeting your target cost per sale or else lead, utilizing influential research tools along with industry knowledge. By investing in Google Ads, you will assist highly eager buyers discover your website who wouldn't essentially discover it through traditional search engine optimization methods. The mixture of our in-house team, along with our familiarity, makes us the leading Google AdWords corporation you want to work with.</p> <p>Our aim is to turn each dollar you spend into multiple dollars of profit - creating a sustainable, effectual campaign.</p>",
+        "third_banner_image_url": "images2/seoser-parallax-bg.webp",
+        "heading_third" : "What is Google AdWords?",
+        "third_paragraph" : "<p>Are you conscious of some catchphrases such as PPC (pay per click), paid marketing, Google AdWords, CPC, bids? Google AdWords is a paid marketing provided by Google. Ecommerce trades utilize this platform to publicize their product along with services on Google search result pages, gmails, YouTube along with other websites participated in Google AdWords program.</p> <p>When individuals observe Ads (impressions) as well as click to land to an exacting product or else service page, advertisers pay for each click (cost per click) for obtaining visits on their webpage in such method. The whole AdWords appear to work like an public sale where advertisers contend for the top positions of their Ads.</p>",
+        "fourth_title" : "Why Google AdWords?",
+        "image_forth_url" :"/images2/googleimg4.webp",
+        "fourth_bullets" : "<li> <i class='fi fi-bs-check-circle'></i> Endorse your business exterior of Google search like other Google products, partner websites as well as display networks as well</li> <li><i class='fi fi-bs-check-circle'></i> Twist advertisements anytime to reach precise group of individuals or endorse a product or else service </li> <li><i class='fi fi-bs-check-circle'></i> Straight away after making an advertising campaign, you start getting targeted traffic in smallest time extent</li> <li> <i class='fi fi-bs-check-circle'></i> Target several keywords at a time</li> <li> <i class='fi fi-bs-check-circle'></i> You can place your Ads in top faster utilizing definite conditions</li> <li><i class='fi fi-bs-check-circle'></i> No minimum spending limit for Ads, prefer and edit your funds anytime you want</li> <li> <i class='fi fi-bs-check-circle'></i> You can edit keywords, Ads, Ad Groups, accounts anytime and view the changes within minutes</li> <li> <i class='fi fi-bs-check-circle'></i> Simple to compute Returns on Investments and can modify your budget consequently</li> ",
+        "packages_heading" : "Our PPC Packages",
+        "packages_subheading" : "HIGH QUALITY PPC ADS SOLUTIONS FOR BUSINESSES",
+        "packages":         
+            [
+                {
+                    "num":"01",
+                    "packagename":"PPC Sliver",
+                    "packageprice":"$249",
+                    "link":"ppc-packages.php"
+                },
+                {
+                    "num":"02",
+                    "packagename":"PPC Gold",
+                    "packageprice":"$449",
+                    "link":"ppc-packages.php"
+                },
+                {
+                    "num":"03",
+                    "packagename":"PPC Platinum",
+                    "packageprice":"$649",
+                    "link":"ppc-packages.php"
+                }
+            
+            ],
+
+            "package_heading": "Our Range of Google Ads Services",
+            "package_para": "",
+            "package_cont": [
+            {
+                "num": "01",
+                "packagelogo": " <i class='fi fi-ts-search-alt'></i>",
+                "packagename": "Keyword Research for a Solid Groundwork",
+                "packagedesc": "Determining the keyword to bid on is the groundwork of a victorious campaign. We will research keywords along with the costs to establish which keywords have the latent to offer the finest ROI."
+               
+            },
+            {
+                "num": "02",
+                "packagelogo": "<i class='fi fi-ts-analyse-alt'></i>",
+                "packagename": "Competitor Campaign Analysis",
+                "packagedesc": "Realizing how your contestants are running their Google Ads campaign can be an enormous advantage We will provide you insight into their bids, spend and landing pages."
+            },
+            {
+                "num": "03",
+                "packagelogo": "<i class='fi fi-tr-ad-paid'></i>",
+                "packagename": "Campaign Creation & Ad Copy Creation",
+                "packagedesc": "We will set up your Ads operation, make ad copy and organize all settings. Numerous ad variations will be created and customized to accomplish the highest conversion rates probable."
+            },
+            {
+                "num": "04",
+                "packagelogo": "<i class='fi fi-tr-customize-computer'></i>",
+                "packagename": "Landing Page Design & Development",
+                "packagedesc": "With a full internal design and development team, we can direct you in the accurate direction and implement highly converting landing pages."
+            },
+            {
+                "num": "05",
+                "packagelogo": "<i class='fi fi-tr-newspaper'></i>",
+                "packagename": "Comprehensive Reporting and Monthly Meeting",
+                "packagedesc": "Each month we will offer you with a comprehensive report of what was done and what the graph is for the coming month. We will also plan a review call with our team along with yours."
+            }
+       
+        ],
+        "services" : [
+            {
+                "num":"01",
+                "link": "facebook-ads-services.php",
+                "servicename": "Facebook Ads SERVICE",
+                "servicedesc": "Our social media experts use Facebook PPC advertising to take your small business internet marketing to the next level.",
+                "serviceicon": "<i class='fi fi-sr-square-f'></i>"
+            },
+            {
+                "num":"02",
+                "link": "linkedin-ads-services.php",
+                "servicename": "Linkedin Ads SERVICE",
+                "servicedesc": "LinkedIn advertising involves targeting business users. LinkedIn is a professional network and through its various ad types...",
+                "serviceicon": "<i class='fi fi-brands-linkedin'></i>"
+            },
+             {
+                "num":"03",
+                "link": "quora-ads-services.php",
+                "servicename": "Quora Ads SERVICE",
+                "servicedesc": "Quora is today the top-most question & answer forum on the Internet, which relies on community contributions...",
+                "serviceicon": "<i class='fi fi-sr-square-q'></i>"
+            }
+           
+        ]
+        
+    },
+    {
+        "id" : 2,
+        "meta_title": "Facebook Ads Services | MEDIATRENZ",
+        "meta_description" : "MEDIATRENZ provides Facebook advertising services that help your business get the most out of Fb ads. We provide solutions for Facebook advertising for your business.",
+        "meta_keywords" : "Facebook Ads Services,FB ads service provider in India",
+        "meta_og_title": "Facebook Ads Services | MEDIATRENZ",
+        "meta_og_description" : "MEDIATRENZ provides Facebook advertising services that help your business get the most out of Fb ads. We provide solutions for Facebook advertising for your business.",
+        "meta_og_image" : "",
+        "meta_og_url" :  "",
+        "slug" : "/facebook-ads-services.php",
+        "page_title" : "Facebook Ads Service",
+        "banner_image_url" : "/images2/facebook-marketing-banner.webp",
+        "breadcrums" : "Facebook ads Service",
+        "image_first_url" : "images2/fbadsimg1.webp",
+        "heading_first" : "Experienced and Reliable Facebook advertising services",
+        "paragraph_first" : "<p>Facebook advertising services assist your business erect its online following, boost its brand consciousness, and develop its lead generation as well as revenue-driving efforts with the world’s major social media network.</p> <p> With Facebook’s gigantic audience, as well as superior targeting alternatives and varied ad types, it’s a must-use advertising channel for companies that want to produce.</p> <p>At MEDIATRENZ, we provide Facebook ad management services that assist your business take complete benefit of Facebook. From creating your tactic and ad creative’s to launching your ads and monitoring their performance, we offer an all-in-one solution to Facebook advertising.</p>",
+        "third_banner_image_url": "images2/seoser-parallax-bg.webp",
+        "heading_third" : "Why use Facebook advertising services?",
+        "third_paragraph" : "<p>Advertising on Facebook provides numerous perks:</p>",
+        "third_bullets" : "<ul class='bullet-style2 half'> <li>  <i class='fi fi-bs-check-circle'></i> Access the major  social media networks</li> <li>  <i class='fi fi-bs-check-circle'></i> Get cut-throat cost-per-click (CPC) rates </li> <li>  <i class='fi fi-bs-check-circle'></i> Create hyper-targeted ads to arrive at your target audience</li> <li>  <i class='fi fi-bs-check-circle'></i> Earn competent leads for an average cost-per-lead <br/> (CPL)</li> <li>  <i class='fi fi-bs-check-circle'></i> Attain one thousand individuals in your target audience</li><li>  <i class='fi fi-bs-check-circle'></i> Direct valuable traffic from social media to your business website</li></ul>",
+        "third_paragraph_end" : "<p>As your Facebook ad services provider, MEDIATRENZ offers tactical solutions to convey effectual messaging to users who will be the most amenable to it — possible customers in your audience! We will work with you to describe your audiences and discover the best approach to reach those individuals.</p> <p>With us, your business will accomplish its most striving goals for social media. Our social media experts will work directly with you throughout the creating, targeting, as well as monitoring procedures to ensure we are meeting your requires every step of the method. As a Facebook Marketing Partner, we know how to promote on Facebook.</p> <p>Our team of knowledgeable Facebook Ad Management Specialists work across Facebook, Instagram, Messenger and other social media Network to discover your target audience and show them killer creative to convey the growth you know your business is competent of. Discover how we can develop your business with Facebook Ads management services with a free digital marketing review.</p> <p>Our CPA-focused method means that everything about your campaign is geared to generating you the maximum return on your ad spend. Our Facebook Ads Management squad specialise in the platform, so they recognize what works. And our in-house Team recognizes what type of creative is required to create scroll-stopping ads that convert.</p> <p>But we also distinguish that a well-run ad campaign is only as good as the landing pages its driving traffic to, which is why we are scrupulous about what’s happening after the click.</p> <p>So whether you are an eCommerce brand searching to discover novel audiences grow your reach as well as make sales, or else a service business wanting to make leads, our Ninjas will build and operate a Facebook Ads campaign determined on delivering your sales targets.</p>",
+        "fourth_title" : "How We Do Facebook Ads Management",
+        "fourth_paragraph" : "<p>Our method to Facebook Ads management begins with the faith that no two businesses are the same. Realizing the nuances, key messages and the exacting audiences for a product or else service is fundamental to making sure that the ads don’t just get clicks, but the right clicks to turn into conversions.</p> <br><p>Our team can handle as much of the procedure as you require. With our in-house Design and Development Teams, we are completely set up to handle landing pages, website changes along with creative. This offers you peace of mind, knowing that we will be viewing the complete conversion funnel, rather than just focusing on driving traffic as well as washing our hands of what happens after that.</p>",
+        "image_forth_url" :"/images2/fbadsimg4.webp",
+        "packages_heading" : "Our SMO ADS Packages",
+        "packages_subheading" : "HIGH QUALITY SMO ADS SOLUTIONS FOR BUSINESSES",
+        "packages":         
+            [
+                {
+                    "num":"01",
+                    "packagename":"SMO Sliver",
+                    "packageprice":"$280",
+                    "link":"smo-packages.php"
+                },
+                {
+                    "num":"02",
+                    "packagename":"SMO Gold",
+                    "packageprice":"$480",
+                    "link":"smo-packages.php"
+                },
+                {
+                    "num":"03",
+                    "packagename":"SMO Platinum",
+                    "packageprice":"$780",
+                    "link":"smo-packages.php"
+                },
+                {
+                    "num":"04",
+                    "packagename":"SMO Diamond",
+                    "packageprice":"$1180",
+                    "link":"smo-packages.php"
+                }
+            
+            ],
+
+            
+        "services" : [
+            {
+                "num":"01",
+                "link": "facebook-ads-services.php",
+                "servicename": "Facebook Ads SERVICE",
+                "servicedesc": "Our social media experts use Facebook PPC advertising to take your small business internet marketing to the next level.",
+                "serviceicon": "<i class='fi fi-sr-square-f'></i>"
+            },
+            {
+                "num":"02",
+                "link": "linkedin-ads-services.php",
+                "servicename": "Linkedin Ads SERVICE",
+                "servicedesc": "LinkedIn advertising involves targeting business users. LinkedIn is a professional network and through its various ad types...",
+                "serviceicon": "<i class='fi fi-brands-linkedin'></i>"
+            },
+             {
+                "num":"03",
+                "link": "quora-ads-services.php",
+                "servicename": "Quora Ads SERVICE",
+                "servicedesc": "Quora is today the top-most question & answer forum on the Internet, which relies on community contributions...",
+                "serviceicon": "<i class='fi fi-sr-square-q'></i>"
+            }
+           
+        ]
+        
+    },
+    {
+        "id" : 3,
+        "meta_title": "Linkedin Ads Services | MEDIATRENZ",
+        "meta_description" : "Our LinkedIn advertising team keeps up with the latest algorithmic revisions as well as LinkedIn news so we can provide the best marketing results for your business.",
+        "meta_keywords" : "Linkedin Ads Services,Linkedin paid ads services",
+        "meta_og_title" : "Linkedin Ads Services | MEDIATRENZ",
+        "meta_og_description" : "Our LinkedIn advertising team keeps up with the latest algorithmic revisions as well as LinkedIn news so we can provide the best marketing results for your business.",   
+        "meta_og_image" : "",
+        "meta_og_url" : "",
+        "slug" : "/linkedin-ads-services.php",
+        "page_title" : "LinkedIn Ads Service",
+        "banner_image_url" : "/images2/linkedin-marketing-banner.webp",
+        "breadcrums" : "Linkedin ads Service",
+        "image_first_url" : "images2/liadsimg1.webp",
+        "heading_first" : "Turn LinkedIn to a targeted lead generation machine with Ad Services",
+        "paragraph_first" : "<p>With more than fifty percent of its user base possessing a college degree, you should deem implementing LinkedIn advertising services. If you are looking to target consumers by profession, skills, industry, or else professional interests to exploit the power of this expert platform, there is no better media than LinkedIn.</p><p>Our LinkedIn advertising team stays advanced with latest algorithm modifications as well as LinkedIn news, so we can offer your business with the finest marketing consequences possible. Our expertise on LinkedIn's ad campaign manager and our aptitude to strategically select among the platform's broad variety of ad formatting and targeting capabilities allows us to make the ideal results for your trade.</p> <p>Our team closely observes the ad campaign presentation and creates adjustments all through its run to accomplish the consequences that sustain your overall goals. Following the ending of each campaign, we analyze outcomes and insights and use them to optimize the campaign. </p>",
+        "paragraph_full" : "<p>We recognize the significance of utilizing budgets capably, so you can anticipate clear communication from our end from begin to finish. Rest assured that each step of the procedure we will always make sure we are utilizing your resources capably and productively to assist accomplish the objectives you need most.</p>",
+        "third_banner_image_url": "images2/seoser-parallax-bg.webp",
+        "heading_third" : "How Our LinkedIn Marketing Service Works",
+        "third_paragraph" : "<h4 class='text-white paragraph'>LinkedIn Ad Strategy</h4> <p>LinkedIn serves as an excellent platform to connect and network with a diverse B2B audience from across the world. While most social media ads succeed on the basis of strong visuals, relevancy, and emotiveness, online advertising on LinkedIn is a slightly different ball game. Your LinkedIn ads should be convincing to the hard-to-reach business audiences with targeted messaging. Because LinkedIn allows you to connect with key decision-makers, you have the golden opportunity to get noticed by people who matter the most through well-crafted ad campaigns.</p>  <h4 class='text-white paragraph'>Sponsored Content</h4> <p>LinkedIn has a diversity of advertising alternatives accessible, but we spotlight our efforts on those that are most effectual—Sponsored Updates and Direct Sponsored content. Utilizing LinkedIn’s active targeting capabilities, we set up ad campaigns that get you in front of possible customers with a accuracy that cannot be discovered in any other B2B channel. Our specialist team gets as granular as probable when it comes to determining which trade demographics and LinkedIn groups to target. We then utilize these campaigns to endorse blog posts, ebooks, guides, as well as other offers. We also make customized, receptive landing pages to create leads for asset downloads and other offers.</p> <h4 class='text-white paragraph'>Sponsored InMail</h4> <p>LinkedIn permits you to send tailored email messages to your target spectators through Sponsored InMail. SponsoredIn Mail is a huge method to boost signups for an upcoming webinar or else event or endorse content assets to outlooks. What actually makes Sponsored InMail more effectual than an email blast is that it will be sent only to outlooks active on LinkedIn thus boosting the click-through rates as well as driving conversions? Our content marketing team trades engaging emails that detain the attention of scenes through unique subject lines, thought leadership content and crunchy presentation across all machines.</p>",
+        "fifth_title" : "Advantages of utilizing LinkedIn advertising",
+        "fifth_paragraph" : "<p>Advertising on LinkedIn is diverse from each other social network. LinkedIn is a proficient social network where users share their experience, job label, skills, attentions, and learning – all to an advertiser’s advantage if your listeners targeting matching these alternatives.est way to target your marketing on this network, giving you better results as you reach out to a new audience.</p>",
+        "packages_heading" : "Our SMO ADS Packages",
+        "packages_subheading" : "HIGH QUALITY SMO ADS SOLUTIONS FOR BUSINESSES",
+        "packages":         
+            [
+                {
+                    "num":"01",
+                    "packagename":"SMO Sliver",
+                    "packageprice":"$280",
+                    "link":"ppc-packages.php"
+                },
+                {
+                    "num":"02",
+                    "packagename":"SMO Gold",
+                    "packageprice":"$480",
+                    "link":"ppc-packages.php"
+                },
+                {
+                    "num":"03",
+                    "packagename":"SMO Platinum",
+                    "packageprice":"$780",
+                    "link":"ppc-packages.php"
+                },
+                {
+                    "num":"04",
+                    "packagename":" SMO Diamond",
+                    "packageprice":"$1180",
+                    "link":"ppc-packages.php"
+                }
+            
+            ],
+
+            "package_heading": "Benefits of LinkedIn adverting includes",
+            "package_para": "",
+            "package_cont": [
+            {
+                "num": "01",
+                "packagelogo": " <i class='fi fi-ts-search-alt'></i>",
+                "packagename": "Specific Targeting",
+                "packagedesc": "LinkedIn permits you to slender in on the demographic or else select group of people you want to accomplish. Filter through your listeners by job title, industry, gender, age, degree, location plus more."
+            },
+            {
+                "num": "02",
+                "packagelogo": "<i class='fi fi-ts-analyse-alt'></i>",
+                "packagename": "Active Professional User Base",
+                "packagedesc": "With more than five hundred million business experts on this platform, you will sustain an active attendance with a wide amount of specialized users who may be concerned in learning more about your commerce."
+            },
+            {
+                "num": "03",
+                "packagelogo": "<i class='fi fi-tr-ad-paid'></i>",
+                "packagename": "Increase Awareness",
+                "packagedesc": "Through diverse ad forms, you will have the occasion to make better brand consciousness and visibility for possible employees, customers, and business partners."
+            },
+            {
+                "num": "04",
+                "packagelogo": "<i class='fi fi-tr-customize-computer'></i>",
+                "packagename": "Promote Partnerships With Events",
+                "packagedesc": "LinkedIn is a place recognized for its specialized users, which makes it the ideal place to recruit potential employees or else network with others in your ground through event with conference endorsement. Use LinkedIn when you are looking to cultivate your company and increase your monarchy of influence through your targeting attempts."
+            }
+        ],
+        "services" : [
+            {
+                "num":"01",
+                "link": "facebook-ads-services.php",
+                "servicename": "Facebook Ads SERVICE",
+                "servicedesc": "Our social media experts use Facebook PPC advertising to take your small business internet marketing to the next level.",
+                "serviceicon": "<i class='fi fi-sr-square-f'></i>"
+            },
+            {
+                "num":"02",
+                "link": "linkedin-ads-services.php",
+                "servicename": "Linkedin Ads SERVICE",
+                "servicedesc": "LinkedIn advertising involves targeting business users. LinkedIn is a professional network and through its various ad types...",
+                "serviceicon": "<i class='fi fi-brands-linkedin'></i>"
+            },
+             {
+                "num":"02",
+                "link": "quora-ads-services.php",
+                "servicename": "Quora Ads SERVICE",
+                "servicedesc": "Quora is today the top-most question & answer forum on the Internet, which relies on community contributions...",
+                "serviceicon": "<i class='fi fi-sr-square-q'></i>"
+            }
+        
+        ]
+        
+    },
+    {
+        "id" : 4,
+        "meta_title" : "Quora Ads Services | MEDIATRENZ",
+        "meta_description" : "We provide you with a complete promotional campaign for you in quora advertising services. In which the appropriate answer comes with participation in real-life discussions.",
+        "meta_keywords" : "Quora Ads Services,Quora paid service provider",
+        "meta_og_title" : "Quora Ads Services | MEDIATRENZ",
+        "meta_og_description" : "We provide you with a complete promotional campaign for you in quora advertising services. In which the appropriate answer comes with participation in real-life discussions.",
+        "meta_og_image" : "",
+        "meta_og_url" :  "",
+
+        "slug" : "/quora-ads-services.php",
+        "page_title" : "Quora Ads Service",
+        "banner_image_url" : "/images2/quorapagebanner.webp",
+        "breadcrums" : "Quora ads Service",
+        "image_first_url" : "images2/quoraadsimg1.webp",
+        "heading_first" : "Endorse your brand with Quora Ads service",
+        "paragraph_first" : "<p>Most services merely search for a method to link back to your website. That’s not what we are after - we intend to run an entire promotional campaign for you.</p> <p>Appropriate replies, participation in real-life discussions as well as social signals are a lot more helpful for SEO and marketing than just a bare backlink.</p> <h3 class='subtitle'>Natural Replies</h3> <p>Native-level English as well as over one thousand character count on standard. Every answer is organic, well-written as well as links to high-authority sources (Wiipedia, YouTube, Forbes as well as your website)</p>",
+        "third_banner_image_url": "images2/seoser-parallax-bg.webp",
+        "heading_third" : "Social Proof",
+        "third_paragraph" : "<h3 class='subtitle2 text-white'>We offer up votes and respond from other accounts to make your replies look plausible and genuine.</h3> <p>Quora is an openly mediated Q and A forum that relies on a system of up votes and community contributions to serve perceptive answers to curious searchers. Like a kind of Jeopardy meets Reddit requires Wikipedia Cerberus.</p> <p>Most individuals don’t clearly navigate to Quora. Instead—as is frequently the case with Wikipedia—links to the website tend to come up in the organic search results making it an important albeit underutilized fraction of any site’s SEO strategy.</p> <p>This is predominantly factual when a search is framed as a query, which, thanks to the propagation of voice search, is becoming more ordinary. Per Quora, the site at present has over 200 million exclusive monthly visitors and freshly expanded to support Spanish as well as French.</p> <p>While this is all well and good, it doesn’t essentially signify you should move a portion of your advertising budget over to what is, for all intentions and purposes, a very conjure message board, right?</p> <p>While an informational keyword in Google Ads might offer you the power to serve a pertinent ad to a searcher, there is only worth to be had if you can provoke a click with your copy. Quora, on the other hand, gives you the capability to phrase your ad copy between perceptive nuggets of information that narrate—directly or imaginatively—to your product or else service.</p> <p>Quora Advertising is an effectual method to reach a gigantic audience from the platform. You can make your account and explore the vast array of topics that they are discussing about from there.</p> <p>Quora is online combined information sharing as well as learning platform. Quora is an online engineering platform that unites the information of real people with information solutions offered by real people. Quora is an expanding, constantly improving, democratically ranked resource library that includes bite sized nodules of extremely contextualized learning.</p> <p class='mb-0'>Since it's a question and answer kind of forum, you can try to verify where your business can fit from there. Several website owners are utilizing Quora to drive traffic plus conversion at the similar time.</p>",
+        "fourth_title" : "Quora Ads Management Services",
+        "fourth_paragraph" : "<h3 class='subtitle2'>If you have been ignoring Quora for some time now, you're making a huge mistake. </h3> <p>You need to advertise on this platform since you can achieve your business goals from this platform alone. You can also influence Google searches to show your business to drive traffic to your website. tart-ups should take advantage of Quora Advertising more if you want your brand to be well known or become famous. You can get a free quote right now so you can start using Quora Advertising and grow your business eventually.</p> <p>Before you dive into Quora Advertising, you also have to know the importance of this service. That will give you more information and avoid jumping blindly about this program. It's best to learn how it will benefit your business first to see if it can achieve your business goals.</p>",
+        "image_forth_url" :"/images2/quoraimg4.webp",
+        "packages_heading" : "Our SMO ADS Packages",
+        "packages_subheading" : "HIGH QUALITY SMO ADS SOLUTIONS FOR BUSINESSES",
+        "packages":         
+            [
+                {
+                    "num":"01",
+                    "packagename":"SMO Sliver",
+                    "packageprice":"$280",
+                    "link":"ppc-packages.php"
+                },
+                {
+                    "num":"02",
+                    "packagename":"SMO Gold",
+                    "packageprice":"$480",
+                    "link":"ppc-packages.php"
+                },
+                {
+                    "num":"03",
+                    "packagename":"SMO Platinum",
+                    "packageprice":"$780",
+                    "link":"ppc-packages.php"
+                },
+                {
+                    "num":"04",
+                    "packagename":"SMO Diamond",
+                    "packageprice":"$1180",
+                    "link":"ppc-packages.php"
+                }
+            
+            ],
+
+            
+        "services" : [
+            {
+                "num":"01",
+                "link": "facebook-ads-services.php",
+                "servicename": "Facebook Ads SERVICE",
+                "servicedesc": "Our social media experts use Facebook PPC advertising to take your small business internet marketing to the next level.",
+                "serviceicon": "<i class='fi fi-sr-square-f'></i>"
+            },
+            {
+                "num":"02",
+                "link": "linkedin-ads-services.php",
+                "servicename": "Linkedin Ads SERVICE",
+                "servicedesc": "LinkedIn advertising involves targeting business users. LinkedIn is a professional network and through its various ad types...",
+                "serviceicon": "<i class='fi fi-brands-linkedin'></i>"
+            },
+             {
+                "num":"02",
+                "link": "quora-ads-services.php",
+                "servicename": "Quora Ads SERVICE",
+                "servicedesc": "Quora is today the top-most question & answer forum on the Internet, which relies on community contributions...",
+                "serviceicon": "<i class='fi fi-sr-square-q'></i>"
+            }
+           
+        ],
+            "package_heading": "Our Range of Google Ads Services",
+            "package_para": "",
+            "package_cont": [
+            {
+                "num": "01",
+                "packagelogo": " <i class='fi fi-ts-search-alt'></i>",
+                "packagename": "Quality",
+                "packagedesc": "Exceptional and authentic answers that won’t make you feel embarrassed. Only thematic queries, no universal discussions!"
+            },
+            {
+                "num": "02",
+                "packagelogo": "<i class='fi fi-ts-analyse-alt'></i>",
+                "packagename": "Ideal Links For Diversification",
+                "packagedesc": "Quora is the most admired websites worldwide. Links from these platforms add reliability and diversity to your backlink outline."
+            },
+            {
+                "num": "03",
+                "packagelogo": "<i class='fi fi-tr-ad-paid'></i>",
+                "packagename": "Entirely Manual Procedure",
+                "packagedesc": "We select the white hat way. We don't utilize any automation, bots or else other hideous practices."
+            },
+            {
+                "num": "04",
+                "packagelogo": "<i class='fi fi-tr-customize-computer'></i>",
+                "packagename": "Authentic User-Profiles",
+                "packagedesc": "We can generate and develop dependable user-profiles particularly for your project."
+            }
+        ]
+        
+    }
+   
+]

@@ -1,0 +1,37 @@
+{
+  "name": "mtz",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@flaticon/flaticon-uicons": "^3.3.1",
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "axios": "^1.7.7",
+    "bootstrap": "^4.6.2",
+    "font-awesome": "^4.7.0",
+    "formik": "^2.4.6",
+    "jquery": "^3.7.1",
+    "next": "^14.2.5",
+    "react": "^18",
+    "react-bootstrap": "^2.10.5",
+    "react-dom": "^18",
+    "react-google-recaptcha": "^3.1.0",
+    "react-hook-form": "^7.53.0",
+    "react-ipgeolocation": "^1.4.0",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^11.1.9",
+    "swr": "^2.2.5",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5"
+  }
+}

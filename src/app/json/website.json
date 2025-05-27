@@ -1,0 +1,2115 @@
+[
+    {
+        "id" : 1,
+
+        "meta_title" : "Web Development Services in India & USA | Custom Web Agency",
+        "meta_description" : "Web Development Agency: MEDIATRENZ provides custom web development in India, San Diego, Los Angeles, California, New York & other cities in USA. Click to know more.",
+        "meta_keywords" : "Web Development Company in India, Best Web Development Company in USA",
+        "meta_og_title" : "Web Development Services in India & USA | Custom Web Agency",
+        "meta_og_description" : "Web Development Agency: MEDIATRENZ provides custom web development in India, San Diego, Los Angeles, California, New York & other cities in USA. Click to know more.",
+        "meta_og_image" : "",
+        "meta_og_url" : "",
+
+        "slug" : "/web-development-services.php",
+
+        "page_title" : "Web Development Service",
+
+        "banner_image_url" : "/images2/web-development-banner.webp",
+
+        "breadcrums" : "Affordable SEO Services",
+
+        "heading_first" : "Build an Eye-Catching Website to Rule Over Your Competitors",
+
+        "subheading_first" : "<p>Web development services entail designing and fabricating with active software solutions that work through intranet or internet.</p> <p>MEDIATRENZ delivers highly accessible practical and visually engaging web products as well as both platform-based and custom web solutions for enterprises!</p> <p>Our website developers offer skilled web application development as well as web design services to our clients. MEDIATRENZ conveys a diversity of website design and development services. From crafting mobile web development solutions and approachable website designs, to crafting custom e-commerce and intranet experiences utilizing the newest and established web technologies. With up to eighty five percent of customers visiting company’s or else service provider’s website before creating a purchase, more and more customers make choices based on their online experience: the emergence, usability as well as convenience of your website is more significant than ever, especially in a gradually more cutthroat market.</p>",
+
+        "image_first_url" : "/images2/web-development-img1.webp",
+
+        "heading_second" : "Passionate to Develop Bug-Free Website",
+
+        "subheading_second" : "<p class='mb-0 paragraph'>MEDIATRENZ has been an enriched enthusiastic designer as well as developer for making a striking layout to clutch the attention of the spectators. Our team favors the mess-free and valiant design style for getting the typical markup for the novel and modified website. As a consequence, the recently developed website improves an outstanding search engine ranking position. It is not a big deal to augment the unconquerable conversion rate.</p><p class='mb-0 paragraph'>As an outstanding website development services, we are doing the finest job for acquiring a clear online business presence. Our specialist does not follow the outmoded technical skills as well as traits for creating a matured virtual address. As development is the primary ladder for being a vital brand presence. Like other competitors, we are not cognizant to obtain the virtual presence of a vend business. In addition to this, all targeted consumers can effortlessly fetch the inclusive information about our service, mission, plus vision.</p><p class='mb-0 paragraph'>A good functionality built website will positively aid you to capture a considerable hike in the largely merchandising. As a consequence, your current business vertical product and service boosts very well. That’s why it is not a minor obligation for developing your website. Contemplation of the finest web development services is archetypal. Otherwise, you would be prepared to bear some financial loss for not drawing the concentration of customers.</p>",
+
+        "image_second_url" : "/images2/web-development-bg.webp",
+
+        "heading_third" : "Why Choose Us",
+
+        "subheading_third" : "<p>Till now you must know about what we do as well as how we do. You must have vacant all your questions about the website development services as well as what we offer. Hence, dealing with a proficient firm includes several advantages and you get all of that with our website development corporation. Our team comprises all the creative heads that aid you in deciding the designing, pattern as well as more.</p>",
+
+        "subheading_third_bullets" : "<ul class='bullet-style1 half'><li> <i class='fi fi-bs-check-circle'></i> Advance Technologies</li><li> <i class='fi fi-bs-check-circle'></i> The veteran and knowledgeable team</li><li> <i class='fi fi-bs-check-circle'></i> Affordable Prices</li><li> <i class='fi fi-bs-check-circle'></i> Rich Experience</li><li> <i class='fi fi-bs-check-circle'></i> Significantly less maintenance work</li><li> <i class='fi fi-bs-check-circle'></i> Approachable user-friendly interfaces</li><li> <i class='fi fi-bs-check-circle'></i> Fully SEO optimized designs to improve rankings</li><li> <i class='fi fi-bs-check-circle'></i> Adherence to top coding guidelines &amp; quality standards</li></ul>",
+
+        "image_third_url" : "/images2/webdevelopementimg4.webp",
+
+        "services" : [
+            {
+                "num":"01",
+                "link": "web-development-services.php",
+                "servicename": "Web Development SERVICE",
+                "servicedesc": "Welcome to MEDIATRENZ, the most preferred choice for quality web...",
+                "serviceicon": "<i class='fi fi-tr-it-alt'></i>"
+            },
+            {
+                "num":"02",
+                "link": "website-designing-services.php",
+                "servicename": "Website Designing SERVICE",
+                "servicedesc": "MEDIATRENZ offers you a professional website that enables you to do...",
+                "serviceicon": "<i class='fi fi-tr-site-browser'></i>"
+            },
+            {
+                "num":"03",
+                "link": "wordpress-development-services.php",
+                "servicename": "Wordpress Development SERVICE",
+                "servicedesc": "Cost-Effective WordPress Development Solutions For Your Business...",
+                "serviceicon": "<i class='fi fi-brands-wordpress'></i>"
+            },
+            {
+                "num":"04",
+                "link": "moodle-development-services.php",
+                "servicename": "Moodle Development",
+                "servicedesc": "Moodle is a learning platform designed to provide educators...",
+                "serviceicon": "<i class='fi fi-ts-corporate'></i>"
+            },
+            {
+                "num":"05",
+                "link": "drupal-development-services.php",
+                "servicename": "Drupal Development Services",
+                "servicedesc": "We Develop Secure, Scalable, User-friendly Drupal Websites...",
+                "serviceicon": "<i class='fi fi-brands-drupal'></i>"
+            },
+            {
+                "num":"06",
+                "link": "core-php-development.php",
+                "servicename": "Core PHP Development SERVICE",
+                "servicedesc": "We at MEDIATRENZ specialize in website development services...",
+                "serviceicon": "<i class='fi fi-brands-php'></i>"
+            },
+            {
+                "num":"07",
+                "link": "e-commerce-development.php",
+                "servicename": "E-Commerce Development",
+                "servicedesc": "We deliver the best eCommerce web solutions to our clients.",
+                "serviceicon": "<i class='fi fi-ts-marketplace'></i>"
+            },
+            {
+                "num":"08",
+                "link": "laravel-development-service.php",
+                "servicename": "Laravel Development",
+                "servicedesc": "MEDIATRENZ offers a wide-range of flawless custom Laravel solutions...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"09",
+                "link": "website-redesigning-services.php",
+                "servicename": "Website Redesigning Service",
+                "servicedesc": "Every business has its own identity, which we believe should...",
+                "serviceicon": "<i class='fi fi-tr-web-design'></i>"
+            },
+            {
+                "num":"10",
+                "link": "erp-development-service.php",
+                "servicename": "ERP Development Service",
+                "servicedesc": "Fulfill all your productivity and efficiency requirements with...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"11",
+                "link": "web-application-development-service.php",
+                "servicename": "Web Application Development",
+                "servicedesc": "Our expertise in web application development services covers...",
+                "serviceicon": "<i class='fi fi-ts-window-alt'></i>"
+            },
+            {
+                "num":"12",
+                "link": "logo-designing-service.php",
+                "servicename": "Logo Designing Service",
+                "servicedesc": "It is a well-known fact that you need to use your company logo...",
+                "serviceicon": "<i class='fi fi-tr-webhook'></i>"
+            },
+            {
+                "num":"13",
+                "link": "psd-to-html-conversion-service.php",
+                "servicename": "PSD To HTML Conversion SERVICE",
+                "servicedesc": "We create elegantly designed, custom-made websites from PSD.",
+                "serviceicon": "<i class='fi fi-tr-swatchbook'></i>"
+            }
+        ]
+    },
+    {
+        "id" : 2,
+
+        "meta_title" : "ERP Software Development Services in India | Custom ERP",
+        "meta_description" : "Empower your business with our custom ERP software. MEDIATRENZ provides ERP software development services in India. We listen to your needs and help you achieve your requirement.",
+        "meta_keywords" : "ERP Development Service,  ERP Software Development Company, Custom ERP Software Development Company",
+        "meta_og_title" : "ERP Software Development Services in India | Custom ERP",
+        "meta_og_description" : "Empower your business with our custom ERP software. MEDIATRENZ provides ERP software development services in India. We listen to your needs and help you achieve your requirement.",
+        "meta_og_image" : "",
+        "meta_og_url" : "",
+
+        "slug" : "/erp-development-service.php",
+
+        "page_title" : "ERP Development Service",
+
+        "banner_image_url" : "/images2/erp-development-banner.webp",
+
+        "breadcrums" : "ERP Development Service",
+
+        "heading_first" : "Custom ERP Development Solution for your business",
+
+        "subheading_first" : "<p>Whether you are a just beginning business or a recognized one, you are possibly looking for a suitable enterprise resource planning (ERP) system to mechanize or computerize your operations.</p><p>Our team has noteworthy knowledge in ERP development and the formation of completely incorporated modules for managing your personnel and workflows, financial flows, as well as manufacturing procedures. We offer high-end solutions to develop your alive business procedures and to trail your projects as well as resources.</p><p class='mb-0'>ERP Development transforms complex business management systems into easy to use technology. ERP wraps core business purposes, encompassing catalogue as well as distribution management, production, as well as accounting. It supports sales, preparing, customer service, Human Resources, logistics, CRM, as well as many more. ERP classifies all your data within a solitary system. ERP facilitates smart as well as balanced decision-making procedure. We have widespread experience in ERP functioning, customizations and incorporations for vigorous ERP platforms that match your exclusive business style.</p>",
+
+        "image_first_url" : "/images2/erp-development-img1.webp",
+
+        "heading_second" : "",
+
+        "subheading_second" : "",
+
+        "image_second_url" : "",
+
+        "heading_third" : "Empowering Businessess through Robust ERP Development Services",
+
+        "subheading_third" : "<p>We are a full-fledged ERP software development company in India helping diverse industry clients to streamline different workflows and processes with a single integrated system, so that their employees can work smarter. Our in-depth understanding of different underlying models, technologies and applications help us guide you with the most appropriate ERP software to sync perfectly with your business lines. Every organization has its own set of unique requirements and challenges. The solution is to build custom ERP systems that can streamline their business processes and match with the desired outcome.</p>",
+
+        "subheading_third_bullets" : "<h3 class='subtitle2'>Our custom ERP software development services streamline your business operations.</h3>",
+
+        "image_third_url" : "/images2/erp-dev4.webp",
+
+        "services" : [
+            {
+                "num":"01",
+                "link": "web-development-services.php",
+                "servicename": "Web Development SERVICE",
+                "servicedesc": "Welcome to MEDIATRENZ, the most preferred choice for quality web...",
+                "serviceicon": "<i class='fi fi-tr-it-alt'></i>"
+            },
+            {
+                "num":"02",
+                "link": "website-designing-services.php",
+                "servicename": "Website Designing SERVICE",
+                "servicedesc": "MEDIATRENZ offers you a professional website that enables you to do...",
+                "serviceicon": "<i class='fi fi-tr-site-browser'></i>"
+            },
+            {
+                "num":"03",
+                "link": "wordpress-development-services.php",
+                "servicename": "Wordpress Development SERVICE",
+                "servicedesc": "Cost-Effective WordPress Development Solutions For Your Business...",
+                "serviceicon": "<i class='fi fi-brands-wordpress'></i>"
+            },
+            {
+                "num":"04",
+                "link": "moodle-development-services.php",
+                "servicename": "Moodle Development",
+                "servicedesc": "Moodle is a learning platform designed to provide educators...",
+                "serviceicon": "<i class='fi fi-ts-corporate'></i>"
+            },
+            {
+                "num":"05",
+                "link": "drupal-development-services.php",
+                "servicename": "Drupal Development Services",
+                "servicedesc": "We Develop Secure, Scalable, User-friendly Drupal Websites...",
+                "serviceicon": "<i class='fi fi-brands-drupal'></i>"
+            },
+            {
+                "num":"06",
+                "link": "core-php-development.php",
+                "servicename": "Core PHP Development SERVICE",
+                "servicedesc": "We at MEDIATRENZ specialize in website development services...",
+                "serviceicon": "<i class='fi fi-brands-php'></i>"
+            },
+            {
+                "num":"07",
+                "link": "e-commerce-development.php",
+                "servicename": "E-Commerce Development",
+                "servicedesc": "We deliver the best eCommerce web solutions to our clients.",
+                "serviceicon": "<i class='fi fi-ts-marketplace'></i>"
+            },
+            {
+                "num":"08",
+                "link": "laravel-development-service.php",
+                "servicename": "Laravel Development",
+                "servicedesc": "MEDIATRENZ offers a wide-range of flawless custom Laravel solutions...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"09",
+                "link": "website-redesigning-services.php",
+                "servicename": "Website Redesigning Service",
+                "servicedesc": "Every business has its own identity, which we believe should...",
+                "serviceicon": "<i class='fi fi-tr-web-design'></i>"
+            },
+            {
+                "num":"10",
+                "link": "erp-development-service.php",
+                "servicename": "ERP Development Service",
+                "servicedesc": "Fulfill all your productivity and efficiency requirements with...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"11",
+                "link": "web-application-development-service.php",
+                "servicename": "Web Application Development",
+                "servicedesc": "Our expertise in web application development services covers...",
+                "serviceicon": "<i class='fi fi-ts-window-alt'></i>"
+            },
+            {
+                "num":"12",
+                "link": "logo-designing-service.php",
+                "servicename": "Logo Designing Service",
+                "servicedesc": "It is a well-known fact that you need to use your company logo...",
+                "serviceicon": "<i class='fi fi-tr-webhook'></i>"
+            },
+            {
+                "num":"13",
+                "link": "psd-to-html-conversion-service.php",
+                "servicename": "PSD To HTML Conversion SERVICE",
+                "servicedesc": "We create elegantly designed, custom-made websites from PSD.",
+                "serviceicon": "<i class='fi fi-tr-swatchbook'></i>"
+            }
+        ],
+
+        "offers_title": "ERP Software Development Services We Offer",
+
+        "offers_list": [
+            {
+                "num": "01",
+                "offersicon": "<i class='fi fi-tr-discover'></i>",
+                "offersname": "Specialist ERP Implementations",
+                "offersdesc": "We execute your custom networks, servers, security, along with data management solutions all through your complete organization with data integrity maintained plus little or no downtime incurred. Our developers initiate the novel platform to your business in a smooth and lucrative experience."
+            },
+            {
+                "num": "02",
+                "offersicon": "<i class='fi fi-ts-ux-browser'></i>",
+                "offersname": "ERP System Configurations",
+                "offersdesc": "We organize the ERP software with precise roles, business intelligence, fields, modifications, improvement of interfaces and addition of precise fields and more. Our configurations make sure each new role is optimized for a aggressive edge against other businesses."
+            },
+            {
+                "num": "03",
+                "offersicon": "<i class='fi fi-ts-site-alt'></i>",
+                "offersname": "Flawless Data Migrations",
+                "offersdesc": "Our extremely skilled developers modernize legacy systems making sure data integrity when migrating bequest data, integrating raw data silos, updating the data communications, and revealing the data landscape to increase the perks of data modeling, data governance and competence from a solid data migration procedure."
+            },
+            {
+                "num": "04",
+                "offersicon": "<i class='fi fi-ts-url'></i>",
+                "offersname": "Custom ERP Development",
+                "offersdesc": "At MEDIATRENZ, we build convention functionality to off the shelf ERP software to convene your exclusive business model. We can computerize workflows or BPM (Business Process Automation), solution modifications, incorporate data imports as well as exports and extension by creating ritual modules to make a platform that functions flawlessly for your business."
+            },
+            {
+                "num": "05",
+                "offersicon": "<i class='fi fi-ts-it-alt'></i>",
+                "offersname": "Tailored Solutions",
+                "offersdesc": "We tailor ERP solutions to generate enhanced scalable, enterprise-wide ERP systems to computerize critical procedures and offer key data insights across on-premise, mobile, as well as web-based platforms offering real-time access to mission vital data."
+            },
+            {
+                "num": "06",
+                "offersicon": "<i class='fi fi-ts-it-alt'></i>",
+                "offersname": "Effective Integration Services",
+                "offersdesc": "We utilize the federal architecture of your selected fully incorporated business IT environment to make sure the scalability of your business by facilitating real-time data automation between systems."
+            }
+        ]
+    },
+    {
+        "id" : 3,
+
+        "meta_title" : "Custom PHP Web Development in India | Core PHP Developers",
+        "meta_description" : "Hire dedicated PHP developer from core PHP development company MEDIATRENZ. Get custom PHP development in India & New York, Dallas & San Diego USA., San Diego, Los Angeles, California, New York & other cities in USA. Click to know more.",
+        "meta_keywords" : "Core Php Development company,Php Web Development Services",
+        "meta_og_title" : "Custom PHP Web Development in India | Core PHP Developers",
+        "meta_og_description" : "Hire dedicated PHP developer from core PHP development company MEDIATRENZ. Get custom PHP development in India & New York, Dallas & San Diego USA.",
+        "meta_og_image" : "",
+        "meta_og_url" : "",
+
+        "slug" : "/core-php-development.php",
+
+        "page_title" : "Core PHP Development",
+
+        "banner_image_url" : "/images2/corephp-banner.webp",
+
+        "breadcrums" : "Core PHP Development",
+
+        "heading_first" : "Responsive And Adaptable Core PHP Development",
+
+        "subheading_first" : "<p>PHP is one of the oldest programming intermediates of scheduling over the web. Executing PHP for website development empowers your trade with a complete suite of facet possibilities.</p><p>The MEDIATRENZ provides you bespoken PHP application development services. Hire our PHP developers as well as programmers who come with nucleus capability and proficiency in PHP consulting services. We utilize pioneering technologies with established strategies and sophisticated communications to make PHP software in the finest possible combinations. With our PHP development company, your company gets admission to maximum functionality and high-class software in a lucrative manner.</p><p>PHP is an open-source web development scripting language with supreme-grade customization abilities that permits web developers to make extremely scalable and flexible web solutions. It is broadly utilized to make dynamic and interactive web pages.</p>",
+
+        "subheading_first_para" : "<p>Hire PHP developers from The MEDIATRENZ for getting responsive, mobile-friendly, and money-making web solutions. Our core PHP web development company in India holds huge experience while making thousands of websites as well as Apps, till date. We intend to deliver well-integrated websites as well as software that meet the holistic business requirements of the client. The team includes of fifty plus professional PHP specialists who have proficiency with core PHP, PHP based software development, eCommerce technologies, 3rd party incorporations and delivering completely fledged web portals.</p><p class='mb-0'>All of our PHP solutions are tested to make sure an error-free orientation. We follow responsive workflows to convey finest end product.</p>",
+
+        "image_first_url" : "/images2/corephp-img1.webp",
+
+        "heading_second" : "Advantages of PHP Web Development",
+
+        "subheading_second" : "",
+
+        "subheading_second_bullets" : "<ul class='bullet-style2'><li> <i class='fi fi-bs-check-circle'></i> Negligible developmental and maintenance cost</li><li> <i class='fi fi-bs-check-circle'></i> Reliable performance and consistency</li><li> <i class='fi fi-bs-check-circle'></i> Ability of embedding it into the HTML code</li><li> <i class='fi fi-bs-check-circle'></i> Helps diverse platforms such as Windows, Linux and UNIX</li><li> <i class='fi fi-bs-check-circle'></i> Can carry a broad array of databases (MySQL, Oracle, Informix, Solid, PostgreSQL and Generic ODBC)</li><li> <i class='fi fi-bs-check-circle'></i> Huge compatibility with servers like Apache and IIS</li></ul>",
+
+        "subheading_second_para" : "<p class='mb-0'>PHP programming and PHP web development assists to generate a dynamic website for your commerce and your customers. Through the assistance of the PHP programming language, we can make an exclusive and interactive experience for you and your customers. In this method PHP web development helps make sure website visitors will be drawn to your website making it more probable they will also become your customers. PHP which was originally called as Personal Home Pages, now recognized as Hypertext Preprocessor. It's an Open Source, industry standard language which is utilized to develop website applications, including ecommerce as well as content management systems for websites.</p>",
+
+        "image_second_url" : "/images2/corephp-parallax-bg.webp",
+
+        "heading_third" : "Why Choose Us",
+
+        "subheading_third" : "<p>We provide experienced PHP programming, PHP specialists, PHP Developers, PHP Programmer for your website as well as online portals. There are previously numerous programming languages and platforms ahead which scripting language can be written but PHP coding language is particularly well-matched for Web development and can be entrenched into HTML. PHP allows for quick development of even multifaceted tasks with shorter and extremely legible code.</p>",
+
+        "subheading_third_bullets" : "",
+
+        "image_third_url" : "",
+
+        "services" : [
+            {
+                "num":"01",
+                "link": "web-development-services.php",
+                "servicename": "Web Development SERVICE",
+                "servicedesc": "Welcome to MEDIATRENZ, the most preferred choice for quality web...",
+                "serviceicon": "<i class='fi fi-tr-it-alt'></i>"
+            },
+            {
+                "num":"02",
+                "link": "website-designing-services.php",
+                "servicename": "Website Designing SERVICE",
+                "servicedesc": "MEDIATRENZ offers you a professional website that enables you to do...",
+                "serviceicon": "<i class='fi fi-tr-site-browser'></i>"
+            },
+            {
+                "num":"03",
+                "link": "wordpress-development-services.php",
+                "servicename": "Wordpress Development SERVICE",
+                "servicedesc": "Cost-Effective WordPress Development Solutions For Your Business...",
+                "serviceicon": "<i class='fi fi-brands-wordpress'></i>"
+            },
+            {
+                "num":"04",
+                "link": "moodle-development-services.php",
+                "servicename": "Moodle Development",
+                "servicedesc": "Moodle is a learning platform designed to provide educators...",
+                "serviceicon": "<i class='fi fi-ts-corporate'></i>"
+            },
+            {
+                "num":"05",
+                "link": "drupal-development-services.php",
+                "servicename": "Drupal Development Services",
+                "servicedesc": "We Develop Secure, Scalable, User-friendly Drupal Websites...",
+                "serviceicon": "<i class='fi fi-brands-drupal'></i>"
+            },
+            {
+                "num":"06",
+                "link": "core-php-development.php",
+                "servicename": "Core PHP Development SERVICE",
+                "servicedesc": "We at MEDIATRENZ specialize in website development services...",
+                "serviceicon": "<i class='fi fi-brands-php'></i>"
+            },
+            {
+                "num":"07",
+                "link": "e-commerce-development.php",
+                "servicename": "E-Commerce Development",
+                "servicedesc": "We deliver the best eCommerce web solutions to our clients.",
+                "serviceicon": "<i class='fi fi-ts-marketplace'></i>"
+            },
+            {
+                "num":"08",
+                "link": "laravel-development-service.php",
+                "servicename": "Laravel Development",
+                "servicedesc": "MEDIATRENZ offers a wide-range of flawless custom Laravel solutions...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"09",
+                "link": "website-redesigning-services.php",
+                "servicename": "Website Redesigning Service",
+                "servicedesc": "Every business has its own identity, which we believe should...",
+                "serviceicon": "<i class='fi fi-tr-web-design'></i>"
+            },
+            {
+                "num":"10",
+                "link": "erp-development-service.php",
+                "servicename": "ERP Development Service",
+                "servicedesc": "Fulfill all your productivity and efficiency requirements with...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"11",
+                "link": "web-application-development-service.php",
+                "servicename": "Web Application Development",
+                "servicedesc": "Our expertise in web application development services covers...",
+                "serviceicon": "<i class='fi fi-ts-window-alt'></i>"
+            },
+            {
+                "num":"12",
+                "link": "logo-designing-service.php",
+                "servicename": "Logo Designing Service",
+                "servicedesc": "It is a well-known fact that you need to use your company logo...",
+                "serviceicon": "<i class='fi fi-tr-webhook'></i>"
+            },
+            {
+                "num":"13",
+                "link": "psd-to-html-conversion-service.php",
+                "servicename": "PSD To HTML Conversion SERVICE",
+                "servicedesc": "We create elegantly designed, custom-made websites from PSD.",
+                "serviceicon": "<i class='fi fi-tr-swatchbook'></i>"
+            }
+        ]
+    },
+    {
+        "id" : 4,
+
+        "meta_title" : "Ecommerce Website Development in India & USA | Wix Development",
+        "meta_description" : "We are a top-notch eCommerce website development company in India & USA. We provide multi-vendor, Wix, or fashion eCommerce websites at an affordable price.",
+        "meta_keywords" : "Ecommerce Development company,Ecommerce Development services in India",
+        "meta_og_title" : "Ecommerce Website Development in India & USA | Wix Development",
+        "meta_og_description" : "We are a top-notch eCommerce website development company in India & USA. We provide multi-vendor, Wix, or fashion eCommerce websites at an affordable price.",
+        "meta_og_image" : "",
+        "meta_og_url" : "",
+
+        "slug" : "/e-commerce-development.php",
+
+        "page_title" : "E-Commerce Development",
+
+        "banner_image_url" : "/images2/ecommerce-development-banner.webp",
+
+        "breadcrums" : "E-Commerce Development",
+
+        "heading_first" : "Scale-up Your Online Business With our E-commerce Development",
+
+        "subheading_first" : "<p>Ecommerce is rising twenty three percent per year and yet most businesses do not have a proper online store. Not only are these businesses trailing to their opposition but also losing their customer base. Additionally, e-commerce businesses have not yet completely explored the huge possible of e-commerce website solutions that can offer them a captivating edge.</p><p>Our e-commerce website development services make sure the utilization of latest state-of-the-art technologies and sustained maintenance and support for guaranteed service excellence.</p><p>Online stores require periodic maintenance as well as frequent updates in order to deliver greater performance. Our e-commerce website solutions encompass a variety of progressive services for e-commerce businesses of all sizes.</p>",
+
+        "subheading_first_para" : "<p>Get better order management and carting solutions that promise brilliant user knowledge and customer contentment. Our e-commerce solutions as well as services provide vigorous and dependable shopping cart solutions with error-free order management.</p><p>The digital environment is developing fast and mobility solutions have become critical for making sure business achievement. Our e-commerce website development services make sure that the online store functions completely and maintains compatibility across diverse platforms.</p><p>Our e-commerce website solutions are furnished with sturdy security protocols and encryptions to make sure complete security during account formation, transaction and browsing.</p>",
+
+        "image_first_url" : "/images2/ecommerce-development-img1.webp",
+
+        "heading_second" : "",
+
+        "subheading_second" : "",
+
+        "subheading_second_bullets" : "",
+
+        "subheading_second_para" : "",
+
+        "cards" : [
+            {
+                "num" : "1",
+                "cardsname" : "Ecommerce Strategy & <br> Consultation",
+                "cardsdesc" : "Not sure how to fetch your business to the online domain? Our e-commerce development services comprise policy and consultation to aid you gets the finest custom solution for your e-commerce business.",
+                "cardsicon" : "<i class='fi fi-ts-seller-store'></i>"
+            },
+            {
+                "num" : "2",
+                "cardsname" : "Custom eCommerce <br> Design",
+                "cardsdesc" : "Our specialist UI / UX designers make the finest user experience by merging innovation, creativity, conversion, plus content to generate masterpieces that can make your online store stand out from the opposition.",
+                "cardsicon" : "<i class='fi fi-tr-customize-edit'></i>"
+            },
+            {
+                "num" : "3",
+                "cardsname" : "Ecommerce Website <br> Development",
+                "cardsdesc" : "Our e-commerce website solutions centre on making online stores quicker, dependable, secure and scalable. We have years of proficiency in making e-commerce websites that are in line with industry trends and customer penchants.",
+                "cardsicon" : "<i class='fi fi-ts-marketplace'></i>"
+            }
+        ],
+
+        "image_second_url" : "/images2/ecommerce-parallax-bg.webp",
+
+        "heading_third" : "Why Choose Us?",
+
+        "subheading_third" : "<p>We are an ecommerce web design company that pursues a diagnostic approach to make a striking website that scores high on performance as well as compatibility. We uphold focus on the basic elements to carry engaging user experiences that exploit conversions.</p><p>Our traditional ecommerce web development team vigilantly examines the client’s obligations and adheres to the finest quality strictures to build up an interactive website from scratch. We optimize your venture website in-line with your business vision, mission, as well as audience demographics.</p><p>Our e-commerce design team pursues lively techniques to intend a striking website customized to your enterprise needs. Our team members are accomplished at creating engaging website edges that detain the core of your business goals as well as value proposition. We are an ecommerce development company that utilizes the newest tools and technologies to expand a high-quality website that highlights usability, safety, presentation, and constancy. We offer core custom ecommerce solutions as well as services to intend and develop an ecommerce website that makes maximum consumer base growth with effectual audience engagement strategies.</p>",
+
+        "subheading_third_bullets" : "",
+
+        "image_third_url" : "/images2/ecommerce-dev4.webp",
+
+        "services" : [
+            {
+                "num":"01",
+                "link": "web-development-services.php",
+                "servicename": "Web Development SERVICE",
+                "servicedesc": "Welcome to MEDIATRENZ, the most preferred choice for quality web...",
+                "serviceicon": "<i class='fi fi-tr-it-alt'></i>"
+            },
+            {
+                "num":"02",
+                "link": "website-designing-services.php",
+                "servicename": "Website Designing SERVICE",
+                "servicedesc": "MEDIATRENZ offers you a professional website that enables you to do...",
+                "serviceicon": "<i class='fi fi-tr-site-browser'></i>"
+            },
+            {
+                "num":"03",
+                "link": "wordpress-development-services.php",
+                "servicename": "Wordpress Development SERVICE",
+                "servicedesc": "Cost-Effective WordPress Development Solutions For Your Business...",
+                "serviceicon": "<i class='fi fi-brands-wordpress'></i>"
+            },
+            {
+                "num":"04",
+                "link": "moodle-development-services.php",
+                "servicename": "Moodle Development",
+                "servicedesc": "Moodle is a learning platform designed to provide educators...",
+                "serviceicon": "<i class='fi fi-ts-corporate'></i>"
+            },
+            {
+                "num":"05",
+                "link": "drupal-development-services.php",
+                "servicename": "Drupal Development Services",
+                "servicedesc": "We Develop Secure, Scalable, User-friendly Drupal Websites...",
+                "serviceicon": "<i class='fi fi-brands-drupal'></i>"
+            },
+            {
+                "num":"06",
+                "link": "core-php-development.php",
+                "servicename": "Core PHP Development SERVICE",
+                "servicedesc": "We at MEDIATRENZ specialize in website development services...",
+                "serviceicon": "<i class='fi fi-brands-php'></i>"
+            },
+            {
+                "num":"07",
+                "link": "e-commerce-development.php",
+                "servicename": "E-Commerce Development",
+                "servicedesc": "We deliver the best eCommerce web solutions to our clients.",
+                "serviceicon": "<i class='fi fi-ts-marketplace'></i>"
+            },
+            {
+                "num":"08",
+                "link": "laravel-development-service.php",
+                "servicename": "Laravel Development",
+                "servicedesc": "MEDIATRENZ offers a wide-range of flawless custom Laravel solutions...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"09",
+                "link": "website-redesigning-services.php",
+                "servicename": "Website Redesigning Service",
+                "servicedesc": "Every business has its own identity, which we believe should...",
+                "serviceicon": "<i class='fi fi-tr-web-design'></i>"
+            },
+            {
+                "num":"10",
+                "link": "erp-development-service.php",
+                "servicename": "ERP Development Service",
+                "servicedesc": "Fulfill all your productivity and efficiency requirements with...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"11",
+                "link": "web-application-development-service.php",
+                "servicename": "Web Application Development",
+                "servicedesc": "Our expertise in web application development services covers...",
+                "serviceicon": "<i class='fi fi-ts-window-alt'></i>"
+            },
+            {
+                "num":"12",
+                "link": "logo-designing-service.php",
+                "servicename": "Logo Designing Service",
+                "servicedesc": "It is a well-known fact that you need to use your company logo...",
+                "serviceicon": "<i class='fi fi-tr-webhook'></i>"
+            },
+            {
+                "num":"13",
+                "link": "psd-to-html-conversion-service.php",
+                "servicename": "PSD To HTML Conversion SERVICE",
+                "servicedesc": "We create elegantly designed, custom-made websites from PSD.",
+                "serviceicon": "<i class='fi fi-tr-swatchbook'></i>"
+            }
+        ]
+    },
+    {
+        "id" : 5,
+
+        "meta_title" : "Laravel Development Company India & USA | Laravel Developers",
+        "meta_description" : "Call MEDIATRENZ for Laravel Development Services in India, New York, Dallas, San Diego & other states of the USA. Hire dedicated Laravel Developers for full/part-time work.",
+        "meta_keywords" : "Laravel Development Services in india,Laravel Website Development company",
+        "meta_og_title" : "Laravel Development Company India & USA | Laravel Developers",
+        "meta_og_description" : "Call MEDIATRENZ for Laravel Development Services in India, New York, Dallas, San Diego & other states of the USA. Hire dedicated Laravel Developers for full/part-time work.",
+        "meta_og_image" : "",
+        "meta_og_url" : "",
+
+        "slug" : "/laravel-development-service.php",
+
+        "page_title" : "Laravel Development",
+
+        "banner_image_url" : "/images2/laravel-development-banner.webp",
+
+        "breadcrums" : "Laravel Development",
+
+        "heading_first" : "Finest Laravel Development Company for Great Success",
+
+        "subheading_first" : "<p>MEDIATRENZ is one of the promptly growing companies conveying a broad variety of Web IT services counting Custom Laravel Development services to nationwide and international consumers for more than a decade now. We are a business too and we realize that not every business service requires being expensive. We suppose in providing the finest in class customer services with high-class solution delivery.</p><h3 class='subtitle'>What is a Laravel Framework?</h3><p>Laravel is recognized for its strong features, which are necessary in the development of fast web applications. It is an open-source, PHP based web application framework that utilizes a quickly developing approach to create high-quality, modularly intended web applications with impulsive and trouble-free coding.</p>",
+
+        "image_first_url" : "/images2/laravel-development-img1.webp",
+
+        "heading_second" : "Best Laravel Development Company",
+
+        "subheading_second" : "<p class='mb-0 paragraph'>At MEDIATRENZ, we have a team of capable experts who treat in high-end Laravel- based solutions for several business needs at sensible prices. With the development help of Laravel, it becomes Laravel Web Development Services fast and simple to design, create, and modify multiple web applications. Being a responsible Laravel app development business in terms of features and functionality required for our consumers we have always been a step forward. We are recognized to offer inclusive Laravel solutions for all companies as a package that will permit you to take a lead alongside your company’s competitors.</p>",
+
+        "image_second_url" : "/images2/laravel-parallax-bg.webp",
+
+        "heading_third" : "Why Choose Us?",
+
+        "subheading_third" : "<p><strong>360 Degree Development –</strong> We offer services from design as well as coding to testing under one roof, ensuring safe and up-to-date development for error-free web and mobile apps.</p><p><strong>Flexible Engagement –</strong> We provide reliable services across sectors such as eCommerce, Real Estate, Education, Environment, Food, Fashion, Vehicle, Art, Health, Medical, and Entertainment.</p><p><strong>Punctual/Timely Services –</strong> We handle Laravel projects with licensed tools, applications, and development processes within a specific time frame.</p><p><strong>Cost-effective Packages –</strong> We meet your business needs and budget, saving development costs through efficient processes.</p><p><strong>Support &amp; Maintenance –</strong> We offer comprehensive support for all projects from start to finish and beyond release.</p>",
+
+        "subheading_third_bullets" : "",
+
+        "image_third_url" : "/images2/laravel-dev4.webp",
+
+        "offers_title": "Our Range Of Laravel Web Application Development Services",
+
+        "offers_list": [
+            {
+                "num": "01",
+                "offersicon": "<i class='fi fi-tr-discover'></i>",
+                "offersname": "Laravel Web Development",
+                "offersdesc": "We struggle to offer pioneering design solutions with high-class features & brilliant user experience. Our programmers in Laravel frequently stay modern with the trends and concentrate in optimizing the aspects & functionality of Laravel."
+            },
+            {
+                "num": "02",
+                "offersicon": "<i class='fi fi-ts-ux-browser'></i>",
+                "offersname": "Laravel Ecommerce Solutions",
+                "offersdesc": "We convey comprehensive eCommerce solutions utilizing the renowned Laravel platform for brilliant UI & fast navigation aspects which will not only obtain high user commitment but will augment your online business profits & growth."
+            },
+            {
+                "num": "03",
+                "offersicon": "<i class='fi fi-ts-site-alt'></i>",
+                "offersname": "Laravel Business Solution",
+                "offersdesc": "We provide modified Laravel extension services to convene your business requirements so that various and easy-to-use solutions are always accessible for you to access. We aid you incorporate the design which matches your brand identity & also your Laravel web or else mobile app to draw your audience & achieve more conversions."
+            },
+            {
+                "num": "04",
+                "offersicon": "<i class='fi fi-ts-url'></i>",
+                "offersname": "Laravel Maintenance & Support",
+                "offersdesc": "Our highly-responsive support and maintenance team addresses queries and issues through flexible maintenance packages of your choice based on immediate and long-term needs.Whether you need to fix your Laravel web applications or install any update, we’re here to help."
+            }
+        ],
+
+        "services" : [
+            {
+                "num":"01",
+                "link": "web-development-services.php",
+                "servicename": "Web Development SERVICE",
+                "servicedesc": "Welcome to MEDIATRENZ, the most preferred choice for quality web...",
+                "serviceicon": "<i class='fi fi-tr-it-alt'></i>"
+            },
+            {
+                "num":"02",
+                "link": "website-designing-services.php",
+                "servicename": "Website Designing SERVICE",
+                "servicedesc": "MEDIATRENZ offers you a professional website that enables you to do...",
+                "serviceicon": "<i class='fi fi-tr-site-browser'></i>"
+            },
+            {
+                "num":"03",
+                "link": "wordpress-development-services.php",
+                "servicename": "Wordpress Development SERVICE",
+                "servicedesc": "Cost-Effective WordPress Development Solutions For Your Business...",
+                "serviceicon": "<i class='fi fi-brands-wordpress'></i>"
+            },
+            {
+                "num":"04",
+                "link": "moodle-development-services.php",
+                "servicename": "Moodle Development",
+                "servicedesc": "Moodle is a learning platform designed to provide educators...",
+                "serviceicon": "<i class='fi fi-ts-corporate'></i>"
+            },
+            {
+                "num":"05",
+                "link": "drupal-development-services.php",
+                "servicename": "Drupal Development Services",
+                "servicedesc": "We Develop Secure, Scalable, User-friendly Drupal Websites...",
+                "serviceicon": "<i class='fi fi-brands-drupal'></i>"
+            },
+            {
+                "num":"06",
+                "link": "core-php-development.php",
+                "servicename": "Core PHP Development SERVICE",
+                "servicedesc": "We at MEDIATRENZ specialize in website development services...",
+                "serviceicon": "<i class='fi fi-brands-php'></i>"
+            },
+            {
+                "num":"07",
+                "link": "e-commerce-development.php",
+                "servicename": "E-Commerce Development",
+                "servicedesc": "We deliver the best eCommerce web solutions to our clients.",
+                "serviceicon": "<i class='fi fi-ts-marketplace'></i>"
+            },
+            {
+                "num":"08",
+                "link": "laravel-development-service.php",
+                "servicename": "Laravel Development",
+                "servicedesc": "MEDIATRENZ offers a wide-range of flawless custom Laravel solutions...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"09",
+                "link": "website-redesigning-services.php",
+                "servicename": "Website Redesigning Service",
+                "servicedesc": "Every business has its own identity, which we believe should...",
+                "serviceicon": "<i class='fi fi-tr-web-design'></i>"
+            },
+            {
+                "num":"10",
+                "link": "erp-development-service.php",
+                "servicename": "ERP Development Service",
+                "servicedesc": "Fulfill all your productivity and efficiency requirements with...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"11",
+                "link": "web-application-development-service.php",
+                "servicename": "Web Application Development",
+                "servicedesc": "Our expertise in web application development services covers...",
+                "serviceicon": "<i class='fi fi-ts-window-alt'></i>"
+            },
+            {
+                "num":"12",
+                "link": "logo-designing-service.php",
+                "servicename": "Logo Designing Service",
+                "servicedesc": "It is a well-known fact that you need to use your company logo...",
+                "serviceicon": "<i class='fi fi-tr-webhook'></i>"
+            },
+            {
+                "num":"13",
+                "link": "psd-to-html-conversion-service.php",
+                "servicename": "PSD To HTML Conversion SERVICE",
+                "servicedesc": "We create elegantly designed, custom-made websites from PSD.",
+                "serviceicon": "<i class='fi fi-tr-swatchbook'></i>"
+            }
+        ]
+    },
+    {
+        "id" : 6,
+
+        "meta_title" : "Custom Web Application Development India | Web App Developers",
+        "meta_description" : "Looking for Custom Web Application Development in India? Contact MEDIATRENZ now. We provide dedicated Web App Developers in India & USA. Click to know more.",
+        "meta_keywords" : "Web Application Development Services,Web App development company in India",
+        "meta_og_title" : "Custom Web Application Development India | Web App Developers",
+        "meta_og_description" : "Looking for Custom Web Application Development in India? Contact MEDIATRENZ now. We provide dedicated Web App Developers in India & USA. Click to know more.",
+        "meta_og_image" : "",
+        "meta_og_url" : "",
+
+        "slug" : "/web-application-development-service.php",
+
+        "page_title" : "Web Application Development",
+
+        "banner_image_url" : "/images2/webapp-development-banner.webp",
+
+        "breadcrums" : "Web Application Development",
+
+        "heading_first" : "Grow Your Business With Finest Web Application Development",
+
+        "subheading_first" : "<p>With more competent, supple, and empowering web application development solutions that we design, you can accomplish superior business visibility as well as alignment, innovation, consumer engagement, and ROIs.</p> <p>As a veteran web application development service provider, MEDIATRENZ combines the finest of legacy programming languages like Java as well as PHP, and pioneering technologies like PostgreSQL, Python, MongoDB, Angular, React, along with Node.js to convey custom websites, web applications and enterprise software.</p> <p>Our capable team of web developers fabricates interactive, complete, and top-performing web applications that are intended to meet precise business challenges and constantly-evolving technological modifications.</p>",
+
+        "subheading_first_para" : "<p>Get prepared to hamper down-times as well as increase speed of your efficiency with MEDIATRENZ’S custom web application development services that arrive with business-enhancing aspects with cross-platform compatibility.</p><p class='mb-0'>Our web development business has been making web applications for the custom business needs of all our admired clients. Our developer’s skills & knowledge and progressive technology will convey you with Robust Web Applications.</p>",
+
+        "image_first_url" : "/images2/webapp-development-img1.webp",
+
+        "heading_second" : "Improved Efficiency",
+
+        "subheading_second" : "<p class='paragraph'>Having several versions of spreadsheets or else shuffling around piles of formalities is not only time overriding but can also depart your business susceptible to human errors that are not simply spotted until it’s too late.</p><p class='paragraph'>What’s more, with no incorporation between these several sources of data, time-consuming as well as laborious replication of data may be needed in order to obtain a holistic overview of business routine.</p><p class='paragraph'>Web applications aid you modernize your business procedures so that you can obtain more finished in fewer time and with superior precision. What’s more, having all your data included in one place offers you superior visibility of your business, freeing up staff time and permitting you to run reports that are rationalized with concurrent information.</p>",
+
+        "image_second_url" : "/images2/webapp-parallax-bg.webp",
+
+        "heading_third" : "24 / 7 Convenience",
+
+        "subheading_third" : "<p>Given that commerce systems generated by web applications are web-based, they can be accessed 24/7 offered that you have an internet connection. What’s more, they are completely flexible, providing access from approximately any device or else browser.</p><p>When desktop based software requires updating, each single device in which the application is installed will necessitate independently updating. This task typically falls to employees and may be overlooked if they are pressed for time, leaving your business susceptible to security breaches.</p><p>Evaluate this with a web based application, where a safety or functionality update can be rolled out to each version of the web application with zero downtime, offering consumers immediate access to the updated version of the app.</p><p>Gratify their clients through high-end applications with more striking web design, user-friendly aspects, and a more complete range of services without eradicating the quintessence of the client’s central vision as well as mission. Making the finest security system so the application will be malware free as well as lower the probabilities of the security problem!</p>",
+
+        "subheading_third_bullets" : "",
+
+        "image_third_url" : "/images2/webapp-dev4.webp",
+
+        "services" : [
+            {
+                "num":"01",
+                "link": "web-development-services.php",
+                "servicename": "Web Development SERVICE",
+                "servicedesc": "Welcome to MEDIATRENZ, the most preferred choice for quality web...",
+                "serviceicon": "<i class='fi fi-tr-it-alt'></i>"
+            },
+            {
+                "num":"02",
+                "link": "website-designing-services.php",
+                "servicename": "Website Designing SERVICE",
+                "servicedesc": "MEDIATRENZ offers you a professional website that enables you to do...",
+                "serviceicon": "<i class='fi fi-tr-site-browser'></i>"
+            },
+            {
+                "num":"03",
+                "link": "wordpress-development-services.php",
+                "servicename": "Wordpress Development SERVICE",
+                "servicedesc": "Cost-Effective WordPress Development Solutions For Your Business...",
+                "serviceicon": "<i class='fi fi-brands-wordpress'></i>"
+            },
+            {
+                "num":"04",
+                "link": "moodle-development-services.php",
+                "servicename": "Moodle Development",
+                "servicedesc": "Moodle is a learning platform designed to provide educators...",
+                "serviceicon": "<i class='fi fi-ts-corporate'></i>"
+            },
+            {
+                "num":"05",
+                "link": "drupal-development-services.php",
+                "servicename": "Drupal Development Services",
+                "servicedesc": "We Develop Secure, Scalable, User-friendly Drupal Websites...",
+                "serviceicon": "<i class='fi fi-brands-drupal'></i>"
+            },
+            {
+                "num":"06",
+                "link": "core-php-development.php",
+                "servicename": "Core PHP Development SERVICE",
+                "servicedesc": "We at MEDIATRENZ specialize in website development services...",
+                "serviceicon": "<i class='fi fi-brands-php'></i>"
+            },
+            {
+                "num":"07",
+                "link": "e-commerce-development.php",
+                "servicename": "E-Commerce Development",
+                "servicedesc": "We deliver the best eCommerce web solutions to our clients.",
+                "serviceicon": "<i class='fi fi-ts-marketplace'></i>"
+            },
+            {
+                "num":"08",
+                "link": "laravel-development-service.php",
+                "servicename": "Laravel Development",
+                "servicedesc": "MEDIATRENZ offers a wide-range of flawless custom Laravel solutions...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"09",
+                "link": "website-redesigning-services.php",
+                "servicename": "Website Redesigning Service",
+                "servicedesc": "Every business has its own identity, which we believe should...",
+                "serviceicon": "<i class='fi fi-tr-web-design'></i>"
+            },
+            {
+                "num":"10",
+                "link": "erp-development-service.php",
+                "servicename": "ERP Development Service",
+                "servicedesc": "Fulfill all your productivity and efficiency requirements with...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"11",
+                "link": "web-application-development-service.php",
+                "servicename": "Web Application Development",
+                "servicedesc": "Our expertise in web application development services covers...",
+                "serviceicon": "<i class='fi fi-ts-window-alt'></i>"
+            },
+            {
+                "num":"12",
+                "link": "logo-designing-service.php",
+                "servicename": "Logo Designing Service",
+                "servicedesc": "It is a well-known fact that you need to use your company logo...",
+                "serviceicon": "<i class='fi fi-tr-webhook'></i>"
+            },
+            {
+                "num":"13",
+                "link": "psd-to-html-conversion-service.php",
+                "servicename": "PSD To HTML Conversion SERVICE",
+                "servicedesc": "We create elegantly designed, custom-made websites from PSD.",
+                "serviceicon": "<i class='fi fi-tr-swatchbook'></i>"
+            }
+        ]
+    },
+    {
+        "id" : 7,
+
+        "meta_title" : "Best PSD To HTML Conversion Company India | PSD To HTML Conversion",
+        "meta_description" : "At MEDIATRENZ we provide responsive PSD To HTML conversion services in India & USA. Contact experienced PSD To HTML conversion company in India.",
+        "meta_keywords" : "PSD To HTML Conversion Services",
+        "meta_og_title" : "Best PSD To HTML Conversion Company India | PSD To HTML Conversion",
+        "meta_og_description" : "At MEDIATRENZ we provide responsive PSD To HTML conversion services in India & USA. Contact experienced PSD To HTML conversion company in India.",
+        "meta_og_image" : "",
+        "meta_og_url" : "",
+
+        "slug" : "/psd-to-html-conversion-service.php",
+
+        "page_title" : "PSD To HTML Conversion Services",
+
+        "banner_image_url" : "/images2/psd-to-html-conversion-banner.webp",
+
+        "breadcrums" : "PSD To HTML Conversion Services",
+
+        "heading_first" : "PSD to HTML conversion",
+
+        "subheading_first" : "<h3 class='subtitle'>Choose Our PSD to HTML conversion to Get A Fully Customized &amp; Dynamic Design</h3><p>Our PSD to HTML conversion service modifies the visions of numerous entrepreneurs into reality. MEDIATRENZ is a leading website development company offering trades with solutions that fetch certain growth. Since our inception, we have frequently evolved us by leveraging superior functionalities and technologies. Our developers create quick loading, top-ranking, as well as high-performing web pages with your PSD designs.</p><p>We utilize classy parallax plus custom animations to augment the conclusion of our Photoshop to HTML service. With immense years of experience, we have finished more than fifteen thousand projects and earned 10,000+ contented clients. In 2012, MEDIATRENZ became a member of the industry organization NASSCOM. We have several professional developers who use this superior markup language in Photoshop to HTML conversion procedure to construct an ideal web solution entrenched with robust and contemporary features.</p>",
+
+        "image_first_url" : "/images2/psd-to-html-conversion-img1.webp",
+
+        "heading_second" : "",
+
+        "subheading_second" : "",
+
+        "image_second_url" : "",
+
+        "heading_third" : "WHY NEED OUR PSD To HTML CONVERSION SERVICE?",
+
+        "subheading_third" : "<p>It requires experience, proficiency, and accuracy to perform it. Finding the perfect solution for PSD to HTML conversion is not an easy game to play, you should always choose the experienced one. One such experienced web development team you can find at MEDIATRENZ.</p><p>Being a leading PSD to HTML5 conversion service provider, we always convert your Photoshop designs into a 100% hand-coded, pixel-perfect, SEO friendly, W3C validated & cross-browser compatible HTML/XHTML/CSS markup using CSS2.1 or CSS3. MEDIATRENZ provides the finest customer support in the market with best after sale services.</p>",
+
+        "subheading_third_bullets" : "<h3 class='subtitle2'>PSD files are most complicated files and converting them into a functional website is not a piece of cake.</h3>",
+
+        "image_third_url" : "/images2/psd-to-html-conversion-dev4.webp",
+
+        "services" : [
+            {
+                "num":"01",
+                "link": "web-development-services.php",
+                "servicename": "Web Development SERVICE",
+                "servicedesc": "Welcome to MEDIATRENZ, the most preferred choice for quality web...",
+                "serviceicon": "<i class='fi fi-tr-it-alt'></i>"
+            },
+            {
+                "num":"02",
+                "link": "website-designing-services.php",
+                "servicename": "Website Designing SERVICE",
+                "servicedesc": "MEDIATRENZ offers you a professional website that enables you to do...",
+                "serviceicon": "<i class='fi fi-tr-site-browser'></i>"
+            },
+            {
+                "num":"03",
+                "link": "wordpress-development-services.php",
+                "servicename": "Wordpress Development SERVICE",
+                "servicedesc": "Cost-Effective WordPress Development Solutions For Your Business...",
+                "serviceicon": "<i class='fi fi-brands-wordpress'></i>"
+            },
+            {
+                "num":"04",
+                "link": "moodle-development-services.php",
+                "servicename": "Moodle Development",
+                "servicedesc": "Moodle is a learning platform designed to provide educators...",
+                "serviceicon": "<i class='fi fi-ts-corporate'></i>"
+            },
+            {
+                "num":"05",
+                "link": "drupal-development-services.php",
+                "servicename": "Drupal Development Services",
+                "servicedesc": "We Develop Secure, Scalable, User-friendly Drupal Websites...",
+                "serviceicon": "<i class='fi fi-brands-drupal'></i>"
+            },
+            {
+                "num":"06",
+                "link": "core-php-development.php",
+                "servicename": "Core PHP Development SERVICE",
+                "servicedesc": "We at MEDIATRENZ specialize in website development services...",
+                "serviceicon": "<i class='fi fi-brands-php'></i>"
+            },
+            {
+                "num":"07",
+                "link": "e-commerce-development.php",
+                "servicename": "E-Commerce Development",
+                "servicedesc": "We deliver the best eCommerce web solutions to our clients.",
+                "serviceicon": "<i class='fi fi-ts-marketplace'></i>"
+            },
+            {
+                "num":"08",
+                "link": "laravel-development-service.php",
+                "servicename": "Laravel Development",
+                "servicedesc": "MEDIATRENZ offers a wide-range of flawless custom Laravel solutions...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"09",
+                "link": "website-redesigning-services.php",
+                "servicename": "Website Redesigning Service",
+                "servicedesc": "Every business has its own identity, which we believe should...",
+                "serviceicon": "<i class='fi fi-tr-web-design'></i>"
+            },
+            {
+                "num":"10",
+                "link": "erp-development-service.php",
+                "servicename": "ERP Development Service",
+                "servicedesc": "Fulfill all your productivity and efficiency requirements with...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"11",
+                "link": "web-application-development-service.php",
+                "servicename": "Web Application Development",
+                "servicedesc": "Our expertise in web application development services covers...",
+                "serviceicon": "<i class='fi fi-ts-window-alt'></i>"
+            },
+            {
+                "num":"12",
+                "link": "logo-designing-service.php",
+                "servicename": "Logo Designing Service",
+                "servicedesc": "It is a well-known fact that you need to use your company logo...",
+                "serviceicon": "<i class='fi fi-tr-webhook'></i>"
+            },
+            {
+                "num":"13",
+                "link": "psd-to-html-conversion-service.php",
+                "servicename": "PSD To HTML Conversion SERVICE",
+                "servicedesc": "We create elegantly designed, custom-made websites from PSD.",
+                "serviceicon": "<i class='fi fi-tr-swatchbook'></i>"
+            }
+        ],
+
+        "offers_title": "PSD To HTML Conversion Services We Offer",
+
+        "offers_list": [
+            {
+                "num": "01",
+                "offersicon": "<i class='fi fi-tr-discover'></i>",
+                "offersname": "Pixel Perfect",
+                "offersdesc": "We proffer pixel-perfect conversion of Photoshop intend to HTML/CSS code making sure hundred percent precision in each pixel. We execute every step in an exact manner from slicing to manual coding to protect the quality."
+            },
+            {
+                "num": "02",
+                "offersicon": "<i class='fi fi-ts-ux-browser'></i>",
+                "offersname": "Testing On 30+ Devices",
+                "offersdesc": "Testing is significant and we take it very sincerely by performing compulsive stress testing on thirty plus devices to make sure better navigation, performance, appearance, easiness of use, and more."
+            },
+            {
+                "num": "03",
+                "offersicon": "<i class='fi fi-ts-site-alt'></i>",
+                "offersname": "SEO Semantic Coding",
+                "offersdesc": "We generate SEO semantic code which offers a performance improve to your website making it search engine friendly. The website will get improved visibility in search results pages."
+            },
+            {
+                "num": "04",
+                "offersicon": "<i class='fi fi-ts-url'></i>",
+                "offersname": "SASS/LESS",
+                "offersdesc": "We take benefit of contemporary CSS preprocessors - SASS and LESS to rationalize and accelerate the web development procedure. Utilizing preprocessors, we make reusable and consistent and code."
+            },
+            {
+                "num": "05",
+                "offersicon": "<i class='fi fi-ts-it-alt'></i>",
+                "offersname": "Well Structured/Commented",
+                "offersdesc": "We generate a clean, coherent, and well-commented code that is simple to read and uphold. Utilizing the finest coding habits, we make sure to deliver lucid HTML markups with appropriate structure."
+            },
+            {
+                "num": "06",
+                "offersicon": "<i class='fi fi-ts-it-alt'></i>",
+                "offersname": "Optimized For Load Speed",
+                "offersdesc": "We optimize images2, CSS, HTML code, as well as other resources to ensure that loading speed is improved that will beef up your website’s performance. It will also perk up your site’s SEO. At the preliminary phase of our conversion procedure, our expert developers work by focusing on the aspects stated by you. We pursue the newest guidelines in order to offer you a well-commenced and hand-written HTML code with which it is simple to modify your content. With even PSD files slicing, the Photoshop document is chopped into little pieces, managed by HTML and then ultimately situated by CSS. This procedure makes it simple to save a bunch of separate image files by cutting down the general time. Our field lies in conveying the sophisticated web solutions by utilizing the newest CSS frameworks that frequently promote code reuse to speed up workflow without giving up any functionality. For example, you can choose from Bootstrap, Skeleton, Foundation Zurb, Neat Bourbon, Materialized CSS or else comparable choice."
+            }
+        ]
+    },
+    {
+        "id" : 8,
+
+        "meta_title" : "Web Design Company in India & USA | Web Design Agency NY",
+        "meta_description" : "We are a website designing company In India providing unique web design services in New York, California, Los Angeles, San Diego & Orange County. Click to know more.",
+        "meta_keywords" : "Ecommerce website design india, Website designing company in Delhi NCR",
+        "meta_og_title" : "Web Design Company in India & USA | Web Design Agency NY",
+        "meta_og_description" : "We are a website designing company In India providing unique web design services in New York, California, Los Angeles, San Diego & Orange County. Click to know more.",
+        "meta_og_image" : "",
+        "meta_og_url" : "",
+
+        "slug" : "/website-designing-services.php",
+
+        "page_title" : "Website Designing Service",
+
+        "banner_image_url" : "/images2/website-designing-banner.webp",
+
+        "breadcrums" : "Website Designing Service",
+
+        "heading_first" : "Website Design Service To Yield Maximum ROI",
+
+        "subheading_first" : "<p>MEDIATRENZ is a leading web design agency with a victorious design team that makes pioneering, effectual websites that capture your brand, progress your conversion rates, and capitalize on your revenue to aid grow your business and accomplish your goals.</p><h3 class='subtitle'>Web Design Services That Maximize Your Returns</h3><p>In today’s digital earth, your website is the primary interaction consumers have with your commerce.</p><p>That's why almost ninety five percent of a user’s initial impression relays to web design. It’s also why web designing services can have an vast impact on your corporation’s bottom line.</p><p>That’s why maximum companies are not only re-evaluating their website’s intend but also partnering with MEDIATRENZ, the web design organization that’s driven more revenue for its clients.</p><p>With vast number of web design awards under our band we are certain we can intend a custom website that coerces sales for your exclusive business.</p>",
+
+        "image_first_url" : "/images2/website-design-img1.webp",
+
+        "heading_second" : "Transparent prices for victorious web design services",
+
+        "subheading_second" : "<p>Select our web design services and your trade can count on hundred percent transparencies. From our modified quotes to our preliminary designs, our team offers your business with absolute access to our web design pricing as well as strategies. Get a free, precise, and instantaneous quote for our web design and development services with our accessible calculator. If you are searching to begin your redesigned or else brand-new website fast, we proffer quick web design services. Associate with our triumphant team of web designers for this service, and they will construct a website in specified days for your business.</p>",
+
+        "image_second_url" : "/images2/website-designing-bg.webp",
+
+        "heading_third" : "MEDIATRENZ for professionally designed websites",
+
+        "subheading_third" : "<p>All the websites created by us have a professional look that reflects the nature of your business. Our services are very affordable, given that we provide you with personalized attention throughout the website design process. We stick to deadlines and ensure that your website enhances your business tremendously. Get in touch with us to redesign your existing site or create a brand new one. We ensures to deliver custom website design services, globally! We are adept at designing responsive, fast-loading, and user-friendly websites that offer a consistent look and use across different web browsers.</p>",
+
+        "subheading_third_bullets" : "<h3 class='subtitle2'>A high-performance website is useful for higher audience engagement and conversion rates.</h3>",
+
+        "image_third_url" : "/images2/websesignimg4.webp",
+
+        "services" : [
+            {
+                "num":"01",
+                "link": "web-development-services.php",
+                "servicename": "Web Development SERVICE",
+                "servicedesc": "Welcome to MEDIATRENZ, the most preferred choice for quality web...",
+                "serviceicon": "<i class='fi fi-tr-it-alt'></i>"
+            },
+            {
+                "num":"02",
+                "link": "website-designing-services.php",
+                "servicename": "Website Designing SERVICE",
+                "servicedesc": "MEDIATRENZ offers you a professional website that enables you to do...",
+                "serviceicon": "<i class='fi fi-tr-site-browser'></i>"
+            },
+            {
+                "num":"03",
+                "link": "wordpress-development-services.php",
+                "servicename": "Wordpress Development SERVICE",
+                "servicedesc": "Cost-Effective WordPress Development Solutions For Your Business...",
+                "serviceicon": "<i class='fi fi-brands-wordpress'></i>"
+            },
+            {
+                "num":"04",
+                "link": "moodle-development-services.php",
+                "servicename": "Moodle Development",
+                "servicedesc": "Moodle is a learning platform designed to provide educators...",
+                "serviceicon": "<i class='fi fi-ts-corporate'></i>"
+            },
+            {
+                "num":"05",
+                "link": "drupal-development-services.php",
+                "servicename": "Drupal Development Services",
+                "servicedesc": "We Develop Secure, Scalable, User-friendly Drupal Websites...",
+                "serviceicon": "<i class='fi fi-brands-drupal'></i>"
+            },
+            {
+                "num":"06",
+                "link": "core-php-development.php",
+                "servicename": "Core PHP Development SERVICE",
+                "servicedesc": "We at MEDIATRENZ specialize in website development services...",
+                "serviceicon": "<i class='fi fi-brands-php'></i>"
+            },
+            {
+                "num":"07",
+                "link": "e-commerce-development.php",
+                "servicename": "E-Commerce Development",
+                "servicedesc": "We deliver the best eCommerce web solutions to our clients.",
+                "serviceicon": "<i class='fi fi-ts-marketplace'></i>"
+            },
+            {
+                "num":"08",
+                "link": "laravel-development-service.php",
+                "servicename": "Laravel Development",
+                "servicedesc": "MEDIATRENZ offers a wide-range of flawless custom Laravel solutions...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"09",
+                "link": "website-redesigning-services.php",
+                "servicename": "Website Redesigning Service",
+                "servicedesc": "Every business has its own identity, which we believe should...",
+                "serviceicon": "<i class='fi fi-tr-web-design'></i>"
+            },
+            {
+                "num":"10",
+                "link": "erp-development-service.php",
+                "servicename": "ERP Development Service",
+                "servicedesc": "Fulfill all your productivity and efficiency requirements with...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"11",
+                "link": "web-application-development-service.php",
+                "servicename": "Web Application Development",
+                "servicedesc": "Our expertise in web application development services covers...",
+                "serviceicon": "<i class='fi fi-ts-window-alt'></i>"
+            },
+            {
+                "num":"12",
+                "link": "logo-designing-service.php",
+                "servicename": "Logo Designing Service",
+                "servicedesc": "It is a well-known fact that you need to use your company logo...",
+                "serviceicon": "<i class='fi fi-tr-webhook'></i>"
+            },
+            {
+                "num":"13",
+                "link": "psd-to-html-conversion-service.php",
+                "servicename": "PSD To HTML Conversion SERVICE",
+                "servicedesc": "We create elegantly designed, custom-made websites from PSD.",
+                "serviceicon": "<i class='fi fi-tr-swatchbook'></i>"
+            }
+        ],
+
+        "offers_title": "Excellent Website Designs for Startups, Entrepreneurs & Enterprisess",
+
+        "offers_list": [
+            {
+                "num": "01",
+                "offersicon": "<i class='fi fi-tr-discover'></i>",
+                "offersname": "Corporate Website Design",
+                "offersdesc": "Our plan is to reinforce your brand by building a standing. The primary impression for your possible customer is through your website. We proffer a beautiful and enlightening website that caters to your services as well as operations. We tailor our website design services with the purpose that your brand symbolizes."
+            },
+            {
+                "num": "02",
+                "offersicon": "<i class='fi fi-ts-ux-browser'></i>",
+                "offersname": "E-Commerce Websites",
+                "offersdesc": "As an intense web design company, we appreciate the import of a commendable website for your business. We will augment your online reputation with aesthetically tempting web design services. We will embrace simple call-to-action buttons and several categories relating to your commerce for effortless use."
+            },
+            {
+                "num": "03",
+                "offersicon": "<i class='fi fi-ts-site-alt'></i>",
+                "offersname": "Customized Website",
+                "offersdesc": "Without a stroke of personalization, your website is just one more page on the internet. As a skilful website design company, we pledge to make a website that would make your viewers put trust in your capability to proffer service."
+            },
+            {
+                "num": "04",
+                "offersicon": "<i class='fi fi-ts-url'></i>",
+                "offersname": "Landing Page Design",
+                "offersdesc": "The primary thing that your consumer would observe is a landing page. It should astonish sufficient to keep the viewer stay on the webpage. We will hook you up with a landing page that would exhibit your business’s objectives as well as achievements."
+            },
+            {
+                "num": "05",
+                "offersicon": "<i class='fi fi-ts-it-alt'></i>",
+                "offersname": "Responsive Web Design",
+                "offersdesc": "There is no liberty for boring web pages any longer! It’s time to investigate into responsive web design to offer your customers experience that is supple and fluidic on different devices. We will make this probable with our exemplary web design services."
+            }
+        ]
+    },
+    {
+        "id" : 9,
+
+        "meta_title" : "Website Redesign Services | Website Redesigning Company India",
+        "meta_description" : "Looking for innovative website redesigning services? MEDIATRENZ specialized in website redesigning services with 100% liquid layout & modern technology.",
+        "meta_keywords" : "Website Redesign Services Company, Website Redesigning Services",
+        "meta_og_title" : "Website Redesign Services | Website Redesigning Company India",
+        "meta_og_description" : "Looking for innovative website redesigning services? MEDIATRENZ specialized in website redesigning services with 100% liquid layout & modern technology.",
+        "meta_og_image" : "",
+        "meta_og_url" : "",
+
+        "slug" : "/website-redesigning-services.php",
+
+        "page_title" : "Website Redesigning Service",
+
+        "banner_image_url" : "/images2/website-redesigning-banner.webp",
+
+        "breadcrums" : "Website Redesigning Service",
+
+        "heading_first" : "Improve User Experience With Great Website Redesigning Services",
+
+        "subheading_first" : "<p>Elegant interface can boost the conversion rate by two hundred percent to four hundred percent. To make sure that your design obtains you an edge over competitors, MEDIATRENZ has a team of qualified designers who would suggest together to make a high-performing as well as lead-driven website. Whether you are a start-up, an enterprise, or else a small or else medium level business, we have modified website redesign services to fit into your obligation and bill.</p><h3 class='subtitle'>What Is a Website Redesign?</h3><p>An absolute website redesign service consigns to the complete repair in code as well as presentation of a website. Let’s put it in other terms when you imagine of your website as a residence that is being wavered down to build a novel one in its place. With website redesign services, it helps in transforming a website’s stirring glance and feeling with the biased or inclusive refurbishing of UI as well as UX design. MEDIATRENZ covers the total cycle of website redesign – including UX ad UI audit, loading speed optimization, as well as content repositioning – making sure visitors to continue longer and take pleasure in a higher conversion rate.</p>",
+
+        "image_first_url" : "/images2/website-redesign-img1.webp",
+
+        "heading_second" : "",
+
+        "subheading_second" : "",
+
+        "image_second_url" : "",
+
+        "heading_third" : "Cost-effective Website Redesign Company in India",
+
+        "subheading_third" : "<p>If your website was designed over 2 years ago you need to think about a redesign, often a redesign can improve your company image, customer retention, better sales performance, improved search engine ranking and give you the ability to manage content more effectively. As users see awe inspiring technologies on the web they grow accustomed to good design and instinctively ignore poorly designed older sites. If the internet is an important marketing arena for your products, it is crucial for your site to maintain pace with the internet technologies, for continued success both in terms of sales from the site and customer retention.</p>",
+
+        "subheading_third_bullets" : "<h3 class='subtitle2'>When we redesign your website, our primary goal is to improve your bottom line.</h3>",
+
+        "image_third_url" : "/images2/webredesignimg4.webp",
+
+        "services" : [
+            {
+                "num":"01",
+                "link": "web-development-services.php",
+                "servicename": "Web Development SERVICE",
+                "servicedesc": "Welcome to MEDIATRENZ, the most preferred choice for quality web...",
+                "serviceicon": "<i class='fi fi-tr-it-alt'></i>"
+            },
+            {
+                "num":"02",
+                "link": "website-designing-services.php",
+                "servicename": "Website Designing SERVICE",
+                "servicedesc": "MEDIATRENZ offers you a professional website that enables you to do...",
+                "serviceicon": "<i class='fi fi-tr-site-browser'></i>"
+            },
+            {
+                "num":"03",
+                "link": "wordpress-development-services.php",
+                "servicename": "Wordpress Development SERVICE",
+                "servicedesc": "Cost-Effective WordPress Development Solutions For Your Business...",
+                "serviceicon": "<i class='fi fi-brands-wordpress'></i>"
+            },
+            {
+                "num":"04",
+                "link": "moodle-development-services.php",
+                "servicename": "Moodle Development",
+                "servicedesc": "Moodle is a learning platform designed to provide educators...",
+                "serviceicon": "<i class='fi fi-ts-corporate'></i>"
+            },
+            {
+                "num":"05",
+                "link": "drupal-development-services.php",
+                "servicename": "Drupal Development Services",
+                "servicedesc": "We Develop Secure, Scalable, User-friendly Drupal Websites...",
+                "serviceicon": "<i class='fi fi-brands-drupal'></i>"
+            },
+            {
+                "num":"06",
+                "link": "core-php-development.php",
+                "servicename": "Core PHP Development SERVICE",
+                "servicedesc": "We at MEDIATRENZ specialize in website development services...",
+                "serviceicon": "<i class='fi fi-brands-php'></i>"
+            },
+            {
+                "num":"07",
+                "link": "e-commerce-development.php",
+                "servicename": "E-Commerce Development",
+                "servicedesc": "We deliver the best eCommerce web solutions to our clients.",
+                "serviceicon": "<i class='fi fi-ts-marketplace'></i>"
+            },
+            {
+                "num":"08",
+                "link": "laravel-development-service.php",
+                "servicename": "Laravel Development",
+                "servicedesc": "MEDIATRENZ offers a wide-range of flawless custom Laravel solutions...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"09",
+                "link": "website-redesigning-services.php",
+                "servicename": "Website Redesigning Service",
+                "servicedesc": "Every business has its own identity, which we believe should...",
+                "serviceicon": "<i class='fi fi-tr-web-design'></i>"
+            },
+            {
+                "num":"10",
+                "link": "erp-development-service.php",
+                "servicename": "ERP Development Service",
+                "servicedesc": "Fulfill all your productivity and efficiency requirements with...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"11",
+                "link": "web-application-development-service.php",
+                "servicename": "Web Application Development",
+                "servicedesc": "Our expertise in web application development services covers...",
+                "serviceicon": "<i class='fi fi-ts-window-alt'></i>"
+            },
+            {
+                "num":"12",
+                "link": "logo-designing-service.php",
+                "servicename": "Logo Designing Service",
+                "servicedesc": "It is a well-known fact that you need to use your company logo...",
+                "serviceicon": "<i class='fi fi-tr-webhook'></i>"
+            },
+            {
+                "num":"13",
+                "link": "psd-to-html-conversion-service.php",
+                "servicename": "PSD To HTML Conversion SERVICE",
+                "servicedesc": "We create elegantly designed, custom-made websites from PSD.",
+                "serviceicon": "<i class='fi fi-tr-swatchbook'></i>"
+            }
+        ],
+
+        "offers_title": "Give a Facelift to Your Website",
+
+        "offers_desc": "A website talks volumes about your trade. It is certainly the main factor for deciding the trustworthiness of business for forty eight percent of visitors. Is your website doing justice to your brand? Are you capable of attracting more latent consumers with your website? If the answer is No, your website requires a Redesign.",
+
+        "offers_list": [
+            {
+                "num": "01",
+                "offersicon": "<i class='fi fi-tr-discover'></i>",
+                "offersname": "Responsive Website",
+                "offersdesc": "A responsive website is the requirement of the hour. It must exhibit completely on smartphones, laptops, tablets, as well as computers. We intend responsive websites for the best response rate as well as conversion."
+            },
+            {
+                "num": "02",
+                "offersicon": "<i class='fi fi-ts-ux-browser'></i>",
+                "offersname": "Customized Design",
+                "offersdesc": "Every business has a dissimilar set of consumers, thus, no two websites can have a comparable design. MEDIATRENZ provides tailored website redesign services so that your brand has an individual uniqueness."
+            },
+            {
+                "num": "03",
+                "offersicon": "<i class='fi fi-ts-site-alt'></i>",
+                "offersname": "Affordable Pricing",
+                "offersdesc": "We don’t want cost to be a fence in redesigning an striking website for clients. Whether you are a small business or enterprise or a startup, we have reasonable packages to suit your requirements and fit into the bill."
+            },
+            {
+                "num": "04",
+                "offersicon": "<i class='fi fi-ts-url'></i>",
+                "offersname": "Improve User Experience",
+                "offersdesc": "Is your business’s website having complexity keeping the consumers as well as viewers occupied? It is principally due to the incomplete user experience. With the surfeit of options accessible on the internet, if consumers are discovering it tough to navigate your website, they are certain to move on to another website. So, when you opt for redesigning completely re-evaluate your website’s functionality as well as make updates that will uplift users to remain engaged on your website for a longer time."
+            }
+        ]
+    },
+    {
+        "id" : 10,
+
+        "meta_title" : "Best Logo Design Company in India | Custom Business Logo Company",
+        "meta_description" : "We are known as a professional logo design company in India that provides exceptional custom business logo design services in India & USA. Click here for logo design.",
+        "meta_keywords" : "Logo design services India,Logo design company in India",
+        "meta_og_title" : "Best Logo Design Company in India | Custom Business Logo Company",
+        "meta_og_description" : "We are known as a professional logo design company in India that provides exceptional custom business logo design services in India & USA. Click here for logo design.",
+        "meta_og_image" : "",
+        "meta_og_url" : "",
+
+        "slug" : "/logo-designing-service.php",
+
+        "page_title" : "Logo Designing Service",
+
+        "banner_image_url" : "/images2/logo-designing-banner.webp",
+
+        "breadcrums" : "Logo Designing Service",
+
+        "heading_first" : "Create a Fabulous Logo for your business with our Logo Designing Service",
+
+        "subheading_first" : "<p>An exceptional logo design can provoke tons of your prospects to come as well as unite with your business. Our artistic logo designers have been conniving exceptional and custom logos since decades and this has added towards our mounting customer base and established us as leaders in logo design services</p>",
+
+        "image_first_url" : "/images2/logo-designing-img1.webp",
+
+        "heading_second" : "Why You Need A Professional Logo Design",
+
+        "subheading_second" : "<p>A logo isn't just a minuscule piece of art; it's the structure block your company requires to fabricate a strong brand identity with. Utilizing a tailor made logo on diverse fractions of your commerce, such as website, packaging, label, obtains your brand the much-required visibility. A logo becomes eternal when it entirely identifies your brand from your competitors. If it offers a vision of the business you are into in just one glance; then it's a huge logo! Every company is different, and their obligations are unique too. That's the motive why we, at MEDIATRENZ, offer you with a custom logo design at the most reasonable price around.</p><p>Logos or else brand marks are a visual individuality of any business, brand, or else company. It could be everything— a symbol, a text, or an arrangement of both. A logo requires serving two purposes — representing a brand’s individuality as well as telling the spectators what the product is all about.. An expert logo design lets you fabricate a connection between your company as well as your customers.</p><p>Furthermore, your brandmark provides as a tool to draw and connect your target audience while boosting your brand allegiance. Thanks to MEDIATRENZ'S imaginative services that do not put a yoke on your pocket to make a custom logo. You can construct your brand identity within your financial plan. But before making one, we recommend you know the narration of the logo design or get recognizable with the newest logo design trends of 2020. It will assist you comprehend diverse types of logos, their functions, as well as similar industries they are utilized in. Obtain our custom logo design services for a stunning logo, or employ a logo designer even within your budget. Whichever way you go, you are convinced to get what exactly you need.</p>",
+
+        "image_second_url" : "/images2/logodesign-parallax-bg.webp",
+
+        "heading_third" : "Create a logo to showcase your exclusive brand",
+
+        "subheading_third" : "<p>Your logo design is necessary for your brand’s identity. A business logo is the primary thing consumers will observe when they are introduced to a novel brand or business, so it’s significant that you create a logo first and primary.</p><p>The reason of a great logo design is to offer your business an edge over your business rivals and fabricate trust with your customers. To accomplish both, a logo should be memorable, simple, and unique. Our online logo maker is here to aid you generate the ideal logo that meets this entire criterion.</p>",
+
+        "subheading_third_bullets" : "",
+
+        "image_third_url" : "/images2/logo-design-dev4.webp",
+
+        "services" : [
+            {
+                "num":"01",
+                "link": "web-development-services.php",
+                "servicename": "Web Development SERVICE",
+                "servicedesc": "Welcome to MEDIATRENZ, the most preferred choice for quality web...",
+                "serviceicon": "<i class='fi fi-tr-it-alt'></i>"
+            },
+            {
+                "num":"02",
+                "link": "website-designing-services.php",
+                "servicename": "Website Designing SERVICE",
+                "servicedesc": "MEDIATRENZ offers you a professional website that enables you to do...",
+                "serviceicon": "<i class='fi fi-tr-site-browser'></i>"
+            },
+            {
+                "num":"03",
+                "link": "wordpress-development-services.php",
+                "servicename": "Wordpress Development SERVICE",
+                "servicedesc": "Cost-Effective WordPress Development Solutions For Your Business...",
+                "serviceicon": "<i class='fi fi-brands-wordpress'></i>"
+            },
+            {
+                "num":"04",
+                "link": "moodle-development-services.php",
+                "servicename": "Moodle Development",
+                "servicedesc": "Moodle is a learning platform designed to provide educators...",
+                "serviceicon": "<i class='fi fi-ts-corporate'></i>"
+            },
+            {
+                "num":"05",
+                "link": "drupal-development-services.php",
+                "servicename": "Drupal Development Services",
+                "servicedesc": "We Develop Secure, Scalable, User-friendly Drupal Websites...",
+                "serviceicon": "<i class='fi fi-brands-drupal'></i>"
+            },
+            {
+                "num":"06",
+                "link": "core-php-development.php",
+                "servicename": "Core PHP Development SERVICE",
+                "servicedesc": "We at MEDIATRENZ specialize in website development services...",
+                "serviceicon": "<i class='fi fi-brands-php'></i>"
+            },
+            {
+                "num":"07",
+                "link": "e-commerce-development.php",
+                "servicename": "E-Commerce Development",
+                "servicedesc": "We deliver the best eCommerce web solutions to our clients.",
+                "serviceicon": "<i class='fi fi-ts-marketplace'></i>"
+            },
+            {
+                "num":"08",
+                "link": "laravel-development-service.php",
+                "servicename": "Laravel Development",
+                "servicedesc": "MEDIATRENZ offers a wide-range of flawless custom Laravel solutions...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"09",
+                "link": "website-redesigning-services.php",
+                "servicename": "Website Redesigning Service",
+                "servicedesc": "Every business has its own identity, which we believe should...",
+                "serviceicon": "<i class='fi fi-tr-web-design'></i>"
+            },
+            {
+                "num":"10",
+                "link": "erp-development-service.php",
+                "servicename": "ERP Development Service",
+                "servicedesc": "Fulfill all your productivity and efficiency requirements with...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"11",
+                "link": "web-application-development-service.php",
+                "servicename": "Web Application Development",
+                "servicedesc": "Our expertise in web application development services covers...",
+                "serviceicon": "<i class='fi fi-ts-window-alt'></i>"
+            },
+            {
+                "num":"12",
+                "link": "logo-designing-service.php",
+                "servicename": "Logo Designing Service",
+                "servicedesc": "It is a well-known fact that you need to use your company logo...",
+                "serviceicon": "<i class='fi fi-tr-webhook'></i>"
+            },
+            {
+                "num":"13",
+                "link": "psd-to-html-conversion-service.php",
+                "servicename": "PSD To HTML Conversion SERVICE",
+                "servicedesc": "We create elegantly designed, custom-made websites from PSD.",
+                "serviceicon": "<i class='fi fi-tr-swatchbook'></i>"
+            }
+        ]
+    },
+    {
+        "id" :11,
+
+        "meta_title" : "WordPress Development Company in India & USA | Developers WordPress",
+        "meta_description" : "We are a custom WordPress development company offering result-driven websites in Los Angeles, California, Dallas, and New York. Get a pro WordPress developer for custom development.",
+        "meta_keywords" : "Wordpress Development Services,wordpress webiste development",
+        "meta_og_title" : "WordPress Development Company in India & USA | Developers WordPress",
+        "meta_og_description" : "We are a custom WordPress development company offering result-driven websites in Los Angeles, California, Dallas, and New York. Get a pro WordPress developer for custom development.",
+        "meta_og_image" : "",
+        "meta_og_url" : "",
+
+        "slug" : "/wordpress-development-services.php",
+
+        "page_title" : "WordPress Development Service",
+
+        "banner_image_url" : "/images2/wordpress-development-banner.webp",
+
+        "breadcrums" : "WordPress Development Service",
+
+        "heading_first" : "One-Stop Destination for Wordpress Development",
+
+        "subheading_first" : "<p>WordPress Development is one of the simplest and most influential content management structures that come with several aspects to make your practice agreeable and appealing. It upholds an universal community to aid you 24*7. Several plugin are accessible to append features on your website. MEDIATRENZ provides WordPress development and solutions at lucrative prices and high-end solutions. If you desire to set up your very own blogging website or else are searching to generate a feature-rich and interactive commerce website, then look no more than WordPress development service from MEDIATRENZ. We are one of the eminent WordPress development Services in India and have been in this trade for the last twelve years. We are proud in conveying a one-stop aspire with above-par WordPress development services at a quick turnaround time. Our brilliant team of WordPress developers has the sharpness of offering path-breaking web solutions utilizing progressive WordPress technology.</p>",
+
+        "subheading_first_para" : "<p class='mb-0 paragraph'>As a leading development company, we conceit in conveying superior experience by conveying unmatched WordPress development services to customers across the sphere. Our solitary focus is on ensuring that whatever be your web development needs, we fulfil it with skill utilizing WordPress technology. <br> As of now, WordPress reports for at least thirty-one percent of the web globally. Admiring as well as keeping this venture in mind, we develop our class-apart WordPress website development tests to all the plumbs in the industry. Our websites donate to the businesses and are companionable with a broad display of business requirements.</p>",
+
+        "image_first_url" : "/images2/wordpress-development-img1.webp",
+
+        "heading_second" : "Why Should You prefer WordPress Development?",
+
+        "subheading_second" : "<p>With over thirty three percent of the website marketplace share, WordPress fetches a lot to web development. Although it’s one of the most influential content management systems, it is also the easiest, making your development practice very pleasing. You can advantage from limitless plugins and add-on facets that make WordPress website organization simple. At MEDIATRENZ, we provide WordPress development services at reasonable prices.</p><p>Utilizing WordPress podium for your web development objectives has got several distinct benefits. Initially, WordPress permits you to be completely in control of your website. You get to choose how you are going to utilize your content and when you crave to post them. You can also utilize WordPress for making your custom blog site and proffer valuable information to your readers on any prearranged topic. WordPress also offers you with frequent huge themes that you can utilize to modify the look and feel of your website. Whether you are searching to make a totally commercial website or want to set up a stage for your individual thoughts, diaries as well as essays, you can attain out to a broader audience when you use the WordPress CMS. You can also select from several fonts, colors, templates as well as plugins to make a unique experience for your audience who visits your website.</p>",
+
+        "image_second_url" : "/images2/wordpress-parallaxbg.webp",
+
+        "heading_third" : "MEDIATRENZ for WordPress Development Solutions",
+
+        "subheading_third" : "<p>WordPress, being the most powerful content management system is highly preferred for informative websites and blogging needs. It is highly recommended from the perspective of search engine optimization and alluring features. Unlike bespoke website development, with WordPress, having your website is quicker, easier and a lot more affordable.</p>",
+
+        "subheading_third_bullets" : "<h3 class='subtitle2'>A high-performance website is useful for higher audience engagement and conversion rates.</h3>",
+
+        "image_third_url" : "/images2/wordpress-dev4.webp",
+
+        "services" : [
+            {
+                "num":"01",
+                "link": "web-development-services.php",
+                "servicename": "Web Development SERVICE",
+                "servicedesc": "Welcome to MEDIATRENZ, the most preferred choice for quality web...",
+                "serviceicon": "<i class='fi fi-tr-it-alt'></i>"
+            },
+            {
+                "num":"02",
+                "link": "website-designing-services.php",
+                "servicename": "Website Designing SERVICE",
+                "servicedesc": "MEDIATRENZ offers you a professional website that enables you to do...",
+                "serviceicon": "<i class='fi fi-tr-site-browser'></i>"
+            },
+            {
+                "num":"03",
+                "link": "wordpress-development-services.php",
+                "servicename": "Wordpress Development SERVICE",
+                "servicedesc": "Cost-Effective WordPress Development Solutions For Your Business...",
+                "serviceicon": "<i class='fi fi-brands-wordpress'></i>"
+            },
+            {
+                "num":"04",
+                "link": "moodle-development-services.php",
+                "servicename": "Moodle Development",
+                "servicedesc": "Moodle is a learning platform designed to provide educators...",
+                "serviceicon": "<i class='fi fi-ts-corporate'></i>"
+            },
+            {
+                "num":"05",
+                "link": "drupal-development-services.php",
+                "servicename": "Drupal Development Services",
+                "servicedesc": "We Develop Secure, Scalable, User-friendly Drupal Websites...",
+                "serviceicon": "<i class='fi fi-brands-drupal'></i>"
+            },
+            {
+                "num":"06",
+                "link": "core-php-development.php",
+                "servicename": "Core PHP Development SERVICE",
+                "servicedesc": "We at MEDIATRENZ specialize in website development services...",
+                "serviceicon": "<i class='fi fi-brands-php'></i>"
+            },
+            {
+                "num":"07",
+                "link": "e-commerce-development.php",
+                "servicename": "E-Commerce Development",
+                "servicedesc": "We deliver the best eCommerce web solutions to our clients.",
+                "serviceicon": "<i class='fi fi-ts-marketplace'></i>"
+            },
+            {
+                "num":"08",
+                "link": "laravel-development-service.php",
+                "servicename": "Laravel Development",
+                "servicedesc": "MEDIATRENZ offers a wide-range of flawless custom Laravel solutions...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"09",
+                "link": "website-redesigning-services.php",
+                "servicename": "Website Redesigning Service",
+                "servicedesc": "Every business has its own identity, which we believe should...",
+                "serviceicon": "<i class='fi fi-tr-web-design'></i>"
+            },
+            {
+                "num":"10",
+                "link": "erp-development-service.php",
+                "servicename": "ERP Development Service",
+                "servicedesc": "Fulfill all your productivity and efficiency requirements with...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"11",
+                "link": "web-application-development-service.php",
+                "servicename": "Web Application Development",
+                "servicedesc": "Our expertise in web application development services covers...",
+                "serviceicon": "<i class='fi fi-ts-window-alt'></i>"
+            },
+            {
+                "num":"12",
+                "link": "logo-designing-service.php",
+                "servicename": "Logo Designing Service",
+                "servicedesc": "It is a well-known fact that you need to use your company logo...",
+                "serviceicon": "<i class='fi fi-tr-webhook'></i>"
+            },
+            {
+                "num":"13",
+                "link": "psd-to-html-conversion-service.php",
+                "servicename": "PSD To HTML Conversion SERVICE",
+                "servicedesc": "We create elegantly designed, custom-made websites from PSD.",
+                "serviceicon": "<i class='fi fi-tr-swatchbook'></i>"
+            }
+        ],
+
+        "offers_title": "How MEDIATRENZ can help you with WordPress Development Services?",
+
+        "offers_list": [
+            {
+                "num": "01",
+                "offersicon": "<i class='fi fi-tr-discover'></i>",
+                "offersname": "PSD to WordPress Conversion",
+                "offersdesc": "Our resourceful WordPress development team meticulously understand your requirements and, based on that, convert your pixel-rich PSD files to super-responsive, and W3C validated WordPress themes."
+            },
+            {
+                "num": "02",
+                "offersicon": "<i class='fi fi-ts-ux-browser'></i>",
+                "offersname": "WordPress Plugin Development",
+                "offersdesc": "At MEDIATRENZ, we always strive hard to ensure that the themes work exceptionally well, even on the platforms beyond their defaults. This is made possible with the help of the latest technologies and security updates."
+            },
+            {
+                "num": "03",
+                "offersicon": "<i class='fi fi-ts-site-alt'></i>",
+                "offersname": "Responsive WordPress Theme Development",
+                "offersdesc": "Do you feel your existing website lacks the responsiveness and gets truncated on screen? We provide highly responsive WordPress theme development services as per your individual requirements."
+            },
+            {
+                "num": "04",
+                "offersicon": "<i class='fi fi-ts-url'></i>",
+                "offersname": "WordPress CMS Installation & Configuration",
+                "offersdesc": "We provide seamless CMS installation & configuration. This includes WordPress websites and blog setup, WordPress design & development, free & paid WordPress theme configuration, etc."
+            },
+            {
+                "num": "05",
+                "offersicon": "<i class='fi fi-ts-it-alt'></i>",
+                "offersname": "WordPress Migration and Maintenance Service",
+                "offersdesc": "We provide a comprehensive set of maintenance and support. On top of this, we are also good at providing migration services to WordPress."
+            },
+            {
+                "num": "06",
+                "offersicon": "<i class='fi fi-ts-it-alt'></i>",
+                "offersname": "Custom WordPress Web Development",
+                "offersdesc": "We provide a range of custom WordPress web development services ensuring that you end up with pixel perfect WordPress custom web design and development services from us!"
+            },
+            {
+                "num": "07",
+                "offersicon": "<i class='fi fi-ts-it-alt'></i>",
+                "offersname": "WordPress Theme Customization",
+                "offersdesc": "We provide a wide array of responsive themes and services options, which helps us to customize the themes following your preferred designs."
+            },
+            {
+                "num": "08",
+                "offersicon": "<i class='fi fi-ts-it-alt'></i>",
+                "offersname": "WooCommerce Development",
+                "offersdesc": "As a one-stop WordPress development company, we help businesses develop growth-oriented WooCommerce stores and even migrate their existing store to WooCommerce."
+            }
+        ]
+    },
+    {
+        "id" : 12,
+
+        "meta_title" : "Moodle Development Services India | Moodle Website India",
+        "meta_description" : "MEDIATRENZ is a qualified Moodle development company in India. If you are looking for Moodle website in India or Moodle development services in India then contact us.",
+        "meta_keywords" : "Moodle Develpoment Services,Moodle website development",
+        "meta_og_title" : "Moodle Development Services India | Moodle Website India",
+        "meta_og_description" : "MEDIATRENZ is a qualified Moodle development company in India. If you are looking for Moodle website in India or Moodle development services in India then contact us.",
+        "meta_og_image" : "",
+        "meta_og_url" : "",
+
+        "slug" : "/moodle-development-services.php",
+
+        "page_title" : "Moodle Development Service",
+
+        "banner_image_url" : "/images2/moodle-development-banner.webp",
+
+        "breadcrums" : "Moodle Development Service",
+
+        "heading_first" : "Flexible and Secure Moodle Development Services",
+
+        "subheading_first" : "<p>Moodle Development, an admired learning management system is utilized to make e-learning portals plus websites by offering a robust system and a modified learning environment. Built on the PHP stage, it is extremely supple and can be modified to congregate explicit business requirements effortlessly. <br> As a consistent and presumed Moodle development company, MEDIATRENZ can aid you to plan, assess and perform your explicit learning procedure for making and publishing content, monitoring student’s contribution and assessing their presentation. Whether you are searching to modernize to the latest Moodle version or else want to create an e-learning website from scratch, our PHP developers have the proficiency to create solutions that match all your business requirements.</p>",
+
+        "image_first_url" : "/images2/moodle-development-img1.webp",
+
+        "heading_second" : "",
+
+        "subheading_second" : "",
+
+        "image_second_url" : "",
+
+        "heading_third" : "Why choose us?",
+
+        "subheading_third" : "<p>Our Moodle development services are backed by an experienced and extremely specialist team of Moodle designers and developers. We have an established track record of performing all and any sort of high-performing Moodle development projects with effortlessness carry them on time within your set budgets. Our proficiency in developing a Moodle-based e-learning resolution comes from decades of knowledge and an extremely dedicated development team. Our promise is to carry specially made, high executing, and bespoke e-learning systems as specified by our customers. We influence our experience in the business to convey outstanding Moodle solutions that will aid you harmonize the workflow of the learning management system and eventually distribute superior digital experience. If you are searching for top-quality e-learning solutions, then look no more. <br> We specialize in laterally Moodle development solutions and have proficiency in handling businesses from diverse sectors. While delivering solutions, we make sure obedience to the severe standards of delivery while maintaining the optimal levels of quality. Partnering with us as your Moodle development business you can generate a broad range of activities with highest confidence and professionalism.</p> <ul class='bullet-style1 half'><li> <i class='fi fi-bs-check-circle'></i> Academic organizations</li><li> <i class='fi fi-bs-check-circle'></i> Corporate sectors</li><li> <i class='fi fi-bs-check-circle'></i> Public sector</li><li> <i class='fi fi-bs-check-circle'></i> Ecommerce</li><li> <i class='fi fi-bs-check-circle'></i> Manufacturing</li><li> <i class='fi fi-bs-check-circle'></i> Charities</li></ul>",
+
+        "subheading_third_bullets" : "",
+
+        "image_third_url" : "/images2/moodle-dev4.webp",
+
+        "services" : [
+            {
+                "num":"01",
+                "link": "web-development-services.php",
+                "servicename": "Web Development SERVICE",
+                "servicedesc": "Welcome to MEDIATRENZ, the most preferred choice for quality web...",
+                "serviceicon": "<i class='fi fi-tr-it-alt'></i>"
+            },
+            {
+                "num":"02",
+                "link": "website-designing-services.php",
+                "servicename": "Website Designing SERVICE",
+                "servicedesc": "MEDIATRENZ offers you a professional website that enables you to do...",
+                "serviceicon": "<i class='fi fi-tr-site-browser'></i>"
+            },
+            {
+                "num":"03",
+                "link": "wordpress-development-services.php",
+                "servicename": "Wordpress Development SERVICE",
+                "servicedesc": "Cost-Effective WordPress Development Solutions For Your Business...",
+                "serviceicon": "<i class='fi fi-brands-wordpress'></i>"
+            },
+            {
+                "num":"04",
+                "link": "moodle-development-services.php",
+                "servicename": "Moodle Development",
+                "servicedesc": "Moodle is a learning platform designed to provide educators...",
+                "serviceicon": "<i class='fi fi-ts-corporate'></i>"
+            },
+            {
+                "num":"05",
+                "link": "drupal-development-services.php",
+                "servicename": "Drupal Development Services",
+                "servicedesc": "We Develop Secure, Scalable, User-friendly Drupal Websites...",
+                "serviceicon": "<i class='fi fi-brands-drupal'></i>"
+            },
+            {
+                "num":"06",
+                "link": "core-php-development.php",
+                "servicename": "Core PHP Development SERVICE",
+                "servicedesc": "We at MEDIATRENZ specialize in website development services...",
+                "serviceicon": "<i class='fi fi-brands-php'></i>"
+            },
+            {
+                "num":"07",
+                "link": "e-commerce-development.php",
+                "servicename": "E-Commerce Development",
+                "servicedesc": "We deliver the best eCommerce web solutions to our clients.",
+                "serviceicon": "<i class='fi fi-ts-marketplace'></i>"
+            },
+            {
+                "num":"08",
+                "link": "laravel-development-service.php",
+                "servicename": "Laravel Development",
+                "servicedesc": "MEDIATRENZ offers a wide-range of flawless custom Laravel solutions...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"09",
+                "link": "website-redesigning-services.php",
+                "servicename": "Website Redesigning Service",
+                "servicedesc": "Every business has its own identity, which we believe should...",
+                "serviceicon": "<i class='fi fi-tr-web-design'></i>"
+            },
+            {
+                "num":"10",
+                "link": "erp-development-service.php",
+                "servicename": "ERP Development Service",
+                "servicedesc": "Fulfill all your productivity and efficiency requirements with...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"11",
+                "link": "web-application-development-service.php",
+                "servicename": "Web Application Development",
+                "servicedesc": "Our expertise in web application development services covers...",
+                "serviceicon": "<i class='fi fi-ts-window-alt'></i>"
+            },
+            {
+                "num":"12",
+                "link": "logo-designing-service.php",
+                "servicename": "Logo Designing Service",
+                "servicedesc": "It is a well-known fact that you need to use your company logo...",
+                "serviceicon": "<i class='fi fi-tr-webhook'></i>"
+            },
+            {
+                "num":"13",
+                "link": "psd-to-html-conversion-service.php",
+                "servicename": "PSD To HTML Conversion SERVICE",
+                "servicedesc": "We create elegantly designed, custom-made websites from PSD.",
+                "serviceicon": "<i class='fi fi-tr-swatchbook'></i>"
+            }
+        ],
+
+        "offers_title": "Our Moodle LMS Development Services",
+
+        "offers_list": [
+            {
+                "num": "01",
+                "offersicon": "<i class='fi fi-tr-discover'></i>",
+                "offersname": "Consultation Services",
+                "offersdesc": "We are leaders in providing the most confidential Moodle development services to customers from dissimilar industry verticals."
+            },
+            {
+                "num": "02",
+                "offersicon": "<i class='fi fi-ts-ux-browser'></i>",
+                "offersname": "LMS Migration and Integration",
+                "offersdesc": "With us, you can exchange to Moodle from your live LMS as well as integration of any plugin is simpler, quicker as well as easier."
+            },
+            {
+                "num": "03",
+                "offersicon": "<i class='fi fi-ts-site-alt'></i>",
+                "offersname": "LMS Customization",
+                "offersdesc": "Our specialized and modified Moodle themes are extremely attractive and completely designed to make sure ease of utilization and that it matches explicit business goals."
+            },
+            {
+                "num": "04",
+                "offersicon": "<i class='fi fi-ts-url'></i>",
+                "offersname": "LMS Mobile App and Plugin Development",
+                "offersdesc": "With vast experience in Moodle development, we can build up steady, as well as error free plugins that are not a fraction of Moodle’s hamlet but highly vital for your organization."
+            },
+            {
+                "num": "05",
+                "offersicon": "<i class='fi fi-ts-site-alt'></i>",
+                "offersname": "LMS Hosting",
+                "offersdesc": "Our hosting solutions aid businesses in India to make a rewarding e-learning experience for the administrators, students as well as teachers."
+            },
+            {
+                "num": "06",
+                "offersicon": "<i class='fi fi-ts-url'></i>",
+                "offersname": "LMS Maintenance and Support",
+                "offersdesc": "We are competent of resolving any scientific and administrative problems without wasting time through our support services."
+            }
+        ]
+    },
+    {
+        "id" : 13,
+
+        "meta_title" : "Drupal Web Development in India & USA | Hire Pro Developers",
+        "meta_description" : "We are a leading Drupal Website Development Company in India providing professional developers in New York, Dallas, San Diego & other states of the USA. Call us now.",
+        "meta_keywords" : "Drupal Development Services,Drupal development company in India",
+        "meta_og_title" : "Drupal Web Development in India & USA | Hire Pro Developers",
+        "meta_og_description" : "We are a leading Drupal Website Development Company in India providing professional developers in New York, Dallas, San Diego & other states of the USA. Call us now.",
+        "meta_og_image" : "",
+        "meta_og_url" : "",
+
+        "slug" : "/drupal-development-services.php",
+
+        "page_title" : "Drupal Development Service",
+
+        "banner_image_url" : "/images2/drupal-development-banner.webp",
+
+        "breadcrums" : "Drupal Development Service",
+
+        "heading_first" : "Digitally transform your website with Drupal Development Service",
+
+        "subheading_first" : "<p>At MEDIATRENZ, we provide 360 degrees Drupal Web Development Services to assist enterprises build Digital Solutions that centre on fixing the business model, reforming marketing strategy as well as improving the user experience. After re-evaluating a selection of case studies, we, as one of the top CMS Drupal web development companies; have formed some of the most complex digital solutions that provide to several exclusive business requirements.</p><p>Drupal is a highly robust and flexible Content Management System that provides flawless Authoring, receptive Theme, Multilingual, simple Configuration Management as well as Integration with other Enterprise Applications for diverse business needs.</p>",
+
+        "subheading_first_para" : "",
+
+        "image_first_url" : "/images2/drupal-development-img1.webp",
+
+        "heading_second" : "",
+
+        "subheading_second" : "",
+
+        "subheading_second_bullets" : "",
+
+        "subheading_second_para" : "",
+
+        "cards_class" : "col-md-3 col-sm-6 mt-30",
+
+        "cards" : [
+            {
+                "num" : "1",
+                "cardsname" : "Strategy and Consulting <br> Services",
+                "cardsdesc" : "We comprehend your business vision through a course of action that optimally combines novel and artistic ideas with the finest of established procedures to defend your interests while making sure your uniqueness / USP.",
+                "cardsicon" : "<i class='fi fi-ts-seller-store'></i>"
+            },
+            {
+                "num" : "2",
+                "cardsname" : "Drupal <br> Development",
+                "cardsdesc" : "At MEDIATRENZ, we influence our broad experience in the Drupal development framework for web application development as well as creating Drupal modules to ensemble the unique needs of diverse kinds of enterprises.",
+                "cardsicon" : "<i class='fi fi-tr-customize-edit'></i>"
+            },
+            {
+                "num" : "3",
+                "cardsname" : "Drupal Migration & <br> Upgrade",
+                "cardsdesc" : "We are skilled at Drupal backup as well as migrate with high-profile websites through established procedures including staff-training and support. Our holistic approach will alleviate your concerns with an effective as well as secure migration.",
+                "cardsicon" : "<i class='fi fi-ts-marketplace'></i>"
+            },
+            {
+                "num" : "4",
+                "cardsname" : "Drupal Commerce <br> Development",
+                "cardsdesc" : "At MEDIATRENZ, we build receptive customizable as well as scalable Drupal Commerce for e-commerce platforms that adapt to your budding requirements.",
+                "cardsicon" : "<i class='fi fi-tr-customize-edit'></i>"
+            }
+        ],
+
+        "image_second_url" : "/images2/drupal-parallax-bg.webp",
+
+        "heading_third" : "Delivering Premium Drupal Development Services Globally",
+
+        "subheading_third" : "<p>MEDIATRENZ is the leading drupal web development company. Our decade long experience leverage to deliver Excellent Drupal Development Services wrapping up with all cutting-edge CMS features and functionality to meet cross domains and industry verticals preferences.</p><p>We leverage our expertise for building, customizing, and migrating sites to reap positive business outcomes. We have provided growth to several industry verticals with our innovative Drupal development solutions.</p>",
+
+        "subheading_third_bullets" : "<h3 class='subtitle2'>We follow dextrous and advanced methodology for developing custom Drupal web applications. </h3>",
+
+        "image_third_url" : "/images2/drupal-dev4.webp",
+
+        "offers_title": "Why Choose Us?",
+
+        "offers_list": [
+            {
+                "num": "01",
+                "offersicon": "<i class='fi fi-tr-discover'></i>",
+                "offersname": "Drupal Support",
+                "offersdesc": "MEDIATRENZ serves first-rate Drupal Support, 24/7 Drupal maintenance as well as support services to business-levels, particularly for Media, Publishing, Product companies, e-commerce and much more."
+            },
+            {
+                "num": "02",
+                "offersicon": "<i class='fi fi-ts-ux-browser'></i>",
+                "offersname": "Enterprise-class Software",
+                "offersdesc": "Drupal is an Enterprise-class CMS and this permits Developers to incorporate with other applications like SAP, phpBB, etc. It is very highly flexible, reliable, effortlessly convenient platform with zero compromises on security. Thus it is suitable for both big and small businesses."
+            },
+            {
+                "num": "03",
+                "offersicon": "<i class='fi fi-ts-site-alt'></i>",
+                "offersname": "Exceptional Drupal API support",
+                "offersdesc": "Today, individuals of each age and professions utilize social networking sites. Developers fabricate website that is friendly with social media websites such as Facebook, Twitter, YouTube, Instagram, etc. These social sites offer extensive API support for Drupal. This assists to expand business and is expedient feature not to be ignored. Also developers can make own custom modules by applying such well-documented API."
+            },
+            {
+                "num": "04",
+                "offersicon": "<i class='fi fi-ts-url'></i>",
+                "offersname": "Drupal SEO- Friendly",
+                "offersdesc": "Drupal SEO service assists you to design the content of your website. This way it will generate more traffic and users to your website. SEO plays a significant role in any company’s online marketing as well as Drupal gives enormous flexibility to display content in a method that search engine prefers. Thus appearing on top of search engines can boost the visibility and expansion of your website extremely."
+            },
+            {
+                "num": "05",
+                "offersicon": "<i class='fi fi-ts-site-alt'></i>",
+                "offersname": "Convenient and Robust",
+                "offersdesc": "Ensure that the source code for developing your Drupal site is exactly written and designed by Drupal specialist. Our dedicated team of Drupal specialists can help you with entire Drupal website maintenance and services. Whenever you wish to do more complex and sophisticated work, you will discover it suitable and simple to change the system. This will offer users with advantage over other CMS."
+            },
+            {
+                "num": "06",
+                "offersicon": "<i class='fi fi-ts-url'></i>",
+                "offersname": "Drupal Training",
+                "offersdesc": "MEDIATRENZ is a good resource and provides corporate Drupal training for Drupal development. It assists you to learn, develop and uphold your Drupal eight skills through online drupal training. We provide Drupal training webinars along with study material. Our trainers are authorized and experienced in Drupal development and support."
+            }
+        ],
+
+        "services" : [
+            {
+                "num":"01",
+                "link": "web-development-services.php",
+                "servicename": "Web Development SERVICE",
+                "servicedesc": "Welcome to MEDIATRENZ, the most preferred choice for quality web...",
+                "serviceicon": "<i class='fi fi-tr-it-alt'></i>"
+            },
+            {
+                "num":"02",
+                "link": "website-designing-services.php",
+                "servicename": "Website Designing SERVICE",
+                "servicedesc": "MEDIATRENZ offers you a professional website that enables you to do...",
+                "serviceicon": "<i class='fi fi-tr-site-browser'></i>"
+            },
+            {
+                "num":"03",
+                "link": "wordpress-development-services.php",
+                "servicename": "Wordpress Development SERVICE",
+                "servicedesc": "Cost-Effective WordPress Development Solutions For Your Business...",
+                "serviceicon": "<i class='fi fi-brands-wordpress'></i>"
+            },
+            {
+                "num":"04",
+                "link": "moodle-development-services.php",
+                "servicename": "Moodle Development",
+                "servicedesc": "Moodle is a learning platform designed to provide educators...",
+                "serviceicon": "<i class='fi fi-ts-corporate'></i>"
+            },
+            {
+                "num":"05",
+                "link": "drupal-development-services.php",
+                "servicename": "Drupal Development Services",
+                "servicedesc": "We Develop Secure, Scalable, User-friendly Drupal Websites...",
+                "serviceicon": "<i class='fi fi-brands-drupal'></i>"
+            },
+            {
+                "num":"06",
+                "link": "core-php-development.php",
+                "servicename": "Core PHP Development SERVICE",
+                "servicedesc": "We at MEDIATRENZ specialize in website development services...",
+                "serviceicon": "<i class='fi fi-brands-php'></i>"
+            },
+            {
+                "num":"07",
+                "link": "e-commerce-development.php",
+                "servicename": "E-Commerce Development",
+                "servicedesc": "We deliver the best eCommerce web solutions to our clients.",
+                "serviceicon": "<i class='fi fi-ts-marketplace'></i>"
+            },
+            {
+                "num":"08",
+                "link": "laravel-development-service.php",
+                "servicename": "Laravel Development",
+                "servicedesc": "MEDIATRENZ offers a wide-range of flawless custom Laravel solutions...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"09",
+                "link": "website-redesigning-services.php",
+                "servicename": "Website Redesigning Service",
+                "servicedesc": "Every business has its own identity, which we believe should...",
+                "serviceicon": "<i class='fi fi-tr-web-design'></i>"
+            },
+            {
+                "num":"10",
+                "link": "erp-development-service.php",
+                "servicename": "ERP Development Service",
+                "servicedesc": "Fulfill all your productivity and efficiency requirements with...",
+                "serviceicon": "<i class='fi fi-ts-table-tree'></i>"
+            },
+            {
+                "num":"11",
+                "link": "web-application-development-service.php",
+                "servicename": "Web Application Development",
+                "servicedesc": "Our expertise in web application development services covers...",
+                "serviceicon": "<i class='fi fi-ts-window-alt'></i>"
+            },
+            {
+                "num":"12",
+                "link": "logo-designing-service.php",
+                "servicename": "Logo Designing Service",
+                "servicedesc": "It is a well-known fact that you need to use your company logo...",
+                "serviceicon": "<i class='fi fi-tr-webhook'></i>"
+            },
+            {
+                "num":"13",
+                "link": "psd-to-html-conversion-service.php",
+                "servicename": "PSD To HTML Conversion SERVICE",
+                "servicedesc": "We create elegantly designed, custom-made websites from PSD.",
+                "serviceicon": "<i class='fi fi-tr-swatchbook'></i>"
+            }
+        ]
+    }
+]
