@@ -35,5 +35,6 @@ jobs:
             cd /home/mediatrenz/public_html
             git pull origin main
             npm install
+            rm -rf .next
             npm run build
-            pm2 restart nextjs-app || pm2 start npm --name "nextjs-app" -- start
+            pm2 restart nextjs-app --update-env || pm2 start npm --name "nextjs-app" -- start
