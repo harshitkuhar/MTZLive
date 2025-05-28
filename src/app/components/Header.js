@@ -32,7 +32,7 @@ export default function Header(){
                         <i className="fi fi-ts-completed"></i> PORTFOLIO 
                         </Link>
                         <div className="dropdown-content">
-                          <Link href="headless-portfolio.php">- HEADLESS7</Link>
+                          <Link href="headless-portfolio.php">- HEADLESS</Link>
                           <Link href="web-development-portfolio.php">- WEB DEVELOPMENT</Link>
                           <Link href="seo-portfolio.php">- SEO PORTFOLIO</Link>
                           <Link href="mobile-app-portfolio.php">- MOBILE APPS PORTFOLIO</Link>
