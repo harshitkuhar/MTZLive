@@ -13,8 +13,6 @@ pnpm dev
 # or
 bun dev
 
-echo "# Triggering deployment 🚀" >> README.md
-
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
