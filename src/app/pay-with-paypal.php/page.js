@@ -61,7 +61,7 @@ export default function payWithPaypal() {
                   <div className="form-row">
                     <div className="form-group col-md-12">
                       <label htmlFor="amount">Select Currency <span className="text-danger">*</span> </label>
-                      <select name="currency" className="form-control">
+                      <select name="currency_code" className="form-control">
                         <option disabled={true}>Currency</option>
                         <option value="USD">USD</option>
                         <option value="AUD">AUD</option>
