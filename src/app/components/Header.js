@@ -273,6 +273,15 @@ export default function Header(){
                               MOBILE APPS
                             </Link>
                           </li>
+                          <li className="nav-item dropdown">
+                            <Link
+                              className="nav-link"
+                              href="/payments.php"
+                              onClick={() => setShowMenu(false)}
+                            >
+                              PAYMENTS
+                            </Link>
+                          </li>
                        </ul>
                     </div>
                   </nav>
