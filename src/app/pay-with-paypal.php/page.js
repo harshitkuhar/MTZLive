@@ -45,7 +45,7 @@ export default function payWithPaypal() {
                   {/* <input type="hidden" name="notify_url" defaultValue="<?php echo PAYPAL_NOTIFY_URL; ?>" /> */}
                   <input type="hidden" name="item_name" defaultValue />
                   <input type="hidden" name="item_number" defaultValue={1} />
-                  <input type="hidden" name="currency_code" defaultValue={PAYPAL_CURRENCY} />
+                  {/* <input type="hidden" name="currency_code" defaultValue={PAYPAL_CURRENCY} /> */}
                   {/* <input type="hidden" name="return" defaultValue="<?php echo PAYPAL_RETURN_URL; ?>" /> */}
                   {/* <input type="hidden" name="cancel_return" defaultValue="<?php echo PAYPAL_CANCEL_URL; ?>" /> */}
                   <div>
@@ -53,10 +53,43 @@ export default function payWithPaypal() {
                   </div>
                   <div className="form-row">
                     <div className="form-group col-md-12">
-                      <label htmlFor="amount">Invoice Amount (USD) <span className="text-danger">*</span> </label>
+                      <label htmlFor="amount">Invoice Amount <span className="text-danger">*</span> </label>
                       <input type="text" className="form-control" id="amount" name="amount" placeholder="Enter Amount" required />
                     </div>
                   </div>
+
+                  <div className="form-row">
+                    <div className="form-group col-md-12">
+                      <label htmlFor="amount">Select Currency <span className="text-danger">*</span> </label>
+                      <select name="currency" className="form-control">
+                        <option disabled={true}>Currency</option>
+                        <option value="USD">USD</option>
+                        <option value="AUD">AUD</option>
+                        <option value="BRL">BRL</option>
+                        <option value="CAD">CAD</option>
+                        <option value="CHF">CHF</option>
+                        <option value="CZK">CZK</option>
+                        <option value="DKK">DKK</option>
+                        <option value="EUR">EUR</option>
+                        <option value="GBP">GBP</option>
+                        <option value="HKD">HKD</option>
+                        <option value="HUF">HUF</option>
+                        <option value="ILS">ILS</option>
+                        <option value="JPY">JPY</option>
+                        <option value="MXN">MXN</option>
+                        <option value="NOK">NOK</option>
+                        <option value="NZD">NZD</option>
+                        <option value="PHP">PHP</option>
+                        <option value="PLN">PLN</option>
+                        <option value="RUB">RUB</option>
+                        <option value="SEK">SEK</option>
+                        <option value="SGD">SGD</option>
+                        <option value="THB">THB</option>
+                        <option value="TWD">TWD</option>
+                      </select>
+                    </div>
+                  </div>
+
                   <div className="form-row">
                     <div className="form-group col-md-12">
                       <label htmlFor="email">Email</label>
