@@ -12768,7 +12768,7 @@ section.clients-sec.cont-b {
   padding: 15px 30px;
   border-radius: 10px;
   color: #313842;
-  font-size: 25px;
+  font-size: 24px;
   font-weight: 600;
   transition: all 0.3s ease;
 }
@@ -12785,7 +12785,9 @@ section.clients-sec.cont-b {
   border-radius: 10px;
   color: #fff;
   font-size: 25px;
+  font-weight: 600;
   transition: all 0.3s ease;
+  margin-bottom: 25px;
 }
 
 .stripe_btn:hover{
