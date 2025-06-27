@@ -12761,3 +12761,34 @@ section.clients-sec.cont-b {
 .mtz .btn-close {
   z-index: 99;
 }
+
+.paypal_btn{
+  background-color: #F7BD38;
+  display: inline-block;
+  padding: 15px 30px;
+  border-radius: 10px;
+  color: #313842;
+  font-size: 25px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.paypal_btn:hover{
+  color: #313842;
+  transform: scale(1.1);
+}
+
+.stripe_btn{
+  background-color: #5F57F7;
+  display: inline-block;
+  padding: 15px 30px;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 25px;
+  transition: all 0.3s ease;
+}
+
+.stripe_btn:hover{
+  color: #fff;
+  transform: scale(1.1);
+}

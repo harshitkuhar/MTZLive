@@ -64,6 +64,11 @@ export default function Header(){
                         <i className="fi fi-ts-land-layer-location"></i> CONTACT
                         </Link>
                       </li>
+                      <li>
+                        <Link href="payments.php" className="contact">
+                        <i className="fi fi-tr-expense"></i> PAYMENTS
+                        </Link>
+                      </li>
                     </ul>
                   </div>
                   <div className="col-lg-4 col-md-3 col-sm-4 col-4 text-right  pdl-0 full">

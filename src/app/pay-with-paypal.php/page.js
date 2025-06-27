@@ -51,12 +51,6 @@ export default function payWithPaypal() {
                   <div>
                     <h4 className="text-center" style={{textDecoration: 'underline', padding: '20px 0px'}}>Payment Details</h4>
                   </div>
-                  <div className="form-row">
-                    <div className="form-group col-md-12">
-                      <label htmlFor="amount">Invoice Amount <span className="text-danger">*</span> </label>
-                      <input type="text" className="form-control" id="amount" name="amount" placeholder="Enter Amount" required />
-                    </div>
-                  </div>
 
                   <div className="form-row">
                     <div className="form-group col-md-12">
@@ -90,6 +84,12 @@ export default function payWithPaypal() {
                     </div>
                   </div>
 
+                  <div className="form-row">
+                    <div className="form-group col-md-12">
+                      <label htmlFor="amount">Invoice Amount <span className="text-danger">*</span> </label>
+                      <input type="text" className="form-control" id="amount" name="amount" placeholder="Enter Amount" required />
+                    </div>
+                  </div>
                   <div className="form-row">
                     <div className="form-group col-md-12">
                       <label htmlFor="email">Email</label>
