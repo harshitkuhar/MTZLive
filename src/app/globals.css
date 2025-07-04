@@ -7658,7 +7658,7 @@ section.footer-bg {
   }
 
   .hero-image {
-    height: 270px;
+    height: 270px !important;
   }
 
   .hero-text .bold-text {
