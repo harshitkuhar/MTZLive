@@ -468,7 +468,7 @@ export default function Footer() {
                 <div className="sprt">
                   <div className="">
                     <span>TALK TO OUR HR </span>
-                    <strong>Sheetal :</strong> +91-8851031128 <br></br>
+                    {/* <strong>Sheetal :</strong> +91-8851031128 <br></br> */}
                     <strong>Surbhi :</strong> +91-8076009813 <br></br>
                     <strong>Pratishtha :</strong> +91-7011050185 <br></br>
                   </div>
@@ -1093,14 +1093,14 @@ export default function Footer() {
                 <div className="sprt">
                   <div className="">
                     <span>Talk To Our HR </span>
-                    <div>
+                    {/* <div>
                       <strong>Sheetal :</strong> +91-8851031128
+                    </div> */}
+                    <div>
+                      <strong>Surbhi :</strong> +91-8076009813
                     </div>
                     <div>
-                      <strong>Shruti :</strong> +91-8076009813
-                    </div>
-                    <div>
-                      <strong>Geetanjali :</strong> +91-7011050185
+                      <strong>Pratishtha :</strong> +91-7011050185
                     </div>
                   </div>
                 </div>
