@@ -56,9 +56,11 @@ export default function WebdevPortfolio() {
           </p>
         </div>
       </section>
+
+{/* 1 */}
       <section
         className="portfolio-sec"
-        style={{ background: "url(/images2/portfolio-bg1.webp) #e35a9e" }}
+        style={{ background: "url(/images2/portfolio-bg1.png) #e35a9e" }}
       >
         <div className="container">
           <div className="row">
@@ -67,11 +69,9 @@ export default function WebdevPortfolio() {
             </div>
             <div className="col-md-6">
               <div className="inner">
-                <h2 className="title text-white">Plains Breaker Apparel</h2>
+                <h2 className="title text-white">Elevated Truck Solution </h2>
                 <p className="text-white">
-                  Plainsbreaker Apparel was inspired by the sight of seeing the
-                  majestic Rocky Mountains towering over the sprawling prairies–
-                  they break the vast plains of Western Canada.
+                  Elevated Truck Solutions provides affordable commercial truck rentals and sales, backed by years of industry expertise. With certified technicians and a wide range of medium, heavy-duty, and sleeper trucks, they deliver reliable, well-maintained vehicles that keep businesses moving.
                 </p>
                 <h3>Technology Used</h3>
                 <ul className="portfolio-technology">
@@ -85,7 +85,7 @@ export default function WebdevPortfolio() {
                 </ul>
                 <Link
                   className="btn btn-yellowcolor mt-3"
-                  href="https://www.plainsbreakerapparel.com/"
+                  href="https://elevatedtrucksolutions.com/"
                   target="_blank"
                   rel="nofollow"
                   tabIndex={-1}
@@ -97,9 +97,11 @@ export default function WebdevPortfolio() {
           </div>
         </div>
       </section>
+
+{/* 2 */}
       <section
         className="portfolio-sec"
-        style={{ background: "url(/images2/portfolio-bg2.webp) #47a9f4" }}
+        style={{ background: "url(/images2/portfolio-bg2.png) #47a9f4" }}
       >
         <div className="container">
           <div className="row">
@@ -108,13 +110,9 @@ export default function WebdevPortfolio() {
             </div>
             <div className="col-md-6">
               <div className="inner">
-                <h2 className="title text-white">Closet Candy</h2>
+                <h2 className="title text-white">Harvest Child & Youth Development Center </h2>
                 <p className="text-white">
-                  Powered by caffeine and a love for fashion, Closet Candy is a
-                  clothing boutique that offers the latest in {`women's`} fashion.
-                  When I started Closet Candy, it was just a simple idea my
-                  husband, Chad, and I had to sell clothes in our salon in
-                  Scottsdale, online, and on Facebook.
+                  Since 2005, Harvest Child & Youth Development Center has been dedicated to nurturing children from 6 weeks to 12 years. With a supportive, multicultural environment and comprehensive programs, they empower young learners to grow, thrive, and prepare for future success.
                 </p>
                 <h3>Technology Used</h3>
                 <ul className="portfolio-technology">
@@ -127,7 +125,7 @@ export default function WebdevPortfolio() {
                 </ul>
                 <Link
                   className="btn btn-yellowcolor mt-3"
-                  href="https://www.closetcandy.com"
+                  href="https://harvestchild.org/"
                   target="_blank"
                   rel="nofollow"
                   tabIndex={-1}
@@ -140,9 +138,11 @@ export default function WebdevPortfolio() {
           </div>
         </div>
       </section>
+
+{/* 3 */}
       <section
         className="portfolio-sec"
-        style={{ background: "url(/images2/portfolio-bg3.webp) #6847c9" }}
+        style={{ background: "url(/images2/portfolio-bg3.png) #6847c9" }}
       >
         <div className="container">
           <div className="row">
@@ -151,13 +151,9 @@ export default function WebdevPortfolio() {
             </div>
             <div className="col-md-6">
               <div className="inner">
-                <h2 className="title text-white">Chef Zipora Global</h2>
+                <h2 className="title text-white">Premier Sport Cars</h2>
                 <p className="text-white">
-                  For more than 2 decades, Chef Zipora Einav has traveled the
-                  world preparing exquisite, flavorful meals for her high-end
-                  clients. She uses food to empower individuals and families to
-                  embrace a healthy lifestyle that satisfies the mind, body, and
-                  spirit.
+                  Premier Sport Cars offers a wide selection of luxury vehicles in Marbella, from cabriolets and sports cars to SUVs. With flawless service, transparent pricing, and insured rentals, they create unforgettable driving experiences tailored to every {'client’s'} lifestyle.
                 </p>
                 <h3>Technology Used</h3>
                 <ul className="portfolio-technology">
@@ -170,7 +166,7 @@ export default function WebdevPortfolio() {
                 </ul>
                 <Link
                   className="btn btn-yellowcolor mt-3"
-                  href="https://chefziporaglobal.com/"
+                  href="https://premiersportcars.com/"
                   target="_blank"
                   rel="nofollow"
                   tabIndex={-1}
@@ -182,9 +178,11 @@ export default function WebdevPortfolio() {
           </div>
         </div>
       </section>
+
+{/* 4 */}
       <section
         className="portfolio-sec"
-        style={{ background: "url(/images2/portfolio-bg4.webp) #47b166" }}
+        style={{ background: "url(/images2/portfolio-bg4.png) #47b166" }}
       >
         <div className="container">
           <div className="row">
@@ -193,11 +191,9 @@ export default function WebdevPortfolio() {
             </div>
             <div className="col-md-6">
               <div className="inner">
-                <h2 className="title text-white">Jain Estates</h2>
+                <h2 className="title text-white">Midwest Physical Therapy</h2>
                 <p className="text-white">
-                  Jain Estates is two decade old Real Estate consultancy firm.
-                  We have our head quarters at New Delhi, and associate offices
-                  in Mumbai, Bangalore, Pune, Kolkata, Chennai etc.
+                  Midwest Physical Therapy delivers compassionate, high-quality care to treat pain, injuries, and movement issues. With a personalized approach and focus on long-term results, they empower patients to recover, prevent future injuries, and live healthier, more active lives.
                 </p>
                 <h3>Technology Used</h3>
                 <ul className="portfolio-technology">
@@ -210,7 +206,7 @@ export default function WebdevPortfolio() {
                 </ul>
                 <Link
                   className="btn btn-yellowcolor mt-3"
-                  href="https://www.jainoncor.com/"
+                  href="https://themidwestpt.com/"
                   target="_blank"
                   rel="nofollow"
                   tabIndex={-1}
@@ -222,9 +218,11 @@ export default function WebdevPortfolio() {
           </div>
         </div>
       </section>
+
+{/* 5 */}
       <section
         className="portfolio-sec"
-        style={{ background: "url(/images2/portfolio-bg5.webp) #e35a9e" }}
+        style={{ background: "url(/images2/portfolio-bg5.png) #e35a9e" }}
       >
         <div className="container">
           <div className="row">
@@ -233,11 +231,9 @@ export default function WebdevPortfolio() {
             </div>
             <div className="col-md-6">
               <div className="inner">
-                <h2 className="title text-white">Orelia</h2>
+                <h2 className="title text-white">Wow Kitchen Designs</h2>
                 <p className="text-white">
-                  Orelia was born out of this need for beautiful, fashionable,
-                  good quality yet affordable jewellery. Orelia bridges the gap
-                  between high street and designer brands.
+                  Wow Kitchen Designs offers professional design services and affordable luxury cabinetry for kitchens and baths. From planning and 3D renderings to project management, they provide complete interior solutions, collaborating with homeowners and contractors to bring every vision to life.
                 </p>
                 <h3>Technology Used</h3>
                 <ul className="portfolio-technology">
@@ -250,7 +246,7 @@ export default function WebdevPortfolio() {
                 </ul>
                 <Link
                   className="btn btn-yellowcolor mt-3"
-                  href="https://www.orelia.co.uk/"
+                  href="https://wowkitchendesigns.com/"
                   target="_blank"
                   rel="nofollow"
                   tabIndex={-1}
@@ -262,9 +258,11 @@ export default function WebdevPortfolio() {
           </div>
         </div>
       </section>
+
+{/* 10 */}
       <section
         className="portfolio-sec"
-        style={{ background: "url(/images2/portfolio-bg6.webp) #47a9f4" }}
+        style={{ background: "url(/images2/portfolio-bg10.png) #6847c9" }}
       >
         <div className="container">
           <div className="row">
@@ -273,13 +271,9 @@ export default function WebdevPortfolio() {
             </div>
             <div className="col-md-6">
               <div className="inner">
-                <h2 className="title text-white">HerbalCart</h2>
+                <h2 className="title text-white">Chery Chiropractic Centre</h2>
                 <p className="text-white">
-                  HerbalCart follows its own way to provide professional
-                  supplements, remedies and one-on-one services to each and
-                  every customer. None of our products are mass produced but are
-                  created by talented &amp; loving hands ensuring quality,
-                  freshness and purity.
+                  With over 25 years of experience, Dr. Carine Chery provides holistic chiropractic and physiotherapy care in Fort Myers. Dedicated to family wellness and community, the center helps patients relieve pain, restore mobility, and achieve long-term health naturally.
                 </p>
                 <h3>Technology Used</h3>
                 <ul className="portfolio-technology">
@@ -292,7 +286,7 @@ export default function WebdevPortfolio() {
                 </ul>
                 <Link
                   className="btn btn-yellowcolor mt-3"
-                  href="https://www.herbalcart.com/"
+                  href="https://cherychiropractic.com/"
                   target="_blank"
                   rel="nofollow"
                   tabIndex={-1}
@@ -304,9 +298,11 @@ export default function WebdevPortfolio() {
           </div>
         </div>
       </section>
+
+{/* 12 */}
       <section
         className="portfolio-sec"
-        style={{ background: "url(/images2/portfolio-bg7.webp) #6847c9" }}
+        style={{ background: "url(/images2/portfolio-bg12.png) #e35a9e" }}
       >
         <div className="container">
           <div className="row">
@@ -315,12 +311,9 @@ export default function WebdevPortfolio() {
             </div>
             <div className="col-md-6">
               <div className="inner">
-                <h2 className="title text-white">Encino Dental Esthetics</h2>
+                <h2 className="title text-white">Well Done Seafood</h2>
                 <p className="text-white">
-                  Encino Dental Esthetics is a technologically advanced and
-                  inviting dental practice conveniently located in Encino,
-                  California. Kaivan Kiai, DDS, and his team of dental experts
-                  provide exceptional dental care for people of all ages.
+                  With over 30 years of expertise, Well Done Seafood specializes in strategic global sourcing across Asia, the Americas, and the Middle East. Partnering with leading processors and fisheries, they deliver high-quality, competitively priced seafood tailored for U.S. and international markets.
                 </p>
                 <h3>Technology Used</h3>
                 <ul className="portfolio-technology">
@@ -333,7 +326,7 @@ export default function WebdevPortfolio() {
                 </ul>
                 <Link
                   className="btn btn-yellowcolor mt-3"
-                  href="https://www.encinodentalesthetics.com/"
+                  href="https://welldoneseafood.com/"
                   target="_blank"
                   rel="nofollow"
                   tabIndex={-1}
@@ -345,93 +338,11 @@ export default function WebdevPortfolio() {
           </div>
         </div>
       </section>
+
+{/* 16 */}
       <section
         className="portfolio-sec"
-        style={{ background: "url(/images2/portfolio-bg8.webp) #47b166" }}
-      >
-        <div className="container">
-          <div className="row">
-            <div className="col-md-6">
-              <div className="mghts" />
-            </div>
-            <div className="col-md-6">
-              <div className="inner">
-                <h2 className="title text-white">Capline Dental Services</h2>
-                <p className="text-white">
-                  Capline Dental, an end-to-end service provider, offers a full
-                  spectrum of services for dental practices, ranging from
-                  credentialing and insurance billing to insurance verification.
-                  We eliminate the day-to-day operational stress so that you can
-                  concentrate on smiles.
-                </p>
-                <h3>Technology Used</h3>
-                <ul className="portfolio-technology">
-                  <li>WordPress</li>
-                  <li>HTML</li>
-                  <li>PHP</li>
-                  <li>JavaScript</li>
-                  <li>CSS</li>
-                  <li>MySQL</li>
-                </ul>
-                <Link
-                  className="btn btn-yellowcolor mt-3"
-                  href="https://www.caplinedentalservices.com/"
-                  target="_blank"
-                  rel="nofollow"
-                  tabIndex={-1}
-                >
-                  <i className="fi fi-rr-globe-pointer"></i> View Website
-                </Link>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <section
-        className="portfolio-sec"
-        style={{ background: "url(/images2/portfolio-bg9.webp) #e35a9e" }}
-      >
-        <div className="container">
-          <div className="row">
-            <div className="col-md-6">
-              <div className="mghts" />
-            </div>
-            <div className="col-md-6">
-              <div className="inner">
-                <h2 className="title text-white">Liv India Group</h2>
-                <p className="text-white">
-                  Everything we do is focused on providing the best car
-                  beautification and customer service experience in the
-                  Automobile industry. Our formula is simple; we make people
-                  feel good by not only delivering a clean, dry and shiny car
-                  every time but also healthy and sanitized vehicle.
-                </p>
-                <h3>Technology Used</h3>
-                <ul className="portfolio-technology">
-                  <li>WordPress</li>
-                  <li>HTML</li>
-                  <li>PHP</li>
-                  <li>JavaScript</li>
-                  <li>CSS</li>
-                  <li>MySQL</li>
-                </ul>
-                <Link
-                  className="btn btn-yellowcolor mt-3"
-                  href="https://www.livindiagroup.com/"
-                  target="_blank"
-                  rel="nofollow"
-                  tabIndex={-1}
-                >
-                  <i className="fi fi-rr-globe-pointer"></i> View Website
-                </Link>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <section
-        className="portfolio-sec"
-        style={{ background: "url(/images2/portfolio-bg10.webp) #47a9f4" }}
+        style={{ background: "url(/images2/portfolio-bg16.png) #47a9f4" }}
       >
         <div className="container">
           <div className="row">
@@ -440,11 +351,9 @@ export default function WebdevPortfolio() {
             </div>
             <div className="col-md-6">
               <div className="inner">
-                <h2 className="title text-white">Zone Firewall</h2>
+                <h2 className="title text-white">Smiles Travel & Tours</h2>
                 <p className="text-white">
-                  Zone Firewall is an award-winning company whose internet and
-                  network protection services have won several awards and
-                  accolades across the world.
+                  Smiles Travel & Tours, a family-owned company based in Livingstone, Zambia, specializes in creating unforgettable journeys. From safaris to adventure activities, they deliver exceptional travel experiences while promoting local tourism and bringing smiles to every client.
                 </p>
                 <h3>Technology Used</h3>
                 <ul className="portfolio-technology">
@@ -457,7 +366,7 @@ export default function WebdevPortfolio() {
                 </ul>
                 <Link
                   className="btn btn-yellowcolor mt-3"
-                  href="https://zonefirewall.co.uk/"
+                  href="https://smilestravelandtourza.com/"
                   target="_blank"
                   rel="nofollow"
                   tabIndex={-1}
@@ -469,7 +378,9 @@ export default function WebdevPortfolio() {
           </div>
         </div>
       </section>
-      <section
+
+{/* 11 */}
+      {/* <section
         className="portfolio-sec"
         style={{ background: "url(/images2/portfolio-bg11.webp) #6847c9" }}
       >
@@ -510,8 +421,10 @@ export default function WebdevPortfolio() {
             </div>
           </div>
         </div>
-      </section>
-      <section
+      </section> */}
+
+{/* 12 */}
+      {/* <section
         className="portfolio-sec"
         style={{ background: "url(/images2/portfolio-bg12.webp) #47b166" }}
       >
@@ -553,10 +466,100 @@ export default function WebdevPortfolio() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
+
+{/* 6 */}
       <section
         className="portfolio-sec"
-        style={{ background: "url(/images2/portfolio-bg13.webp) #e35a9e" }}
+        style={{ background: "url(/images2/portfolio-bg6.png) #47a9f4" }}
+      >
+        <div className="container">
+          <div className="row">
+            <div className="col-md-6">
+              <div className="mghts" />
+            </div>
+            <div className="col-md-6">
+              <div className="inner">
+                <h2 className="title text-white">HerbalCart</h2>
+                <p className="text-white">
+                  HerbalCart follows its own way to provide professional
+                  supplements, remedies and one-on-one services to each and
+                  every customer. None of our products are mass produced but are
+                  created by talented &amp; loving hands ensuring quality,
+                  freshness and purity.
+                </p>
+                <h3>Technology Used</h3>
+                <ul className="portfolio-technology">
+                  <li>WordPress</li>
+                  <li>HTML</li>
+                  <li>PHP</li>
+                  <li>JavaScript</li>
+                  <li>CSS</li>
+                  <li>MySQL</li>
+                </ul>
+                <Link
+                  className="btn btn-yellowcolor mt-3"
+                  href="https://www.herbalcart.com/"
+                  target="_blank"
+                  rel="nofollow"
+                  tabIndex={-1}
+                >
+                  <i className="fi fi-rr-globe-pointer"></i> View Website
+                </Link>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+{/* 8 */}
+      <section
+        className="portfolio-sec"
+        style={{ background: "url(/images2/portfolio-bg8.png) #47b166" }}
+      >
+        <div className="container">
+          <div className="row">
+            <div className="col-md-6">
+              <div className="mghts" />
+            </div>
+            <div className="col-md-6">
+              <div className="inner">
+                <h2 className="title text-white">Capline Dental Services</h2>
+                <p className="text-white">
+                  Capline Dental, an end-to-end service provider, offers a full
+                  spectrum of services for dental practices, ranging from
+                  credentialing and insurance billing to insurance verification.
+                  We eliminate the day-to-day operational stress so that you can
+                  concentrate on smiles.
+                </p>
+                <h3>Technology Used</h3>
+                <ul className="portfolio-technology">
+                  <li>WordPress</li>
+                  <li>HTML</li>
+                  <li>PHP</li>
+                  <li>JavaScript</li>
+                  <li>CSS</li>
+                  <li>MySQL</li>
+                </ul>
+                <Link
+                  className="btn btn-yellowcolor mt-3"
+                  href="https://www.caplinedentalservices.com/"
+                  target="_blank"
+                  rel="nofollow"
+                  tabIndex={-1}
+                >
+                  <i className="fi fi-rr-globe-pointer"></i> View Website
+                </Link>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+{/* 13 */}
+      <section
+        className="portfolio-sec"
+        style={{ background: "url(/images2/portfolio-bg13.png) #e35a9e" }}
       >
         <div className="container">
           <div className="row">
@@ -596,49 +599,11 @@ export default function WebdevPortfolio() {
           </div>
         </div>
       </section>
+
+{/* 14 */}
       <section
         className="portfolio-sec"
-        style={{ background: "url(/images2/portfolio-bg14.webp) #47a9f4" }}
-      >
-        <div className="container">
-          <div className="row">
-            <div className="col-md-6">
-              <div className="mghts mghts2" />
-            </div>
-            <div className="col-md-6">
-              <div className="inner">
-                <h2 className="title text-white">Caves Valley Tech</h2>
-                <p className="text-white">
-                  Caves Valley Technologies (CVT) is dedicated to the global
-                  advancement of Smart Cities though high-technology solutions,
-                  market consulting, and education.
-                </p>
-                <h3>Technology Used</h3>
-                <ul className="portfolio-technology">
-                  <li>WordPress</li>
-                  <li>HTML</li>
-                  <li>PHP</li>
-                  <li>JavaScript</li>
-                  <li>CSS</li>
-                  <li>MySQL</li>
-                </ul>
-                <Link
-                  className="btn btn-yellowcolor mt-3"
-                  href="https://www.cavesvalleytech.com/"
-                  target="_blank"
-                  rel="nofollow"
-                  tabIndex={-1}
-                >
-                  <i className="fi fi-rr-globe-pointer"></i> View Website
-                </Link>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <section
-        className="portfolio-sec"
-        style={{ background: "url(/images2/portfolio-bg15.webp) #6847c9" }}
+        style={{ background: "url(/images2/portfolio-bg14.png) #6847c9" }}
       >
         <div className="container">
           <div className="row">
@@ -677,86 +642,7 @@ export default function WebdevPortfolio() {
           </div>
         </div>
       </section>
-      <section
-        className="portfolio-sec"
-        style={{ background: "url(/images2/portfolio-bg16.webp) #47b166" }}
-      >
-        <div className="container">
-          <div className="row">
-            <div className="col-md-6">
-              <div className="mghts mghts2" />
-            </div>
-            <div className="col-md-6">
-              <div className="inner">
-                <h2 className="title text-white">Factory Outlet Tooling</h2>
-                <p className="text-white">
-                  Factory Outlet Tooling . (FOTCNC) is a leading industrial
-                  manufacturing tool distributor for metalworkers, aerospace,
-                  oil &amp; gas, automotive, and job shop manufacturing.
-                </p>
-                <h3>Technology Used</h3>
-                <ul className="portfolio-technology">
-                  <li>WordPress</li>
-                  <li>HTML</li>
-                  <li>PHP</li>
-                  <li>JavaScript</li>
-                  <li>CSS</li>
-                  <li>MySQL</li>
-                </ul>
-                <Link
-                  className="btn btn-yellowcolor mt-3"
-                  href="https://jet.fotcnc.com/"
-                  target="_blank"
-                  rel="nofollow"
-                  tabIndex={-1}
-                >
-                  <i className="fi fi-rr-globe-pointer"></i> View Website
-                </Link>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <section
-        className="portfolio-sec"
-        style={{ background: "url(/images2/portfolio-bg17.webp) #e35a9e" }}
-      >
-        <div className="container">
-          <div className="row">
-            <div className="col-md-6">
-              <div className="mghts mghts4" />
-            </div>
-            <div className="col-md-6">
-              <div className="inner lstmg">
-                <h2 className="title text-white">Fegon Group</h2>
-                <p className="text-white">
-                  Fegon Group is a leading online electronics and e-commerce
-                  retailer in the US. It is also the {`world's`} fastest growing
-                  e-commerce tech company.
-                </p>
-                <h3>Technology Used</h3>
-                <ul className="portfolio-technology">
-                  <li>WordPress</li>
-                  <li>HTML</li>
-                  <li>PHP</li>
-                  <li>JavaScript</li>
-                  <li>CSS</li>
-                  <li>MySQL</li>
-                </ul>
-                <Link
-                  className="btn btn-yellowcolor mt-3"
-                  href="https://fegon-group.com/"
-                  target="_blank"
-                  rel="nofollow"
-                  tabIndex={-1}
-                >
-                  <i className="fi fi-rr-globe-pointer"></i> View Website
-                </Link>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+      
       <ContactSection />
     </>
   );
