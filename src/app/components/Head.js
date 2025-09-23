@@ -3,6 +3,11 @@ import Script from 'next/script'
 
 
 export default function Head() {
+  // const myJsonData = {
+  //   name: "John Doe",
+  //   age: 30,
+  //   city: "New York",
+  // };
   return (
     <>
         <Link href="https://cdnjs.cloudflare.com/ajax/libs/flat-ui/2.3.0/css/flat-ui.min.css" rel="stylesheet"></Link>
@@ -12,6 +17,15 @@ export default function Head() {
         <Script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></Script>
         <Script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js"></Script>
         <Script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"></Script>
+
+        {/* <Script
+          id="my-json-data"
+          type="application/json"
+          strategy="beforeInteractive"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(myJsonData),
+          }}
+        /> */}
     </>
   )
 }
