@@ -581,7 +581,7 @@ export default function Header(){
                                 </li>
                               </ul>
                             </div>
-                            <div className="mleft">
+                            {/* <div className="mleft">
                               <h3>LOCAL BASED SERVICES(IN)</h3>
                               <ul className="ullst">
                                 <li className="nav-item seo">
@@ -600,14 +600,6 @@ export default function Header(){
                                     Social Media Marketing Agency Delhi
                                   </Link>
                                 </li>
-                                {/* <li className="nav-item seo">
-                                  <Link
-                                    href="ppc-company-delhi.php"
-                                    className="nav-link dropdown-item"
-                                  >
-                                    PPC Company Delhi
-                                  </Link>
-                                </li> */}
                                 <li className="nav-item seo">
                                   <Link
                                     href="orm-services-delhi.php"
@@ -638,6 +630,51 @@ export default function Header(){
                                     className="nav-link dropdown-item"
                                   >
                                     Web Development Services Delhi
+                                  </Link>
+                                </li>
+                              </ul>
+                            </div> */}
+                            <div className="mleft">
+                              <h3>NEXT-GEN SEO</h3>
+                              <ul className="ullst">
+                                <li className="nav-item seo">
+                                  <Link
+                                    href="artificial-intelligence-optimization.php"
+                                    className="nav-link dropdown-item"
+                                  >
+                                    Artificial Intelligence Optimization
+                                  </Link>
+                                </li>
+                                <li className="nav-item seo">
+                                  <Link
+                                    href="large-language-model-optimization.php"
+                                    className="nav-link dropdown-item"
+                                  >
+                                    Large Language Model Optimization
+                                  </Link>
+                                </li>
+                                <li className="nav-item seo">
+                                  <Link
+                                    href="generative-engine-optimization.php"
+                                    className="nav-link dropdown-item"
+                                  >
+                                    Generative Engine Optimization
+                                  </Link>
+                                </li>
+                                <li className="nav-item seo">
+                                  <Link
+                                    href="search-experience-optimization.php"
+                                    className="nav-link dropdown-item"
+                                  >
+                                    Search Experience Optimization
+                                  </Link>
+                                </li>
+                                <li className="nav-item seo ">
+                                  <Link
+                                    href="answer-engine-optimization.php"
+                                    className="nav-link dropdown-item"
+                                  >
+                                    Answer Engine Optimization
                                   </Link>
                                 </li>
                               </ul>
