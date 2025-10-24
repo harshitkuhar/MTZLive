@@ -4,6 +4,7 @@ import { WebsiteFormValidation } from "../form_validation/Validation";
 import { useState } from 'react';
 import ButtonLoader from "../ButtonLoader";
 import { usePathname } from "next/navigation";
+import ReCAPTCHA from 'react-google-recaptcha';
 
 export default function ReputationForm(){
 
@@ -21,10 +22,24 @@ export default function ReputationForm(){
 
     const [isSubmitted, setIsSubmitted] = useState(false);
 
+    const [isVerified, setIsVerified] = useState(false);
+
+    const onReCAPTCHAChange = (value) => {
+        if (value) {
+            setIsVerified(true);
+        } else {
+            setIsVerified(false);
+        }
+    }
+
     const {values, errors, touched, handleBlur, handleChange, handleSubmit} = useFormik({
       initialValues: initialValues,
       validationSchema: WebsiteFormValidation,
       onSubmit: async function(values, { resetForm }){
+        if (!isVerified) {
+          alert('Please complete the captcha verification to proceed.');
+          return;
+        }
         setIsLoading(true);
         setIsSubmitted(false)
         const response = await fetch(`${process.env.NEXT_PUBLIC_REST_API_URL}/wp-json/mail/v1/send`, {
@@ -156,6 +171,9 @@ export default function ReputationForm(){
                       />
                       <p className="focus-border"></p>
                     </div>
+                  </div>
+                  <div className="form-row mb-4 ml-1">
+                      <ReCAPTCHA sitekey="6LdG6aMqAAAAABxKDu4RauCIDi-woxUW45owprTR" onChange={onReCAPTCHAChange}/>
                   </div>
                   <div className=" col-md-12 text-center">
                     {
