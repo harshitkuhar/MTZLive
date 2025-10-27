@@ -4,11 +4,11 @@ import HappyClients from "../components/HappyClients";
 import AuditForm from "../components/FormWithWebsiteField";
 
 export const metadata = {
-  title: "",
-  description: "",
-  keywords: "",
-  og_title: "",
-  og_description: "",
+  title: "Large Language Model Optimization | Mediatrenz SEO Experts",
+  description: "Mediatrenz helps your website perform better on AI-powered search systems. Optimize your content for large language models and improve your online presence.",
+  keywords: "Large Language Model Optimization",
+  og_title: "Large Language Model Optimization | Mediatrenz SEO Experts",
+  og_description: "Mediatrenz helps your website perform better on AI-powered search systems. Optimize your content for large language models and improve your online presence.",
   og_image: "",
   og_url: "",
   alternates: {

@@ -4,11 +4,11 @@ import HappyClients from "../components/HappyClients";
 import AuditForm from "../components/FormWithWebsiteField";
 
 export const metadata = {
-  title: "",
-  description: "",
-  keywords: "",
-  og_title: "",
-  og_description: "",
+  title: "Artificial Intelligence Optimization | Mediatrenz AI SEO",
+  description: "Use AI-based SEO to improve search performance. Mediatrenz helps you stay ahead with smart optimization that adapts to how search engines understand content.",
+  keywords: "Artificial Intelligence Optimization",
+  og_title: "Artificial Intelligence Optimization | Mediatrenz AI SEO",
+  og_description: "Use AI-based SEO to improve search performance. Mediatrenz helps you stay ahead with smart optimization that adapts to how search engines understand content.",
   og_image: "",
   og_url: "",
   alternates: {

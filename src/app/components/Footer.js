@@ -469,7 +469,7 @@ export default function Footer() {
                   <div className="">
                     <span>TALK TO OUR HR </span>
                     {/* <strong>Sheetal :</strong> +91-8851031128 <br></br> */}
-                    <strong>Surbhi :</strong> +91-8076009813 <br></br>
+                    <strong>Nancy :</strong> +91-8076009813 <br></br>
                     <strong>Pratishtha :</strong> +91-7011050185 <br></br>
                   </div>
                 </div>
@@ -1097,7 +1097,7 @@ export default function Footer() {
                       <strong>Sheetal :</strong> +91-8851031128
                     </div> */}
                     <div>
-                      <strong>Surbhi :</strong> +91-8076009813
+                      <strong>Nancy :</strong> +91-8076009813
                     </div>
                     <div>
                       <strong>Pratishtha :</strong> +91-7011050185

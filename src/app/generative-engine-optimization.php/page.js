@@ -4,11 +4,11 @@ import HappyClients from "../components/HappyClients";
 import AuditForm from "../components/FormWithWebsiteField";
 
 export const metadata = {
-  title: "",
-  description: "",
-  keywords: "",
-  og_title: "",
-  og_description: "",
+  title: "Generative Engine Optimization | Build Trust on AI Search",
+  description: "Mediatrenz uses Generative Engine Optimization to make your content visible on AI search platforms. Improve ranking, visibility, and user interaction with GEO.",
+  keywords: "Generative Engine Optimization",
+  og_title: "Generative Engine Optimization | Build Trust on AI Search",
+  og_description: "Mediatrenz uses Generative Engine Optimization to make your content visible on AI search platforms. Improve ranking, visibility, and user interaction with GEO.",
   og_image: "",
   og_url: "",
   alternates: {

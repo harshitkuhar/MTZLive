@@ -391,6 +391,52 @@ export default function Header(){
                         <div className="dropdown-menu megamenu half" role="menu">
                           <div className="clearfix center-align">
                             <div className="mleft" style={{ marginRight: 10 }}>
+                              <h3>NEXT-GEN SEO</h3>
+                              <ul className="ullst">
+                                <li className="nav-item seo">
+                                  <Link
+                                    href="artificial-intelligence-optimization.php"
+                                    className="nav-link dropdown-item"
+                                  >
+                                    AIO (Artificial Intelligence Optimization)
+                                  </Link>
+                                </li>
+                                <li className="nav-item seo">
+                                  <Link
+                                    href="large-language-model-optimization.php"
+                                    className="nav-link dropdown-item"
+                                  >
+                                    LLMO (Large Language Model Optimization)
+                                  </Link>
+                                </li>
+                                <li className="nav-item seo">
+                                  <Link
+                                    href="generative-engine-optimization.php"
+                                    className="nav-link dropdown-item"
+                                  >
+                                    GEO (Generative Engine Optimization)
+                                  </Link>
+                                </li>
+                                <li className="nav-item seo">
+                                  <Link
+                                    href="search-experience-optimization.php"
+                                    className="nav-link dropdown-item"
+                                  >
+                                    SXO (Search Experience Optimization)
+                                  </Link>
+                                </li>
+                                <li className="nav-item seo ">
+                                  <Link
+                                    href="answer-engine-optimization.php"
+                                    className="nav-link dropdown-item"
+                                  >
+                                    AEO (Answer Engine Optimization)
+                                  </Link>
+                                </li>
+                              </ul>
+                            </div>
+
+                            <div className="mleft" style={{ marginRight: 10 }}>
                               <h3>SEO Services</h3>
                               <ul className="ullst">
                                 <li className="nav-item seo active">
@@ -467,6 +513,7 @@ export default function Header(){
                                 </li>
                               </ul>
                             </div>
+
                             <div className="mleft" style={{ marginRight: 10 }}>
                               <h3>LOCAL BASED SERVICES(USA)</h3>
                               <ul className="ullst">
@@ -520,7 +567,8 @@ export default function Header(){
                                 </li>
                               </ul>
                             </div>
-                            <div className="mleft" style={{ marginRight: 10 }}>
+
+                            <div className="mleft">
                               <h3>SEO BY INDUSTRY</h3>
                               <ul className="ullst">
                                 <li className="nav-item seo">
@@ -577,104 +625,6 @@ export default function Header(){
                                     className="nav-link dropdown-item"
                                   >
                                     Education Firm SEO Services
-                                  </Link>
-                                </li>
-                              </ul>
-                            </div>
-                            {/* <div className="mleft">
-                              <h3>LOCAL BASED SERVICES(IN)</h3>
-                              <ul className="ullst">
-                                <li className="nav-item seo">
-                                  <Link
-                                    href="seo-services-delhi.php"
-                                    className="nav-link dropdown-item"
-                                  >
-                                    SEO Services Delhi
-                                  </Link>
-                                </li>
-                                <li className="nav-item seo">
-                                  <Link
-                                    href="social-media-marketing-agency-delhi.php"
-                                    className="nav-link dropdown-item"
-                                  >
-                                    Social Media Marketing Agency Delhi
-                                  </Link>
-                                </li>
-                                <li className="nav-item seo">
-                                  <Link
-                                    href="orm-services-delhi.php"
-                                    className="nav-link dropdown-item"
-                                  >
-                                    ORM Services Delhi
-                                  </Link>
-                                </li>
-                                <li className="nav-item seo">
-                                  <Link
-                                    href="local-seo-services-delhi.php"
-                                    className="nav-link dropdown-item"
-                                  >
-                                    Local SEO Services Delhi
-                                  </Link>
-                                </li>
-                                <li className="nav-item seo ">
-                                  <Link
-                                    href="web-design-services-delhi.php"
-                                    className="nav-link dropdown-item"
-                                  >
-                                    Web Design Services Delhi
-                                  </Link>
-                                </li>
-                                <li className="nav-item seo">
-                                  <Link
-                                    href="web-development-services-delhi.php"
-                                    className="nav-link dropdown-item"
-                                  >
-                                    Web Development Services Delhi
-                                  </Link>
-                                </li>
-                              </ul>
-                            </div> */}
-                            <div className="mleft">
-                              <h3>NEXT-GEN SEO</h3>
-                              <ul className="ullst">
-                                <li className="nav-item seo">
-                                  <Link
-                                    href="artificial-intelligence-optimization.php"
-                                    className="nav-link dropdown-item"
-                                  >
-                                    Artificial Intelligence Optimization
-                                  </Link>
-                                </li>
-                                <li className="nav-item seo">
-                                  <Link
-                                    href="large-language-model-optimization.php"
-                                    className="nav-link dropdown-item"
-                                  >
-                                    Large Language Model Optimization
-                                  </Link>
-                                </li>
-                                <li className="nav-item seo">
-                                  <Link
-                                    href="generative-engine-optimization.php"
-                                    className="nav-link dropdown-item"
-                                  >
-                                    Generative Engine Optimization
-                                  </Link>
-                                </li>
-                                <li className="nav-item seo">
-                                  <Link
-                                    href="search-experience-optimization.php"
-                                    className="nav-link dropdown-item"
-                                  >
-                                    Search Experience Optimization
-                                  </Link>
-                                </li>
-                                <li className="nav-item seo ">
-                                  <Link
-                                    href="answer-engine-optimization.php"
-                                    className="nav-link dropdown-item"
-                                  >
-                                    Answer Engine Optimization
                                   </Link>
                                 </li>
                               </ul>

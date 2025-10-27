@@ -4,11 +4,11 @@ import HappyClients from "../components/HappyClients";
 import AuditForm from "../components/FormWithWebsiteField";
 
 export const metadata = {
-  title: "",
-  description: "",
-  keywords: "",
-  og_title: "",
-  og_description: "",
+  title: "Search Experience Optimization | Improve Visibility with SEO",
+  description: "Mediatrenz focuses on Search Experience Optimization to create better search results for users. Improve your website visibility and user satisfaction.",
+  keywords: "Search Experience Optimization",
+  og_title: "Search Experience Optimization | Improve Visibility with SEO",
+  og_description: "Mediatrenz focuses on Search Experience Optimization to create better search results for users. Improve your website visibility and user satisfaction.",
   og_image: "",
   og_url: "",
   alternates: {
