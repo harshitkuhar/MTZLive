@@ -2,6 +2,8 @@ import Link from "next/link";
 import ContactSection from "../components/ContactSection";
 import HappyClients from "../components/HappyClients";
 import AuditForm from "../components/FormWithWebsiteField";
+import NextGenServices from "../components/NextGenServices";
+import BlogsAndFaqSectionForAEO from "../components/BlogsAndFaqSectionForAEO";
 
 export const metadata = {
   title: "Answer Engine Optimization | Get Noticed on AI Search",
@@ -150,111 +152,11 @@ export default function AnswerEngineOptimization() {
             </div>
           </div>
         </section>
-        <section className="bottomserviecs-sec">
-          <div className="container text-center">
-            <div className="row">
-              <div className="col-md-12 text-center title-mb">
-                <h4 className="element-subtitle text-white">Our Services</h4>
-                <h2 className="title text-white">We Build Brands With Our Best Services</h2>
-              </div>
-            </div>
-            <div className="row mmt-30 text-left">
-              <div className="col-lg-4 col-md-6 col-sm-6 col-6 col-414full mt-30">
-                <div className="intro-ser-col">
-                  <Link href="affordable-seo-services.php">
-                    <div className="headtl">
-                      <div className="icon-box"><i className="fi fi-ts-bullseye-arrow" /></div>
-                      <div className="icon-boxtext">AFFORDABLE SEO SERVICES</div>
-                    </div>
-                    <div className="icnbox-box-no">01</div>
-                    <p>We have the top-level performance SEO plans, which are not just affordable...</p>
-                  </Link><div className="btn-link1"><Link href="https://mediatrenz.com/affordable-seo-services.php">Read More<span className="flaticon-right-arrow" /></Link></div> 
-                </div> 
-              </div>
-              <div className="col-lg-4 col-md-6 col-sm-6 col-6 col-414full mt-30">
-                <div className="intro-ser-col">
-                  <Link href="organic-seo-services.php">
-                    <div className="headtl">
-                      <div className="icon-box"><i className="fi fi-ts-bullseye-arrow" /></div>
-                      <div className="icon-boxtext">ORGANIC SEO SERVICES</div>
-                    </div>
-                    <div className="icnbox-box-no">02</div>
-                    <p>Once you have Organic SEO practices by your side, you don’t have to...</p>
-                  </Link><div className="btn-link1"><Link href="https://mediatrenz.com/organic-seo-services.php">Read More<span className="flaticon-right-arrow" /></Link></div> 
-                </div> 
-              </div>
-              <div className="col-lg-4 col-md-6 col-sm-6 col-6 col-414full mt-30">
-                <div className="intro-ser-col">
-                  <Link href="professional-seo-services.php">
-                    <div className="headtl">
-                      <div className="icon-box"><i className="fi fi-ts-bullseye-arrow" /></div>
-                      <div className="icon-boxtext">PROFESSIONAL SEO SERVICES</div>
-                    </div>
-                    <div className="icnbox-box-no">03</div>
-                    <p>We always believe in the power of human-first SEO strategies, which...</p>
-                  </Link><div className="btn-link1"><Link href="https://mediatrenz.com/professional-seo-services.php">Read More<span className="flaticon-right-arrow" /></Link></div> 
-                </div> 
-              </div>
-              <div className="col-lg-4 col-md-6 col-sm-6 col-6 col-414full mt-30">
-                <div className="intro-ser-col">
-                  <Link href="seo-consulting-firm.php">
-                    <div className="headtl">
-                      <div className="icon-box"><i className="fi fi-ts-bullseye-arrow" /></div>
-                      <div className="icon-boxtext">SEO CONSULTING FIRM</div>
-                    </div>
-                    <div className="icnbox-box-no">04</div>
-                    <p>If you want to stand out in the crowd, your website needs that competitive...</p>
-                  </Link><div className="btn-link1"><Link href="https://mediatrenz.com/seo-consulting-firm.php">Read More<span className="flaticon-right-arrow" /></Link></div> 
-                </div> 
-              </div>
-              <div className="col-lg-4 col-md-6 col-sm-6 col-6 col-414full mt-30">
-                <div className="intro-ser-col">
-                  <Link href="seo-marketing-firm.php">
-                    <div className="headtl">
-                      <div className="icon-box"><i className="fi fi-ts-bullseye-arrow" /></div>
-                      <div className="icon-boxtext">SEO MARKETING FIRM</div>
-                    </div>
-                    <div className="icnbox-box-no">05</div>
-                    <p>Without any of the ethical practices, all the benefits that will come your...</p>
-                  </Link><div className="btn-link1"><Link href="https://mediatrenz.com/seo-marketing-firm.php">Read More<span className="flaticon-right-arrow" /></Link></div> 
-                </div> 
-              </div>
-              <div className="col-lg-4 col-md-6 col-sm-6 col-6 col-414full mt-30">
-                <div className="intro-ser-col">
-                  <Link href="seo-optimization-services.php">
-                    <div className="headtl">
-                      <div className="icon-box"><i className="fi fi-ts-bullseye-arrow" /></div>
-                      <div className="icon-boxtext">SEO OPTIMIZATION SERVICES</div>
-                    </div>
-                    <div className="icnbox-box-no">06</div>
-                    <p>Before you proceed further, let us give you a note of the best Website...</p>
-                  </Link><div className="btn-link1"><Link href="https://mediatrenz.com/seo-optimization-services.php">Read More<span className="flaticon-right-arrow" /></Link></div> 
-                </div> 
-              </div>   
-            </div>
-          </div>
-        </section>
-        <div className="see-our-result">
-          <div className="container">
-            <div className="row">
-              <div className="col-md-12">
-                <div className="heading">
-                  <div className="title text-white">Check our Creative Work</div>
-                </div>
-              </div>
-            </div>
-            <div className="row">
-              <div className="col-md-12">
-                <div className="see-result-btn">
-                  <Link href="https://mediatrenz.com/seo-portfolio.php">SEO Portfolio<span> *</span></Link>
-                  <Link href="https://mediatrenz.com/web-development-portfolio.php">Web Portfolio<span> *</span></Link>
-                  <Link href="https://mediatrenz.com/mobile-app-portfolio.php">App Portfolio<span> *</span></Link>
-                  <Link href="https://mediatrenz.com/testimonials.php">Testimonials<span> *</span></Link>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+
+        <NextGenServices/>
+
+        <BlogsAndFaqSectionForAEO/>
+
         <HappyClients />
         <ContactSection />
     </>

@@ -198,13 +198,23 @@ export default function Header(){
                     </button>
                     <div className={`collapse navbar-collapse ${showMenu ? 'show' : ''}`} id="main_nav">
                        <ul className="navbar-nav">
-                          <li className="nav-item dropdown">
+                          {/* <li className="nav-item dropdown">
                             <Link
                               href="mobile-virtual-assistant.php"
                               className="nav-link ln"
                               onClick={() => setShowMenu(false)}
                             >
                               VIRTUAL ASSISTANT
+                            </Link>
+                          </li> */}
+
+                          <li className="nav-item dropdown">
+                            <Link
+                              href="next-gen-seo.php"
+                              className="nav-link ln"
+                              onClick={() => setShowMenu(false)}
+                            >
+                              NEXT-GEN SEO
                             </Link>
                           </li>
 
