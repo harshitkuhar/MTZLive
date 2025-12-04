@@ -34,7 +34,7 @@ export default function Seomobiletable() {
                     </div>
                     <div className="packord">
                       <Link
-                        href="https://buy.stripe.com/dR66rE02qbCRfew5kk"
+                        href="#"
                         target="_blank"
                         className="btn btn-maincolor"
                       >
@@ -865,7 +865,7 @@ export default function Seomobiletable() {
                     </div>
                     <div className="packord">
                       <Link
-                        href="https://buy.stripe.com/eVa6rEeXk5et4zSbIJ"
+                        href="#"
                         target="_blank"
                         className="btn btn-maincolor"
                       >
@@ -1688,7 +1688,7 @@ export default function Seomobiletable() {
                     </div>
                     <div className="packord">
                       <Link
-                        href="https://buy.stripe.com/7sI5nAg1ogXbfew4gi"
+                        href="#"
                         target="_blank"
                         className="btn btn-maincolor"
                       >
@@ -2499,7 +2499,7 @@ export default function Seomobiletable() {
                     </div>
                     <div className="packord">
                       <Link
-                        href="https://buy.stripe.com/4gwcQ2aH47mB2rK3cf"
+                        href="#"
                         target="_blank"
                         className="btn btn-maincolor"
                       >
@@ -3308,7 +3308,7 @@ export default function Seomobiletable() {
                     </div>
                     <div className="packord">
                       <Link
-                        href="https://buy.stripe.com/aEU17kcPc7mB6I0dQU"
+                        href="#"
                         target="_blank"
                         className="btn btn-maincolor"
                       >
