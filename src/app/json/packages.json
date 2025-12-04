@@ -25,8 +25,8 @@
         "title": "<h2 class='text-uppercase'>SEO Starter</h2>",
         "price": "<h1><sup>$</sup>349<small>/mo</small></h1>",
         "keyword": "<p><strong>20 Keywords</strong></p>",
-        "paybtn": "<a href='https://buy.stripe.com/6oE4jQ7yhfjCbV6003' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='https://buy.stripe.com/dR66rE02qbCRfew5kk' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn": "<a href='#' target='_blank' class='btn btn-maincolor'>Order Now</a>",
+        "paybtn2": "<a href='#' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       },
       {
         "number": "3",
@@ -34,8 +34,8 @@
         "title": "<h2 class='text-uppercase'>SEO Booster</h2>",
         "price": "<h1><sup>$</sup>599<small>/mo</small></h1>",
         "keyword": "<p><strong>40 Keywords</strong></p>",
-        "paybtn": "<a href='https://buy.stripe.com/3cs9Ea2dXdbu9MYeUY' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='https://buy.stripe.com/eVa6rEeXk5et4zSbIJ' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn": "<a href='#' target='_blank' class='btn btn-maincolor'>Order Now</a>",
+        "paybtn2": "<a href='#' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       },
       {
         "number": "4",
@@ -43,8 +43,8 @@
         "title": "<h2 class='text-uppercase'>SEO Speed</h2>",
         "price": "<h1><sup>$</sup>999<small>/mo</small></h1>",
         "keyword": "<p><strong>80 Keywords</strong></p>",
-        "paybtn": "<a href='https://buy.stripe.com/bIYcQm2dXgnGf7i005' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='https://buy.stripe.com/7sI5nAg1ogXbfew4gi' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn": "<a href='#' target='_blank' class='btn btn-maincolor'>Order Now</a>",
+        "paybtn2": "<a href='#' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       },
       {
         "number": "5",
@@ -52,8 +52,8 @@
         "title": "<h2 class='text-uppercase'>SEO edge</h2>",
         "price": "<h1><sup>$</sup>1299<small>/mo</small></h1>",
         "keyword": "<p><strong>100 Keywords</strong></p>",
-        "paybtn": "<a href='https://buy.stripe.com/cN25nUbOx2wQ5wI5kq' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='https://buy.stripe.com/4gwcQ2aH47mB2rK3cf' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn": "<a href='#' target='_blank' class='btn btn-maincolor'>Order Now</a>",
+        "paybtn2": "<a href='#' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       },
       {
         "number": "6",
@@ -61,8 +61,8 @@
         "title": "<h2 class='text-uppercase'>SEO Prime</h2>",
         "price": "<h1><sup>$</sup>1499<small>/mo</small></h1>",
         "keyword": "<p><strong>120 Keywords</strong></p>",
-        "paybtn": "<a href='https://buy.stripe.com/14k2bI2dX6N6f7i007' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='https://buy.stripe.com/aEU17kcPc7mB6I0dQU' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn": "<a href='#' target='_blank' class='btn btn-maincolor'>Order Now</a>",
+        "paybtn2": "<a href='#' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       }
     ],
     "fbsec_bg_img": "/images2/3.webp",
