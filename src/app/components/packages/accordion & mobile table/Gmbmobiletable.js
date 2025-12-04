@@ -30,9 +30,8 @@ export default function Gmbmobiletable() {
             </div>
             <div className="packord">
               <Link
-                href="javascript:void(0)"
-                data-toggle="modal"
-                data-target="#ordermodal"
+                href="https://buy.stripe.com/14keYu7yh8Ve9MYeV6"
+                target="_blank"
                 className="btn btn-maincolor"
               >
                 Order Now
@@ -446,9 +445,8 @@ export default function Gmbmobiletable() {
             </div>
             <div className="packord">
               <Link
-                href="javascript:void(0)"
-                data-toggle="modal"
-                data-target="#ordermodal"
+                href="https://buy.stripe.com/4gw7w205Pb3mcZa4gt"
+                target="_blank"
                 className="btn btn-maincolor"
               >
                 Order Now
@@ -862,9 +860,8 @@ export default function Gmbmobiletable() {
             </div>
             <div className="packord">
               <Link
-                href="javascript:void(0)"
-                data-toggle="modal"
-                data-target="#ordermodal"
+                href="https://buy.stripe.com/cN203A4m57Raf7i7sG"
+                target="_blank"
                 className="btn btn-maincolor"
               >
                 Order Now

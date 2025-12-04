@@ -40,9 +40,8 @@ export default function Asomobiletable() {
             </div>
             <div className="packord">
               <Link
-                href="javascript:void(0)"
-                data-toggle="modal"
-                data-target="#ordermodal"
+                href="https://buy.stripe.com/4gw3fM8Clc7q6AMaF0"
+                target="_blank"
                 className="btn btn-maincolor"
               >
                 Order Now
@@ -491,9 +490,8 @@ export default function Asomobiletable() {
             </div>
             <div className="packord">
               <Link
-                href="javascript:void(0)"
-                data-toggle="modal"
-                data-target="#ordermodal"
+                href="https://buy.stripe.com/3csdUq7yhgnG6AMbJ5"
+                target="_blank"
                 className="btn btn-maincolor"
               >
                 Order Now
@@ -941,9 +939,8 @@ export default function Asomobiletable() {
             </div>
             <div className="packord">
               <Link
-                href="javascript:void(0)"
-                data-toggle="modal"
-                data-target="#ordermodal"
+                href="https://buy.stripe.com/aEU4jQf0JefybV628w"
+                target="_blank"
                 className="btn btn-maincolor"
               >
                 Order Now

@@ -36,9 +36,8 @@ export default function Smomobiletable() {
                   }}
                 >
                   <Link
-                    href="javascript:void(0)"
-                    data-toggle="modal"
-                    data-target="#ordermodal"
+                    href="https://buy.stripe.com/00geYu6ud9Zif7ieV2"
+                    target="_blank"
                     className="btn btn-maincolor"
                   >
                     Order Now
@@ -872,9 +871,8 @@ export default function Smomobiletable() {
                   }}
                 >
                   <Link
-                    href="javascript:void(0)"
-                    data-toggle="modal"
-                    data-target="#ordermodal"
+                    href="https://buy.stripe.com/00gbMibOx7Ra2kw5kt"
+                    target="_blank"
                     className="btn btn-maincolor"
                   >
                     Order Now
@@ -1708,9 +1706,8 @@ export default function Smomobiletable() {
                   }}
                 >
                   <Link
-                    href="javascript:void(0)"
-                    data-toggle="modal"
-                    data-target="#ordermodal"
+                    href="https://buy.stripe.com/5kA5nU7yhc7q8IU8wG"
+                    target="_blank"
                     className="btn btn-maincolor"
                   >
                     Order Now
@@ -2544,9 +2541,8 @@ export default function Smomobiletable() {
                   }}
                 >
                   <Link
-                    href="javascript:void(0)"
-                    data-toggle="modal"
-                    data-target="#ordermodal"
+                    href="https://buy.stripe.com/bIYg2y9Gpb3m1gs7sD"
+                    target="_blank"
                     className="btn btn-maincolor"
                   >
                     Order Now

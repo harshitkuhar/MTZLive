@@ -25,8 +25,8 @@
         "title": "<h2 class='text-uppercase'>SEO Starter</h2>",
         "price": "<h1><sup>$</sup>349<small>/mo</small></h1>",
         "keyword": "<p><strong>20 Keywords</strong></p>",
-        "paybtn": "<a href='#' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='#' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn": "<a href='https://buy.stripe.com/6oE4jQ7yhfjCbV6003' target='_blank' class='btn btn-maincolor'>Order Now</a>",
+        "paybtn2": "<a href='https://buy.stripe.com/6oE4jQ7yhfjCbV6003' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       },
       {
         "number": "3",
@@ -34,8 +34,8 @@
         "title": "<h2 class='text-uppercase'>SEO Booster</h2>",
         "price": "<h1><sup>$</sup>599<small>/mo</small></h1>",
         "keyword": "<p><strong>40 Keywords</strong></p>",
-        "paybtn": "<a href='#' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='#' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn": "<a href='https://buy.stripe.com/3cs9Ea2dXdbu9MYeUY' target='_blank' class='btn btn-maincolor'>Order Now</a>",
+        "paybtn2": "<a href='https://buy.stripe.com/3cs9Ea2dXdbu9MYeUY' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       },
       {
         "number": "4",
@@ -43,8 +43,8 @@
         "title": "<h2 class='text-uppercase'>SEO Speed</h2>",
         "price": "<h1><sup>$</sup>999<small>/mo</small></h1>",
         "keyword": "<p><strong>80 Keywords</strong></p>",
-        "paybtn": "<a href='#' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='#' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn": "<a href='https://buy.stripe.com/bIYcQm2dXgnGf7i005' target='_blank' class='btn btn-maincolor'>Order Now</a>",
+        "paybtn2": "<a href='https://buy.stripe.com/bIYcQm2dXgnGf7i005' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       },
       {
         "number": "5",
@@ -52,8 +52,8 @@
         "title": "<h2 class='text-uppercase'>SEO edge</h2>",
         "price": "<h1><sup>$</sup>1299<small>/mo</small></h1>",
         "keyword": "<p><strong>100 Keywords</strong></p>",
-        "paybtn": "<a href='#' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='#' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn": "<a href='https://buy.stripe.com/cN25nUbOx2wQ5wI5kq' target='_blank' class='btn btn-maincolor'>Order Now</a>",
+        "paybtn2": "<a href='https://buy.stripe.com/cN25nUbOx2wQ5wI5kq' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       },
       {
         "number": "6",
@@ -61,8 +61,8 @@
         "title": "<h2 class='text-uppercase'>SEO Prime</h2>",
         "price": "<h1><sup>$</sup>1499<small>/mo</small></h1>",
         "keyword": "<p><strong>120 Keywords</strong></p>",
-        "paybtn": "<a href='#' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='#' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn": "<a href='https://buy.stripe.com/14k2bI2dX6N6f7i007' target='_blank' class='btn btn-maincolor'>Order Now</a>",
+        "paybtn2": "<a href='https://buy.stripe.com/14k2bI2dX6N6f7i007' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       }
     ],
     "fbsec_bg_img": "/images2/3.webp",
@@ -136,7 +136,7 @@
         "title": "<h2 class='text-uppercase'>SMO SILVER</h2>",
         "price": "<h1><sup>$</sup>280<small>/mo</small></h1>",
         "paybtn": "<a href='https://buy.stripe.com/00geYu6ud9Zif7ieV2' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='https://buy.stripe.com/5kA17k6qO7mB8Q85kr' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn2": "<a href='https://buy.stripe.com/00geYu6ud9Zif7ieV2' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       },
       {
         "number": "3",
@@ -144,7 +144,7 @@
         "title": "<h2 class='text-uppercase'>SMO GOLD</h2>",
         "price": "<h1><sup>$</sup>480<small>/mo</small></h1>",
         "paybtn": "<a href='https://buy.stripe.com/00gbMibOx7Ra2kw5kt' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='https://buy.stripe.com/cN28zM5mK8qFfew4go' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn2": "<a href='https://buy.stripe.com/00gbMibOx7Ra2kw5kt' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       },
       {
         "number": "4",
@@ -152,7 +152,7 @@
         "title": "<h2 class='text-uppercase'>SMO PLATINUM</h2>",
         "price": "<h1><sup>$</sup>780<small>/mo</small></h1>",
         "paybtn": "<a href='https://buy.stripe.com/5kA5nU7yhc7q8IU8wG' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='https://buy.stripe.com/3cs3fseXkbCR5DW14d' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn2": "<a href='https://buy.stripe.com/5kA5nU7yhc7q8IU8wG' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       },
       {
         "number": "5",
@@ -160,7 +160,7 @@
         "title": "<h2 class='text-uppercase'>SMO DIAMOND</h2>",
         "price": "<h1><sup>$</sup>1180<small>/mo</small></h1>",
         "paybtn": "<a href='https://buy.stripe.com/bIYg2y9Gpb3m1gs7sD' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='https://buy.stripe.com/cN2dU62ay9uJc2kaEO' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn2": "<a href='https://buy.stripe.com/bIYg2y9Gpb3m1gs7sD' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       }
     ]
   },
@@ -192,7 +192,7 @@
         "price": "<h1><sup>$</sup>200<small>/mo</small></h1>",
         "keyword": "<p><strong>2 Keywords</strong></p>",
         "paybtn": "<a href='https://buy.stripe.com/14keYu7yh8Ve9MYeV6' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='https://buy.stripe.com/9AQ9DQaH4bCR7M44gr' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn2": "<a href='https://buy.stripe.com/14keYu7yh8Ve9MYeV6' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       },
       {
         "number": "3",
@@ -201,7 +201,7 @@
         "price": "<h1><sup>$</sup>350<small>/mo</small></h1>",
         "keyword": "<p><strong>5 Keywords</strong></p>",
         "paybtn": "<a href='https://buy.stripe.com/4gw7w205Pb3mcZa4gt' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='https://buy.stripe.com/dR62bo8yWeP37M47sE' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn2": "<a href='https://buy.stripe.com/4gw7w205Pb3mcZa4gt' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       },
       {
         "number": "4",
@@ -210,7 +210,7 @@
         "price": "<h1><sup>$</sup>500<small>/mo</small></h1>",
         "keyword": "<p><strong>10 Keywords</strong></p>",
         "paybtn": "<a href='https://buy.stripe.com/cN203A4m57Raf7i7sG' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='https://buy.stripe.com/4gwbLYeXk7mBc2k9AN' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn2": "<a href='https://buy.stripe.com/cN203A4m57Raf7i7sG' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       }
     ],
     "ormsec2_heading": "MORE ABOUT OUR GMB PACKAGES:",
@@ -253,7 +253,7 @@
         "title": "<h2 class='text-uppercase'>ORM Silver</h2>",
         "price": "<h1><sup>$</sup>380<small>/mo</small></h1>",
         "paybtn": "<a href='https://buy.stripe.com/14keYu19Tc7q5wI6oD' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='https://buy.stripe.com/5kA6rEg1o5etc2kdR4' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn2": "<a href='https://buy.stripe.com/14keYu19Tc7q5wI6oD' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       },
       {
         "number": "3",
@@ -261,15 +261,15 @@
         "title": "<h2 class='text-uppercase'>ORM Gold</h2>",
         "price": "<h1><sup>$</sup>680<small>/mo</small></h1>",
         "paybtn": "<a href='https://buy.stripe.com/5kAbMi4m5b3mgbmdR6' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='https://buy.stripe.com/00gcQ2bL80Yd8Q86oD' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn2": "<a href='https://buy.stripe.com/5kAbMi4m5b3mgbmdR6' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       },
       {
         "number": "4",
         "img": "<img src='images2/p-booster.webp' alt='ORM Packages'>",
         "title": "<h2 class='text-uppercase'>ORM Platimun</h2>",
         "price": "<h1><sup>$</sup>980<small>/mo</small></h1>",
-        "paybtn": "<a href='https://buy.stripe.com/bIYcQm2dXgnGf7i005' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='https://buy.stripe.com/6oE17k3eCcGVfew5kA' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn": "<a href='https://buy.stripe.com/eVa4jQ7yh1sM9MYfZf' target='_blank' class='btn btn-maincolor'>Order Now</a>",
+        "paybtn2": "<a href='https://buy.stripe.com/eVa4jQ7yh1sM9MYfZf' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       },
       {
         "number": "5",
@@ -277,7 +277,7 @@
         "title": "<h2 class='text-uppercase'>ORM Diamond</h2>",
         "price": "<h1><sup>$</sup>1280<small>/mo</small></h1>",
         "paybtn": "<a href='https://buy.stripe.com/4gw8A68Cl5J2e3e5kC' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='https://buy.stripe.com/5kA9DQ16u0Yd6I05kB' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn2": "<a href='https://buy.stripe.com/4gw8A68Cl5J2e3e5kC' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       }
     ],
     "ormsec2_heading": "ORM Packages India – Keeping A Check On Your Brand’s Reputation",
@@ -346,7 +346,7 @@
         "title": "<h2 class='text-uppercase'>PPC Silver</h2>",
         "price": "<p>Minimum of</p><h1><sup>$</sup>249<small>/mo</small></h1></h2>",
         "paybtn": "<a href='https://buy.stripe.com/9AQ03A9Gp6N6e3efZh' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='https://buy.stripe.com/28o7vIaH44ap9Uc00n' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn2": "<a href='https://buy.stripe.com/9AQ03A9Gp6N6e3efZh' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       },
       {
         "number": "3",
@@ -354,7 +354,7 @@
         "title": "<h2 class='text-uppercase'>PPC GOLD</h2>",
         "price": "<p>Minimum of</p><h1><sup>$</sup>449<small>/mo</small></h1>",
         "paybtn": "<a href='https://buy.stripe.com/4gw17E6ud6N67EQ8wQ' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='https://buy.stripe.com/dR617k02q6ixc2k3cy' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn2": "<a href='https://buy.stripe.com/4gw17E6ud6N67EQ8wQ' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       },
       {
         "number": "4",
@@ -362,7 +362,7 @@
         "title": "<h2 class='text-uppercase'>PPC PLATINUM</h2>",
         "price": "<p>Minimum of</p><h1><sup>$</sup>649<small>/mo</small></h1>",
         "paybtn": "<a href='https://buy.stripe.com/00gcQm19TgnG5wIbJ3' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='https://buy.stripe.com/cN28zM02q4ap9Uc5kF' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn2": "<a href='https://buy.stripe.com/00gcQm19TgnG5wIbJ3' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       }
     ]
   },
@@ -398,7 +398,7 @@
         "platform": "<p> <strong>iOS or Android Platform</strong> </p>",
         "proposed": "<p> <strong>6 Months</strong> </p>",
         "paybtn": "<a href='https://buy.stripe.com/4gw3fM8Clc7q6AMaF0' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='https://buy.stripe.com/9AQ4jwcPc6ix7M45kE' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn2": "<a href='https://buy.stripe.com/4gw3fM8Clc7q6AMaF0' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       },
       {
         "number": "3",
@@ -409,7 +409,7 @@
         "platform": "<p> <strong>iOS or Android Platform</strong> </p>",
         "proposed": "<p> <strong>6 Months</strong> </p>",
         "paybtn": "<a href='https://buy.stripe.com/3csdUq7yhgnG6AMbJ5' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='https://buy.stripe.com/3csaHU02qdKZ7M45kD' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn2": "<a href='https://buy.stripe.com/3csdUq7yhgnG6AMbJ5' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       },
       {
         "number": "4",
@@ -420,7 +420,7 @@
         "platform": "<p> <strong>iOS or Android Platform</strong> </p>",
         "proposed": "<p> <strong>6 Months</strong> </p>",
         "paybtn": "<a href='https://buy.stripe.com/aEU4jQf0JefybV628w' target='_blank' class='btn btn-maincolor'>Order Now</a>",
-        "paybtn2": "<a href='https://buy.stripe.com/aEU7vIcPceP31nGcN4' target='_blank' class='btn btn-maincolor'>Order Now</a>"
+        "paybtn2": "<a href='https://buy.stripe.com/aEU4jQf0JefybV628w' target='_blank' class='btn btn-maincolor'>Order Now</a>"
       }
     ]
   }

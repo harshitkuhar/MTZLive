@@ -32,9 +32,8 @@ export default function Ormmobiletable() {
                 }}
               >
                 <Link
-                  href="javascript:void(0)"
-                  data-toggle="modal"
-                  data-target="#ordermodal"
+                  href="https://buy.stripe.com/14keYu19Tc7q5wI6oD"
+                  target="_blank"
                   className="btn btn-maincolor"
                 >
                   Order Now
@@ -576,9 +575,8 @@ export default function Ormmobiletable() {
                 }}
               >
                 <Link
-                  href="javascript:void(0)"
-                  data-toggle="modal"
-                  data-target="#ordermodal"
+                  href="https://buy.stripe.com/5kAbMi4m5b3mgbmdR6"
+                  target="_blank"
                   className="btn btn-maincolor"
                 >
                   Order Now
@@ -1120,9 +1118,8 @@ export default function Ormmobiletable() {
                 }}
               >
                 <Link
-                  href="javascript:void(0)"
-                  data-toggle="modal"
-                  data-target="#ordermodal"
+                  href="https://buy.stripe.com/eVa4jQ7yh1sM9MYfZf"
+                  target="_blank"
                   className="btn btn-maincolor"
                 >
                   Order Now
@@ -1656,9 +1653,8 @@ export default function Ormmobiletable() {
                 }}
               >
                 <Link
-                  href="javascript:void(0)"
-                  data-toggle="modal"
-                  data-target="#ordermodal"
+                  href="https://buy.stripe.com/4gw8A68Cl5J2e3e5kC"
+                  target="_blank"
                   className="btn btn-maincolor"
                 >
                   Order Now

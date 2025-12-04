@@ -37,9 +37,8 @@ export default function Ppcmobiletable() {
                   }}
                 >
                   <Link
-                    href="javascript:void(0)"
-                    data-toggle="modal"
-                    data-target="#ordermodal"
+                    href="https://buy.stripe.com/9AQ03A9Gp6N6e3efZh"
+                    target="_blank"
                     className="btn btn-maincolor"
                   >
                     Order Now
@@ -459,9 +458,8 @@ export default function Ppcmobiletable() {
                   }}
                 >
                   <Link
-                    href="javascript:void(0)"
-                    data-toggle="modal"
-                    data-target="#ordermodal"
+                    href="https://buy.stripe.com/4gw17E6ud6N67EQ8wQ"
+                    target="_blank"
                     className="btn btn-maincolor"
                   >
                     Order Now
@@ -877,9 +875,8 @@ export default function Ppcmobiletable() {
                   }}
                 >
                   <Link
-                    href="javascript:void(0)"
-                    data-toggle="modal"
-                    data-target="#ordermodal"
+                    href="https://buy.stripe.com/00gcQm19TgnG5wIbJ3"
+                    target="_blank"
                     className="btn btn-maincolor"
                   >
                     Order Now
