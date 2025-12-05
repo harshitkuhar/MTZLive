@@ -147,7 +147,7 @@ export default function Packagesmobile() {
                 </div>
               </div>
             </div>
-            {/* <div className="col-lg-4 col-md-6 col-sm-6 col-6 col-414full mt-30">
+            <div className="col-lg-4 col-md-6 col-sm-6 col-6 col-414full mt-30">
               <div className="intro-ser-col">
                 <Link href="/ppc-packages.php">
                   <div className="headtl">
@@ -169,7 +169,7 @@ export default function Packagesmobile() {
                   </Link>
                 </div>
               </div>
-            </div> */}
+            </div>
             <div className="col-lg-4 col-md-6 col-sm-6 col-6 col-414full mt-30">
               <div className="intro-ser-col">
                 <Link href="/aso-packages.php">

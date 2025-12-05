@@ -37,7 +37,7 @@ export default function Ppcmobiletable() {
                   }}
                 >
                   <Link
-                    href="https://buy.stripe.com/9AQ03A9Gp6N6e3efZh"
+                    href="https://buy.stripe.com/5kQ00kdYTeAT9HecMx1440q"
                     target="_blank"
                     className="btn btn-maincolor"
                   >
@@ -458,7 +458,7 @@ export default function Ppcmobiletable() {
                   }}
                 >
                   <Link
-                    href="https://buy.stripe.com/4gw17E6ud6N67EQ8wQ"
+                    href="https://buy.stripe.com/fZuaEYf2X1O77z66o91440r"
                     target="_blank"
                     className="btn btn-maincolor"
                   >
@@ -875,7 +875,7 @@ export default function Ppcmobiletable() {
                   }}
                 >
                   <Link
-                    href="https://buy.stripe.com/00gcQm19TgnG5wIbJ3"
+                    href="https://buy.stripe.com/9B63cwcUPdwPcTq27T1440s"
                     target="_blank"
                     className="btn btn-maincolor"
                   >
