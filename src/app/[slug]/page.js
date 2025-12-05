@@ -238,7 +238,7 @@ export default function AllPages({ params }) {
         params.slug == "smo-packages.php" ||
         params.slug == "local-seo-packages.php" ||
         params.slug == "orm-packages.php" ||
-        params.slug == "ppc-packages.php--HiddenPage" || // This page has been hidden
+        params.slug == "ppc-packages.php" || // This page has been hidden
         params.slug == "aso-packages.php") {
         return (
           <>
